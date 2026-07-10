@@ -1,1202 +1,3595 @@
-Language: en (p=1.00)
+Language: zh (p=1.00)
 ==================================================
-[0.0s -> 5.0s] So, if we run, it's not possible to go to the other side.
-[5.0s -> 7.0s] Yes, it's possible to go to the other side.
-[7.0s -> 9.0s] Because we need to know how to record, I don't know.
-[9.0s -> 12.0s] So, we need to know how to record the second stage.
-[12.0s -> 17.0s] And we need to know how to record the second stage.
-[17.0s -> 19.0s] So, we need to see the situation.
-[19.0s -> 23.0s] So, if they are running,
-[23.0s -> 27.0s] then they will have a strong singing ability.
-[27.0s -> 30.0s] And then they will run together.
-[30.0s -> 32.0s] They will run together.
-[32.0s -> 34.0s] Okay, I'll read a few questions.
-[34.0s -> 37.0s] I think that Rui Yang is in this stage.
-[37.0s -> 41.0s] Because he is actually in the part of the check.
-[41.0s -> 43.0s] It seems like he is a singer.
-[43.0s -> 46.0s] It's like he's in the top of the check.
-[46.0s -> 51.0s] So, he's not able to go out of control.
-[51.0s -> 55.0s] But he's in the middle of the check.
-[55.0s -> 58.0s] And he would listen to an appropriate example.
-[58.0s -> 63.0s] I think that the first 5 simple things from us could be simple,
-[63.0s -> 65.0s] or related, or our things could be complicated,
-[65.0s -> 73.0s] but through the acting process of our performance I think that the process has completely different,...
-[73.0s -> 77.0s] ... visibility between our singing and the 2 opportunities.
-[77.0s -> 81.0s] But in fact, Rui's own democracy is a local democratization.
-[81.0s -> 83.0s] So it's basically the same thing.
-[83.0s -> 86.0s] And all of our students are all independent.
-[86.0s -> 89.0s] We don't have to do anything else.
-[89.0s -> 91.0s] It's the same thing.
-[91.0s -> 92.0s] So actually,
-[92.0s -> 95.0s] it's not too bad for her.
-[95.0s -> 96.0s] Yes.
-[96.0s -> 98.0s] So basically,
-[98.0s -> 102.0s] it's impossible for her to be independent.
-[102.0s -> 105.0s] Of course, Jack and Jack will be more independent.
-[105.0s -> 106.0s] So,
-[106.0s -> 108.0s] it's not too bad for her to be independent.
-[108.0s -> 110.0s] She will be more wrong.
-[110.0s -> 111.0s] She will be more independent.
-[111.0s -> 113.0s] Of course, she will be more independent.
-[113.0s -> 114.0s] Of course, she will be more independent.
-[114.0s -> 116.0s] Of course, she will be more independent.
-[116.0s -> 118.0s] Of course, she will be more independent.
-[118.0s -> 120.0s] But I think her learning
-[120.0s -> 123.0s] is not too professional.
-[123.0s -> 125.0s] There is only one thing
-[125.0s -> 128.0s] that she has been able to do.
-[128.0s -> 129.0s] I know.
-[129.0s -> 130.0s] Yes.
-[130.0s -> 131.0s] I know.
-[131.0s -> 132.0s] Yes.
-[132.0s -> 133.0s] I asked her to come.
-[133.0s -> 135.0s] I was happy to hear that.
-[135.0s -> 138.0s] I can't be bothered when I'm alone.
-[138.0s -> 139.0s] I can't be bothered.
-[139.0s -> 141.0s] It's just the same thing that I saw.
-[141.0s -> 143.0s] You are here.
-[143.0s -> 145.0s] She said to me,
-[145.0s -> 147.0s] because she had a habit
-[147.0s -> 149.0s] I asked her to learn how to practice.
-[149.0s -> 151.0s] I asked her to practice.
-[151.0s -> 152.0s] Of course,
-[152.0s -> 154.0s] since I was a student,
-[154.0s -> 156.0s] it was probably because I would be a teacher.
-[156.0s -> 157.0s] Of course,
-[157.0s -> 159.0s] I would teach it to the audience.
-[159.0s -> 161.0s] I would be more independent.
-[161.0s -> 162.0s] I would be more independent.
-[162.0s -> 163.0s] I would be more independent.
-[163.0s -> 164.0s] Yes.
-[164.0s -> 166.0s] I would be more independent.
-[196.0s -> 198.0s] Yes, so I can take them out.
-[198.0s -> 200.0s] I can take them out.
-[200.0s -> 202.0s] I know that they don't have a friend here.
-[202.0s -> 204.0s] I'll take them out.
-[204.0s -> 206.0s] Because when a friend is in there,
-[206.0s -> 210.0s] the person around will think that this is a small place.
-[210.0s -> 212.0s] He has a special place.
-[212.0s -> 216.0s] I don't want him to think that.
-[216.0s -> 218.0s] I'm not a big fan of him.
-[218.0s -> 220.0s] He's a big fan of him.
-[220.0s -> 222.0s] So I'll take him out.
-[222.0s -> 224.0s] I think that day
-[224.0s -> 226.0s] when I talk to him,
-[226.0s -> 228.0s] for example, he says,
-[228.0s -> 230.0s] I see that his eyes are changing.
-[230.0s -> 232.0s] I say, he'll take it out.
-[232.0s -> 234.0s] And when I see that his eyes are in there,
-[234.0s -> 236.0s] he'll think about himself.
-[236.0s -> 238.0s] He's right.
-[238.0s -> 240.0s] I said, you can take it out.
-[240.0s -> 242.0s] I'll take it out.
-[242.0s -> 244.0s] You can take it out.
-[244.0s -> 246.0s] I'll talk again.
-[246.0s -> 248.0s] And when I see that his eyes are in there,
-[248.0s -> 250.0s] he's right.
-[250.0s -> 252.0s] So I think that he's not a big fan.
-[252.0s -> 254.0s] Because his blood type is not a big fan.
-[254.0s -> 256.0s] Because his blood condition is not that good.
-[256.0s -> 258.0s] His blood condition is not that good.
-[258.0s -> 260.0s] His blood condition is not that good.
-[260.0s -> 262.0s] Because when I talk to him,
-[262.0s -> 264.0s] I can see that his eyes are in there.
-[264.0s -> 266.0s] That's in there.
-[266.0s -> 268.0s] And when he's in there,
-[268.0s -> 270.0s] he's obviously very obvious.
-[270.0s -> 272.0s] He's looking at himself.
-[272.0s -> 274.0s] He's very clear.
-[274.0s -> 276.0s] He's very clear.
-[276.0s -> 278.0s] He's very clear.
-[278.0s -> 280.0s] He's very clear.
-[280.0s -> 282.0s] He's very clear.
-[282.0s -> 284.0s] And when I see that his eyes are in there,
-[284.0s -> 286.0s] he's very clear.
-[286.0s -> 288.0s] Because his blood condition is not a big fan.
-[288.0s -> 290.0s] He's very clear.
-[290.0s -> 292.0s] Yes.
-[292.0s -> 294.0s] I'll talk about him in the next three months.
-[294.0s -> 296.0s] And then I'll find out that
-[296.0s -> 298.0s] he's not a big fan.
-[298.0s -> 300.0s] He'll talk about his two or three months.
-[300.0s -> 302.0s] And then he'll start to be empty.
-[302.0s -> 304.0s] For example,
-[304.0s -> 306.0s] I'll teach him to take his body out
-[306.0s -> 308.0s] and then grab a few incense.
-[368.0s -> 369.2s] That's right, it's the Japanese people.
-[369.2s -> 370.9s] But I thought CXC was in the last place.
-[370.9s -> 372.3s] Because CXC didn't got a lot of people.
-[372.3s -> 373.6s] She also known about the way of making it.
-[373.6s -> 377.6s] CXC did not find the way of the poor one.
-[377.6s -> 380.4s] I told the police that she was in the front.
-[380.4s -> 381.3s] So she couldn't find it.
-[381.3s -> 384.9s] That's because she was all around.
-[384.9s -> 386.7s] Yeah, people in the front.
-[386.7s -> 388.5s] Then the other ones were all too late.
-[388.5s -> 390.6s] The boys from the behind would think the boys were too late.
-[390.6s -> 392.8s] Some of them wanted to learn.
-[392.8s -> 394.4s] They could have gone through their problems.
-[394.4s -> 395.4s] Some of them knew that.
-[395.4s -> 397.3s] Since they had to go back to show them.
-[397.3s -> 399.3s] I know there is something in the background
-[399.3s -> 401.3s] both before and after a while
-[401.3s -> 403.3s] it comes from being nervous
-[403.3s -> 405.3s] I feel like I've been struggling
-[405.3s -> 407.3s] I've been doing it
-[407.3s -> 409.3s] almost all the time
-[409.3s -> 411.3s] I know you are對 about that
-[411.3s -> 413.3s] Please don't be mad
-[413.3s -> 415.3s] Don't move at each other
-[415.3s -> 416.3s] Please stop
-[416.3s -> 419.3s] I want the kids to be in front of the kids
-[419.3s -> 421.3s] to let their parents
-[421.3s -> 423.3s] to stay in front
-[453.3s -> 457.3s] But after he's gone after me, he doesn't know how to do it.
-[457.3s -> 459.3s] I think he will take it off when he does it.
-[459.3s -> 461.3s] And then he is afraid of it.
-[461.3s -> 463.3s] And then he will take it off.
-[463.3s -> 465.3s] And then he will take it off.
-[465.3s -> 467.3s] And then he will take it off.
-[467.3s -> 469.3s] You don't have to do it.
-[469.3s -> 471.3s] You have to find the girl.
-[471.3s -> 473.3s] I will find her.
-[473.3s -> 475.3s] Because I will ask the whole person.
-[475.3s -> 477.3s] Because I think I can only do it for 30 minutes.
-[477.3s -> 481.3s] I can't hear you saying it.
-[481.3s -> 483.3s] So I have to take the girl.
-[483.3s -> 485.3s] So I have to take the girl.
-[485.3s -> 487.3s] She wants to walk down the mountain.
-[487.3s -> 489.3s] Because her whole face is big.
-[489.3s -> 491.3s] The others are small.
-[491.3s -> 493.3s] I want to walk on this mountain.
-[493.3s -> 495.3s] She can't stand it.
-[495.3s -> 499.3s] So she wants to walk on this.
-[499.3s -> 507.3s] And then I want to walk on this mountain.
-[507.3s -> 509.3s] its does need to be a right way
-[509.3s -> 510.3s] yeah
-[510.3s -> 511.3s] it may develop
-[511.3s -> 512.3s] if its a right way
-[512.3s -> 514.3s] its does need to be a right way
-[514.3s -> 516.3s] they have the confidence
-[516.3s -> 518.3s] it will take long to reach those
-[518.3s -> 521.3s] small and medium-sized documents
-[521.3s -> 522.3s] basically end up
-[522.3s -> 524.3s] far more save
-[524.3s -> 525.3s] so that people can think of
-[525.3s -> 526.3s] the things
-[526.3s -> 527.3s] we do
-[527.3s -> 529.3s] need to think about
-[529.3s -> 531.3s] if we have something in common
-[531.3s -> 533.1s] we can run the
-[533.1s -> 534.3s] business
-[534.3s -> 535.3s] we need to approach
-[595.3s -> 602.3s] There are a lot of them, but you say that some of them are not able to see it, it's very good, because they don't have time to worry about it.
-[602.3s -> 603.3s] Right.
-[603.3s -> 610.3s] Whether you want to use it with a knife or using a knife or a knife.
-[610.3s -> 611.3s] Yes.
-[611.3s -> 614.3s] In fact, all of them are friends.
-[614.3s -> 616.3s] In fact, it's like this.
-[616.3s -> 618.3s] First of all, the whole world.
-[618.3s -> 619.3s] Yes.
-[619.3s -> 622.3s] And then, in fact, the whole world is completely different.
-[622.3s -> 623.3s] It's the correct answer.
-[623.3s -> 625.3s] Yes. I think that's the way it is.
-[625.3s -> 631.3s] I have to say, because your mind is very weak and you have to take care of it.
-[631.3s -> 634.3s] When you take care of it, you will have to take care of it.
-[634.3s -> 636.3s] Because it is very easy to take care of it.
-[636.3s -> 640.3s] But if it takes care of me, it changes.
-[640.3s -> 643.3s] But if you say that you are one of the most simple, the least is the other way around.
-[643.3s -> 646.3s] And if you take more care of it, it will also change.
-[646.3s -> 648.3s] And then, the change will be bigger.
-[648.3s -> 649.3s] So,
-[649.3s -> 652.3s] And then, the change will be faster.
-[652.3s -> 653.3s] Yes.
-[653.3s -> 659.3s] There are many opportunities that I can cover and have a lot of success.
-[659.3s -> 661.3s] Oh, I see.
-[661.3s -> 663.3s] So, if you move on,
-[663.3s -> 668.3s] Yes, because you move on, because it's like this in general.
-[668.3s -> 670.3s] I think it's not that bad.
-[670.3s -> 672.3s] Because we are all going to have a problem.
-[672.3s -> 673.3s] Yes.
-[673.3s -> 674.3s] We are all going to have a problem.
-[674.3s -> 675.3s] Yes.
-[675.3s -> 676.3s] We are all going to have a problem.
-[676.3s -> 677.3s] Yes.
-[677.3s -> 678.3s] There is no problem.
-[678.3s -> 679.3s] There is no problem.
-[679.3s -> 680.3s] There is no problem.
-[680.3s -> 681.3s] Yes.
-[681.3s -> 684.3s] So, if you say that with Ryan,
-[684.3s -> 686.3s] his condition,
-[686.3s -> 690.3s] Because sometimes I tell him that you still have to take care of your family,
-[690.3s -> 691.3s] and take care of your family,
-[691.3s -> 692.3s] take care of your family,
-[692.3s -> 693.3s] and take care of your family,
-[693.3s -> 695.3s] but because I actually have to take care of it.
-[695.3s -> 696.3s] And then,
-[696.3s -> 697.3s] I also want to talk about that.
-[697.3s -> 698.3s] In fact,
-[698.3s -> 699.3s] in fact,
-[699.3s -> 700.3s] it's not that bad.
-[700.3s -> 701.3s] Yes.
-[701.3s -> 702.3s] But
-[702.3s -> 704.3s] But I want, because actually,
-[704.3s -> 706.3s] it's not that bad.
-[706.3s -> 710.3s] I think he will not be able to express it.
-[710.3s -> 713.3s] But it's really quite obvious.
-[713.3s -> 714.3s] It's his condition.
-[714.3s -> 716.3s] It's really obvious.
-[716.3s -> 717.3s] I think that the condition,
-[717.3s -> 721.3s] is that you are not satisfied with him.
-[721.3s -> 722.3s] Yes.
-[722.3s -> 723.3s] He said that he will be able to express it.
-[723.3s -> 725.3s] He will be able to express it.
-[725.3s -> 726.3s] Yes.
-[726.3s -> 727.3s] He will be able to express it.
-[727.3s -> 729.3s] You said that he will be able to express it.
-[729.3s -> 730.3s] Yes.
-[730.3s -> 732.3s] Is it because you have to give him two things?
-[732.3s -> 733.3s] Yes.
-[734.3s -> 736.3s] The question is,
-[736.3s -> 738.3s] if the question isjonify,
-[738.3s -> 739.3s] we get voiceon 12.
-[739.3s -> 740.3s] We get voiceon 12.
-[740.3s -> 742.3s] We have voiceon 12.
-[742.3s -> 744.3s] I often notice your problem with the question.
-[744.3s -> 745.3s] So,
-[745.3s -> 746.3s] please stop.
-[746.3s -> 747.3s] Where is your problem?
-[747.3s -> 748.3s] There is nobody.
-[748.3s -> 749.3s] Those questions are correct.
-[749.3s -> 750.3s] If you have a question.
-[750.3s -> 754.3s] All you have to be able to make are so she just said it.
-[754.3s -> 755.3s] Yes.
-[755.3s -> 757.3s] Because she won't know the answer.
-[757.3s -> 758.3s] Could you pass the question to us?
-[758.3s -> 759.3s] Yes.
-[759.3s -> 761.3s] Would you say that he will be able to express it?
-[761.3s -> 762.9s] to the US, or to Taiwan.
-[762.9s -> 764.7s] For the K-Cenjue students,
-[764.7s -> 786.2s] they don't have any
-[906.2s -> 908.6s] I think it's the first time I've had a bad feeling about it
-[908.6s -> 915.7s] Yes, it's important, because Ryan has a lot to do with his Jacque
-[915.7s -> 917.7s] And then he's really busy
-[917.7s -> 922.2s] Because his family is the Jacque's first time in the show
-[922.2s -> 924.2s] So he really saw it
-[924.2s -> 926.7s] And then you know what I mean?
-[926.7s -> 928.2s] And he's the new one
-[928.2s -> 929.2s] The new one
-[929.2s -> 933.2s] And then the Jacque's hairpin
-[933.2s -> 935.2s] The Jacque's hairpin is the last one
-[935.2s -> 940.2s] There are a lot of things that come in, so I think it's obvious.
-[940.2s -> 945.2s] I found out that there is a little bit of a part of the story.
-[945.2s -> 947.2s] Some of the stories will actually be about the story.
-[947.2s -> 950.2s] Yes, they are all very simple.
-[950.2s -> 952.2s] Because they work hard.
-[952.2s -> 953.2s] But they are very simple.
-[953.2s -> 957.2s] But if you are willing to support the story,
-[957.2s -> 960.2s] you can go to R&D,
-[960.2s -> 962.2s] or I can go to R&D.
-[962.2s -> 965.2s] I can see that you are currently in Hanzha,
-[965.2s -> 967.2s] and I can't see you in Hanzha,
-[967.2s -> 969.2s] I can't see you in Hanzha.
-[969.2s -> 971.2s] I can't see you in Hanzha.
-[971.2s -> 973.2s] Whether you are in Fakka or not,
-[973.2s -> 975.2s] or you come to the future,
-[975.2s -> 978.2s] you have to keep going,
-[978.2s -> 980.2s] and get a chance to challenge and challenge them.
-[980.2s -> 983.2s] I think the plot is a simple thing.
-[983.2s -> 985.2s] The plot is a simple thing.
-[985.2s -> 989.2s] You are on the same content for 10 times.
-[1079.2s -> 1082.4s] This is the most common one.
-[1082.4s -> 1083.4s] The price?
-[1083.4s -> 1084.2s] The price?
-[1084.2s -> 1086.1s] The stock, and the stock.
-[1086.1s -> 1088.5s] We are looking for a price education.
-[1088.5s -> 1090.5s] The price education is about $5,000.
-[1090.5s -> 1091.6s] $5,000.
-[1091.6s -> 1093.9s] So the knife is actually quite affordable.
-[1093.9s -> 1095.9s] No matter where you go today,
-[1095.9s -> 1097.6s] we will go to the store.
-[1097.6s -> 1101.2s] It's a price that is used for a price of $8,000.
-[1101.2s -> 1104.7s] It's a bit of a hassle to put it in.
-[1104.7s -> 1106.4s] So if you are thinking about it,
-[1106.4s -> 1112.4s] I think it's really enough for me to be able to do it.
-[1112.4s -> 1117.4s] It's enough, but if the demand is higher now,
-[1117.4s -> 1120.4s] it's really enough for me.
-[1120.4s -> 1123.4s] But if the demand is higher now, it's not enough.
-[1123.4s -> 1124.4s] Yes, it's enough for me.
-[1124.4s -> 1127.4s] Because that's what we do every time.
-[1127.4s -> 1131.4s] If we don't change the demand, that's what we do.
-[1131.4s -> 1133.4s] We don't change the demand.
-[1133.4s -> 1135.4s] Because I have a job in this industry.
-[1135.4s -> 1137.4s] Because we don't have a job in this industry.
-[1137.4s -> 1139.4s] Because the industry is a bit different.
-[1139.4s -> 1142.4s] But there are some new computers,
-[1142.4s -> 1144.4s] Internet, etc.
-[1144.4s -> 1146.4s] We don't have the Internet.
-[1146.4s -> 1148.4s] Because we have a lot of customers.
-[1148.4s -> 1151.4s] We have a lot of customers.
-[1151.4s -> 1154.4s] We have a lot of customers in the industry.
-[1154.4s -> 1155.4s] Yes.
-[1155.4s -> 1158.4s] I see some customers who are very happy.
-[1158.4s -> 1160.4s] But we don't have a lot of customers.
-[1160.4s -> 1163.4s] Because the customers are talking about the demand.
-[1163.4s -> 1165.4s] We don't have a lot of customers.
-[1165.4s -> 1168.4s] But if you want to change the demand,
-[1168.4s -> 1170.4s] it will be a lot of success.
-[1170.4s -> 1172.4s] Because they are all from the demand.
-[1172.4s -> 1174.4s] If you want to change the demand,
-[1174.4s -> 1176.4s] it will be a lot of success.
-[1176.4s -> 1178.4s] If you want to talk about the demand,
-[1178.4s -> 1180.4s] it will be a lot of success.
-[1180.4s -> 1182.4s] The demand is higher now.
-[1182.4s -> 1184.4s] Yes, the demand is higher now.
-[1184.4s -> 1187.4s] For example, if the demand is higher,
-[1187.4s -> 1189.4s] it's better if you want to change the demand.
-[1189.4s -> 1191.4s] Yes, the demand is higher now.
-[1191.4s -> 1193.4s] Okay, okay.
-[1193.4s -> 1195.4s] Is the demand in the industry
-[1195.4s -> 1197.4s] more than the demand that you have in your business?
-[1197.4s -> 1199.4s] Because I don't know what ABD is.
-[1199.4s -> 1200.4s] Is the demand in the industry more than the demand?
-[1200.4s -> 1201.4s] Yes.
-[1201.4s -> 1203.4s] It is also a demand in the industry.
-[1203.4s -> 1204.4s] It is a demand in the industry.
-[1204.4s -> 1206.4s] I don't think that this is the demand.
-[1206.4s -> 1208.4s] I think some consumers
-[1208.4s -> 1210.4s] are not familiar with the demand.
-[1210.4s -> 1212.4s] The demand is not that basic.
-[1212.4s -> 1214.4s] Yes, it's a bit far away.
-[1214.4s -> 1216.4s] How many solutions are there?
-[1246.4s -> 1248.0s] Oh, right.
-[1248.0s -> 1249.3s] Wait a second.
-[1249.3s -> 1253.7s] Actually, you didn't even teach the university to teach in the profession.
-[1253.7s -> 1255.8s] Because you teach in the profession.
-[1255.8s -> 1258.4s] Yes, no, but you have one and only one student.
-[1258.4s -> 1259.9s] You can teach in the profession.
-[1259.9s -> 1262.3s] One of the students is a bit different from the other.
-[1262.3s -> 1263.9s] And many other students.
-[1263.9s -> 1264.8s] He has its own power.
-[1264.8s -> 1265.8s] No.
-[1265.8s -> 1267.6s] You can teach in the field.
-[1267.6s -> 1268.3s] Is that true?
-[1268.3s -> 1269.3s] Yes, you're a good student.
-[1269.3s -> 1270.2s] You're a good student.
-[1270.2s -> 1271.2s] A good student.
-[1271.2s -> 1272.8s] You're a good student.
-[1272.8s -> 1274.4s] It's like studying in Korea.
-[1274.4s -> 1277.4s] So, basically, it's just 5th grade.
-[1277.4s -> 1280.4s] So, it's basically 5th grade.
-[1280.4s -> 1283.4s] And then, it's just about 5th grade.
-[1283.4s -> 1285.4s] So, it's about 5th grade.
-[1285.4s -> 1287.4s] So, it's about 5th grade.
-[1287.4s -> 1288.4s] Yes, yes.
-[1288.4s -> 1292.4s] When it's 2nd grade, it's about 1st grade.
-[1292.4s -> 1294.4s] So, it's about 1st grade.
-[1294.4s -> 1296.4s] So, they're all 1st grade.
-[1296.4s -> 1297.4s] Yes.
-[1297.4s -> 1299.4s] So, you just go to the exam.
-[1299.4s -> 1301.4s] And you just go to the exam.
-[1302.4s -> 1304.4s] But sometimes,考 clay in boredom and stuff, that meant they could look for space.
-[1304.4s -> 1306.4s] Yes, they should have, absolutely.
-[1306.4s -> 1307.4s] Yes.
-[1307.4s -> 1308.4s] They don't want to.
-[1308.4s -> 1313.4s] Because some clients sell and selling on the mart are already full and they're complicated.
-[1313.4s -> 1315.4s] They're already full after the province.
-[1315.4s -> 1317.4s] But they're running by one of the strong понимery.
-[1317.4s -> 1320.4s] It's all food and job.
-[1320.4s -> 1322.4s] Then, take it as demand,iberts.
-[1322.4s -> 1324.4s] So, the reason why you're wining isn't that well.
-[1324.4s -> 1329.4s] That emotion is what the emotion is, so more people would have to cook food.
-[1419.4s -> 1420.4s] I know.
-[1420.4s -> 1422.4s] So you may go to the pre-school.
-[1422.4s -> 1423.4s] Because you don't have to go to a school.
-[1423.4s -> 1424.4s] You have to go to the school.
-[1424.4s -> 1427.4s] The pre-school is like a university.
-[1427.4s -> 1428.4s] I remember there was a university.
-[1428.4s -> 1433.4s] It was a small number of teachers who had a university.
-[1433.4s -> 1435.4s] Because there was no university.
-[1435.4s -> 1436.4s] There was a university.
-[1436.4s -> 1437.4s] Yes, I know the pre-school.
-[1437.4s -> 1438.4s] There was a teacher.
-[1438.4s -> 1440.4s] It was a university.
-[1440.4s -> 1446.4s] Because they learned to understand and understand the language.
-[1446.4s -> 1447.4s] Then they loved each other.
-[1447.4s -> 1448.4s] Then they loved each other.
-[1448.4s -> 1451.4s] That is, this is the third month.
-[1451.4s -> 1452.4s] I know that there was a university.
-[1452.4s -> 1453.4s] There was a university.
-[1453.4s -> 1454.4s] There was a university.
-[1454.4s -> 1455.4s] There was a university.
-[1455.4s -> 1456.4s] There was a university.
-[1456.4s -> 1458.4s] And if you go to the pre-school,
-[1458.4s -> 1460.4s] I remember that there was a school.
-[1460.4s -> 1462.4s] Because it was mainly Chinese.
-[1462.4s -> 1464.4s] So he went to the pre-school.
-[1464.4s -> 1466.4s] Because the pre-school was a small number of teachers.
-[1466.4s -> 1468.4s] The pre-school was a little more convenient.
-[1468.4s -> 1469.4s] Yes, yes.
-[1469.4s -> 1471.4s] He was a small number.
-[1471.4s -> 1473.4s] And he had a university.
-[1473.4s -> 1474.4s] There was this one.
-[1474.4s -> 1476.4s] So he was taking up the university.
-[1476.4s -> 1479.4s] Then the main point was,
-[1479.4s -> 1481.4s] There was a university,
-[1481.4s -> 1482.4s] the university.
-[1482.4s -> 1483.4s] The stairs in the next area was Delta,
-[1483.4s -> 1485.4s] There are also some schools that fell from those districts
-[1485.4s -> 1486.4s] i.e., inpping chairs like this
-[1486.4s -> 1487.4s] something totally different from the school.
-[1487.4s -> 1488.4s] Yes, yes, yes.
-[1488.4s -> 1490.4s] Con После Now that the air is hot,
-[1490.4s -> 1491.4s] there are some people falling from the hot air
-[1491.4s -> 1492.4s] Sometimes they fall from the hot air
-[1492.4s -> 1493.4s] Sometimes they fall from the hot air
-[1493.4s -> 1494.4s] Then they fall from the hot air
-[1494.4s -> 1495.4s] Yes, that is?
-[1495.4s -> 1500.4s] But the teachers will pick you up because the plunder
-[1500.4s -> 1503.2s] at international Hag teacher's degree of studying
-[1533.2s -> 1536.2s] He used to be a graduate sister and university student.
-[1536.2s -> 1540.7s] He knew how to communicate to each other really.
-[1540.7s -> 1542.2s] Right.
-[1542.2s -> 1543.9s] So he knew about it as well?
-[1543.9s -> 1545.2s] Not sure how long it got like.
-[1545.2s -> 1547.2s] You actually got one idea to give it to him, but he didn't have time to write it.
-[1547.2s -> 1547.7s] No time to write?
-[1547.7s -> 1548.7s] No, I don't need to write.
-[1548.7s -> 1550.2s] I only wrote for three years.
-[1550.2s -> 1551.2s] I still need to write for him.
-[1551.2s -> 1553.2s] After he wrote the same thing.
-[1553.2s -> 1555.2s] I don't have time to write.
-[1555.2s -> 1556.2s] I don't have time to write.
-[1556.2s -> 1558.2s] After that, I thought he was busy.
-[1588.2s -> 1591.7s] So, do you have a degree with the class and the class with the class?
-[1591.7s -> 1595.5s] Yes, but the class with the class is not really good.
-[1595.5s -> 1597.3s] So, do you have a class of music?
-[1597.3s -> 1599.5s] No, I just...
-[1599.5s -> 1602.7s] I have two students, one of them is student's class.
-[1602.7s -> 1605.1s] The second is student's class.
-[1605.1s -> 1608.5s] So, in the class, they usually pass the class, so they teach the students.
-[1608.5s -> 1609.5s] Yes.
-[1609.5s -> 1611.5s] Because they seem to have some students,
-[1611.5s -> 1614.5s] they have some student's class,
-[1614.5s -> 1616.2s] they are both like that.
-[1616.2s -> 1622.8s] They don't study in the middle of the year, but they are not in the middle of the year.
-[1622.8s -> 1628.2s] Because they have been studying in the middle of the year.
-[1628.2s -> 1629.6s] Yes.
-[1629.6s -> 1633.6s] Actually, the high school students can teach in the middle of the year.
-[1633.6s -> 1635.6s] Actually, they are not in the middle of the year.
-[1635.6s -> 1636.6s] No.
-[1636.6s -> 1638.4s] I don't think so.
-[1638.4s -> 1642.5s] I have a big university in my hometown.
-[1672.5s -> 1674.5s] I don't even have a family.
-[1674.5s -> 1677.0s] Yes,除非你要訓練的是那個領域的
-[1677.0s -> 1678.5s] Yes, it's a very big issue.
-[1678.5s -> 1680.5s] But it's a very big issue.
-[1680.5s -> 1682.5s] Taiwan is just a technology
-[1682.5s -> 1683.5s] It's a technology.
-[1683.5s -> 1685.5s] Now, when you go to the gym
-[1685.5s -> 1688.5s] What do you do in the middle of the gym?
-[1688.5s -> 1689.5s] It's okay.
-[1689.5s -> 1691.5s] I think it's more important.
-[1691.5s -> 1692.5s] So it's also very important.
-[1692.5s -> 1693.5s] Yes.
-[1693.5s -> 1694.5s] Our friends are
-[1694.5s -> 1697.5s] You have a lot of things to do.
-[1697.5s -> 1698.5s] No.
-[1698.5s -> 1699.5s] I'm sorry.
-[1699.5s -> 1701.5s] It's a big thing.
-[1701.5s -> 1703.5s] It's also one of the things you do.
-[1703.5s -> 1704.5s] Yes.
-[1704.5s -> 1706.5s] We have a lot of things to do.
-[1706.5s -> 1708.5s] So you have a lot of things to do.
-[1708.5s -> 1709.5s] But it doesn't have to learn.
-[1709.5s -> 1710.5s] Yes.
-[1710.5s -> 1711.5s] It also has to learn.
-[1711.5s -> 1712.5s] How do you do it?
-[1712.5s -> 1713.5s] Yes.
-[1713.5s -> 1714.5s] It has to learn.
-[1714.5s -> 1716.5s] It's the smallest thing.
-[1716.5s -> 1718.5s] It doesn't have to learn.
-[1718.5s -> 1719.5s] Yes.
-[1719.5s -> 1720.5s] Does it have to learn?
-[1720.5s -> 1721.5s] No.
-[1721.5s -> 1722.5s] It has to learn.
-[1722.5s -> 1724.5s] It has to learn.
-[1724.5s -> 1726.5s] It has to learn.
-[1726.5s -> 1727.5s] Yes.
-[1727.5s -> 1728.5s] But it has to learn.
-[1728.5s -> 1733.5s] But there are many things to do.
-[1733.5s -> 1735.5s] I'm looking forward to his performance.
-[1735.5s -> 1736.5s] Yes.
-[1736.5s -> 1737.5s] And I want to,
-[1737.5s -> 1738.5s] I want to,
-[1738.5s -> 1739.5s] I want to, too.
-[1739.5s -> 1741.5s] Because he likes his music more.
-[1741.5s -> 1742.5s] Yes.
-[1742.5s -> 1743.5s] But it's hard.
-[1743.5s -> 1744.5s] It's hard to do.
-[1744.5s -> 1747.5s] But I feel that I'm more and more
-[1747.5s -> 1750.5s] than usual.
-[1750.5s -> 1752.5s] And more traditional.
-[1752.5s -> 1754.5s] Like I,
-[1754.5s -> 1755.5s] I want to,
-[1755.5s -> 1757.5s] because my friends are also taught.
-[1757.5s -> 1759.5s] Then there are some old people.
-[1759.5s -> 1760.5s] Yes.
-[1760.5s -> 1761.5s] Then there are other people.
-[1761.5s -> 1762.5s] Scholar,
-[1762.5s -> 1763.5s] is the piano director,
-[1763.5s -> 1764.5s] is the violin producer.
-[1764.5s -> 1766.5s] He also is more and more powerful than the previous competitions.
-[1766.5s -> 1767.5s] More and more than the previous competitions.
-[1767.5s -> 1768.5s] Scholar is also not good.
-[1768.5s -> 1774.5s] Scholar is because he is not a musicer and violin but he is more and more powerful than the previous competitions.
-[1774.5s -> 1776.5s] So they are reluctant to join each other.
-[1776.5s -> 1778.5s] So they have no reference.
-[1778.5s -> 1780.5s] They are,
-[1780.5s -> 1782.5s] their starts are because they are too young.
-[1782.5s -> 1784.5s] Because first,
-[1784.5s -> 1785.5s] I think he can be 15 people.
-[1785.5s -> 1786.5s] But 15 people,
-[1816.5s -> 1821.1s] The music class is what's based on the traditional competition.
-[1821.1s -> 1824.1s] It's all traditional competition, but our traditional competition is different.
-[1824.1s -> 1826.1s] They always tell us to talk with a traditional team.
-[1826.1s -> 1827.6s] Yes, they do want to talk with a traditional team.
-[1827.6s -> 1830.6s] But after all, they don't want to talk about the traditional competition.
-[1830.6s -> 1834.6s] The traditional competition is more convenient for everyone.
-[1834.6s -> 1836.6s] Yes, they can start to share some of their experiences.
-[1836.6s -> 1837.6s] They only have 10 left.
-[1837.6s -> 1840.0s] They can play traditional songs in different ways.
-[1840.0s -> 1843.6s] Yes, so they are also very strong.
-[2173.6s -> 2175.6s] What kind of music is it?
-[2175.6s -> 2176.6s] It's the one that keeps choosing.
-[2176.6s -> 2179.6s] Yes, but it's usually a major school.
-[2179.6s -> 2181.6s] There are so many students in the school.
-[2181.6s -> 2183.6s] There aren't many students in the school.
-[2183.6s -> 2186.6s] Like Yonghe, there are only students.
-[2186.6s -> 2190.6s] But there are students in the school.
-[2190.6s -> 2192.6s] But there are students who want to go in.
-[2192.6s -> 2194.6s] There are students who are the most popular.
-[2194.6s -> 2197.6s] There are students who are only students.
-[2197.6s -> 2200.6s] And there are students who are more popular.
-[2200.6s -> 2203.6s] Yes, so actually I don't know.
-[2203.6s -> 2205.6s] There are so many students in the school.
-[2205.6s -> 2208.6s] I thought it was music for me.
-[2208.6s -> 2210.6s] And I think it's about music.
-[2210.6s -> 2212.6s] It's about music.
-[2212.6s -> 2214.6s] There are so many people in the school.
-[2214.6s -> 2218.6s] There are so many people in the school.
-[2218.6s -> 2221.6s] So you're getting angry.
-[2221.6s -> 2223.6s] Yes, because you're getting angry.
-[2223.6s -> 2225.6s] You're getting angry.
-[2225.6s -> 2227.6s] You're getting angry.
-[2227.6s -> 2229.6s] Yes, because you're getting angry.
-[2229.6s -> 2231.6s] There are so many people in the school.
-[2231.6s -> 2233.6s] And actually you're getting angry.
-[2233.6s -> 2234.6s] Because you can't get angry.
-[2234.6s -> 2237.6s] Yes, and it's open these days.
-[2237.6s -> 2239.6s] So you're getting angry and you're getting angry.
-[2239.6s -> 2241.6s] So you're getting angry and you're doing this on your own.
-[2241.6s -> 2242.6s] Yes, if you can't put on cloth an other dorm and you can't put on it another day or a lot,
-[2242.6s -> 2253.5s] You must be
-[2283.5s -> 2285.5s] This is called Guo Chai Xia.
-[2285.5s -> 2287.7s] I remember that there was no book in my life,
-[2287.7s -> 2290.1s] because I've been living in Zonghe city in the past.
-[2290.1s -> 2292.6s] There was a book in the past,
-[2292.6s -> 2294.7s] and there were books in the past.
-[2294.7s -> 2297.5s] That's great, but I wonder why they are so young and young.
-[2297.5s -> 2300.4s] Asking for small and small people,
-[2300.4s -> 2302.3s] I didn't want to chose them that much,
-[2302.3s -> 2303.8s] but I feel that
-[2303.8s -> 2305.3s] because I am around the world.
-[2305.3s -> 2309.1s] It's not the story of a large-sized area,
-[2309.1s -> 2311.2s] there were many different roles.
-[2311.2s -> 2321.2s] I don't know which one needs to be bigger, but it definitely needs to be bigger.
-[2321.2s -> 2334.2s] I used to have a student, he was also a doctor, but he was very patient.
-[2335.2s -> 2341.2s] He is very persistent, but he is a little too much, he is a little too much.
-[2341.2s -> 2344.2s] He is very patient.
-[2344.2s -> 2348.2s] But he will be patient when he has a child with him.
-[2348.2s -> 2353.2s] We used to have a student, but he goes to show.
-[2353.2s -> 2356.2s] He is a 4-year-old.
-[2356.2s -> 2359.2s] He is still in 4-year-old.
-[2449.2s -> 2451.2s] Then he moved to Xiulang
-[2451.2s -> 2453.2s] Then he followed me
-[2453.2s -> 2455.2s] But he knew it
-[2455.2s -> 2457.2s] He didn't know it
-[2457.2s -> 2459.2s] Then he came to Xiulang
-[2459.2s -> 2461.2s] He said that there were a lot of specialities
-[2461.2s -> 2463.2s] I think it was better for him
-[2463.2s -> 2465.2s] Because he didn't get any points
-[2465.2s -> 2469.2s] Yes, his son was very strong
-[2469.2s -> 2471.2s] He was very strong
-[2471.2s -> 2473.2s] So there was only one other
-[2473.2s -> 2475.2s] So he came
-[2475.2s -> 2477.2s] Yes, he was very strong
-[2477.2s -> 2479.2s] But he had to run
-[2479.2s -> 2480.2s] He used to use this
-[2480.2s -> 2481.2s] Yes, he probably had to be a teacher
-[2481.2s -> 2483.2s] I didn't have a lot of money
-[2483.2s -> 2485.2s] So he may have been in the middle of the university
-[2485.2s -> 2487.2s] He is the same as you
-[2487.2s -> 2489.2s] My daughter is very common
-[2489.2s -> 2491.2s] She is very common
-[2491.2s -> 2493.2s] So she is a little like your student
-[2493.2s -> 2495.2s] She is your student
-[2495.2s -> 2497.2s] She is a student
-[2497.2s -> 2499.2s] My daughter is a student
-[2499.2s -> 2501.2s] She has been taught
-[2501.2s -> 2503.2s] But we all know
-[2503.2s -> 2505.2s] She is very good
-[2505.2s -> 2507.2s] So she is also a student
-[2507.2s -> 2509.2s] She is not a student
-[2509.2s -> 2511.2s] She is very different
-[2511.2s -> 2513.2s] Who will keep the sentence
-[2513.2s -> 2515.2s] You have to take care of yourself
-[2515.2s -> 2517.2s] Yes, she is a student
-[2517.2s -> 2519.2s] Yes, she will run a case
-[2519.2s -> 2521.2s] Yes, she is very special
-[2521.2s -> 2523.2s] Don't let her come back
-[2523.2s -> 2525.2s] She is a student
-[2525.2s -> 2527.2s] She is very good
-[2527.2s -> 2529.2s] Because her son is very good
-[2529.2s -> 2531.2s] So she sometimes will think
-[2531.2s -> 2533.2s] If I go to normal school
-[2533.2s -> 2535.2s] I will be able to get rid of her
-[2535.2s -> 2537.2s] But because her son
-[2537.2s -> 2539.2s] She will give herself a lot of pressure
-[2539.2s -> 2541.2s] Because she will be very good
-[2541.2s -> 2543.2s] So she is very good
-[2543.2s -> 2545.2s] She is very good
-[2545.2s -> 2547.2s] Because she is not good
-[2547.2s -> 2549.2s] She is not good
-[2549.2s -> 2551.2s] I forgot
-[2551.2s -> 2553.2s] I have been in the university for 20 years
-[2553.2s -> 2555.2s] I have been in the university for 20 years
-[2555.2s -> 2557.2s] I forgot
-[2557.2s -> 2559.2s] But I have been to the university
-[2559.2s -> 2561.2s] I have been in the university for 20 years
-[2561.2s -> 2562.8s] She is very tall
-[2562.8s -> 2564.8s] She has been in the university for 20 years
-[2564.8s -> 2566.5s] She is very tall
-[2566.5s -> 2568.9s] She has been in the high school
-[2568.9s -> 2570.9s] She is at this age
-[2570.9s -> 2572.6s] Because she has always treated many people
-[2572.6s -> 2574.9s] She disagreed
-[2574.9s -> 2577.2s] not thinking about it
-[2577.2s -> 2580.2s] But she had to face a lot of problem
-[2580.2s -> 2581.2s] She has a lot of anxiety
-[2581.2s -> 2583.2s] And she discriminated
-[2583.2s -> 2585.2s] At this point
-[2587.2s -> 2587.7s] iodlerini problems
-[2587.7s -> 2589.2s] She is also very good
-[2589.2s -> 2590.9s] She is a lawyer
-[2800.9s -> 2804.1s] It's a very rare thing to do.
-[2804.1s -> 2808.3s] But it will take a long time to do the work.
-[2808.3s -> 2809.9s] And then there's a kind of...
-[2809.9s -> 2811.7s] Yes, and then...
-[2811.7s -> 2813.3s] There's a kind of hard work to do that.
-[2813.3s -> 2814.5s] And then there's a video.
-[2814.5s -> 2816.5s] And then there's a kind of hard work to do that.
-[2816.5s -> 2818.1s] And I remember his story.
-[2818.1s -> 2820.5s] Because he was talking to a special teacher.
-[2820.5s -> 2822.5s] When he saw him in the cafe,
-[2822.5s -> 2823.5s] he was like,
-[2823.5s -> 2824.5s] I'm not sure if he's going to like it.
-[2824.5s -> 2826.1s] And then he was going to write a letter.
-[2826.1s -> 2827.1s] So he wrote it.
-[2827.1s -> 2828.1s] So he was like,
-[2828.1s -> 2830.1s] I'm not sure if he's going to like it.
-[2830.1s -> 2835.1s] Yes, I heard that a lot of her teachers have asked me to look at how she would be able to do it.
-[2835.1s -> 2838.1s] So, when you first met her, where did she go?
-[2838.1s -> 2841.1s] At first, she was familiar with the location.
-[2841.1s -> 2843.1s] So, when we first met her?
-[2843.1s -> 2844.1s] Yes, yes.
-[2844.1s -> 2847.1s] So, in our second year of work,
-[2847.1s -> 2852.1s] I was also able to observe her condition.
-[2852.1s -> 2854.1s] So, you can first collect data.
-[2854.1s -> 2855.1s] Yes, yes.
-[2855.1s -> 2857.1s] You can collect some data.
-[2857.1s -> 2858.1s] Yes.
-[2858.1s -> 2860.1s] Because there are teachers who say,
-[2860.1s -> 2862.1s] like when she was 16 years old,
-[2862.1s -> 2864.1s] she would be able to make her look better.
-[2864.1s -> 2865.1s] Yes, yes.
-[2865.1s -> 2867.1s] So, she would be able to see that.
-[2867.1s -> 2868.1s] Yes.
-[2868.1s -> 2871.1s] So, she would be able to see how she would be able to do it.
-[2871.1s -> 2872.1s] Yes, yes.
-[2872.1s -> 2873.1s] Yes, yes, yes.
-[2873.1s -> 2874.1s] Yes, yes.
-[2874.1s -> 2875.1s] Yes, yes.
-[2875.1s -> 2878.1s] Because she was able to do it in advance.
-[2878.1s -> 2879.1s] Yes.
-[2879.1s -> 2883.1s] Because she was able to do it in advance.
-[2883.1s -> 2884.1s] Yes.
-[2884.1s -> 2885.1s] So, in that time,
-[2885.1s -> 2886.1s] three months ago,
-[2886.1s -> 2888.1s] there were new teachers who came to see her.
-[2888.1s -> 2890.1s] Then, the next month,
-[2890.1s -> 2892.1s] there was a voice message.
-[2892.1s -> 2894.1s] And if I say,
-[2894.1s -> 2896.1s] if there was a voice message,
-[2896.1s -> 2898.1s] it would become a voice message.
-[2898.1s -> 2899.1s] And then,
-[2899.1s -> 2900.1s] it would become more natural.
-[2900.1s -> 2902.1s] If they were able to see her,
-[2902.1s -> 2904.1s] yes, they would.
-[2904.1s -> 2905.1s] Because now,
-[2905.1s -> 2907.1s] the new government,
-[2907.1s -> 2909.1s] the only thing they have there,
-[2909.1s -> 2911.1s] they would have to put this piece of information on them.
-[2911.1s -> 2913.1s] It was a heavy point.
-[2913.1s -> 2915.1s] Because I would have to go there.
-[2915.1s -> 2916.1s] That's right.
-[2916.1s -> 2917.1s] That is the resources.
-[2917.1s -> 2918.1s] Yes.
-[2918.1s -> 2919.1s] So, the person who said she was not involved,
-[2919.1s -> 2920.1s] asked if she was thinking,
-[2920.1s -> 2921.1s] if she was interested,
-[2921.1s -> 2922.1s] if she was able to do anything else,
-[2922.1s -> 2923.1s] if she was not involved,
-[2923.1s -> 2924.1s] if she was a slave,
-[2924.1s -> 2925.1s] or if she was a slave,
-[2925.1s -> 2926.1s] she would have to do it.
-[2926.1s -> 2927.1s] Because after I found out that
-[2927.1s -> 2928.1s] she would do all of that,
-[2928.1s -> 2930.1s] she would have to put the whole thing in her back.
-[2930.1s -> 2931.1s] And then,
-[2931.1s -> 2933.1s] if she would have to do all of that,
-[2933.1s -> 2935.1s] yes, we would have to do all of that.
-[2935.1s -> 2936.1s] That's right.
-[2936.1s -> 2937.1s] That's right.
-[2937.1s -> 2938.1s] You were from the second day of the competition.
-[2938.1s -> 2940.1s] The teacher was from the third party.
-[2940.1s -> 2941.1s] Yes.
-[2941.1s -> 2942.1s] The teacher wanted to ask you
-[2942.1s -> 2946.2s] Do you often think about the positions you get to follow?
-[2946.2s -> 2949.3s] No, I do.
-[2949.3s -> 2952.9s] Because politics is something that is easy to play.
-[2952.9s -> 2953.9s] Because it's very tiring.
-[2953.9s -> 2956.4s] Like what I hear, it doesn't seem like it.
-[2956.4s -> 2957.7s] It's a good question.
-[2957.7s -> 2959.9s] Yes, it's easy to play.
-[2959.9s -> 2962.3s] I also think you can come out of it.
-[2962.3s -> 2968.7s] But politics is not going to use politics.
-[2968.7s -> 2971.2s] But politics is very important to their university.
-[2971.2s -> 2973.2s] But I don't use the same method.
-[2973.2s -> 2975.2s] You have the same method.
-[2975.2s -> 2976.2s] Yes.
-[2976.2s -> 2980.2s] For example, the moon, the moon, the moon, it can be the same.
-[2980.2s -> 2983.2s] But I don't use the same method.
-[2983.2s -> 2985.2s] I don't use the same method.
-[2985.2s -> 2989.2s] For example, if this child is not good,
-[2989.2s -> 2991.2s] I think that's okay.
-[2991.2s -> 2994.2s] Sometimes it's a sanitary medicine.
-[2994.2s -> 2996.2s] Because our medicine is very small.
-[2996.2s -> 2998.2s] Sometimes it's a sanitary medicine.
-[2998.2s -> 2999.2s] It does't stick.
-[2999.2s -> 3002.2s] It does not stick at all.
-[3002.2s -> 3005.2s] Because it's a sanitary medicine.
-[3005.2s -> 3006.2s] It doesn't stick.
-[3006.2s -> 3008.2s] It can be used as drug to prevent the wound.
-[3008.2s -> 3009.2s] It can be used as drug to prevent the wound.
-[3009.2s -> 3011.2s] It is used as drug to prevent the wound.
-[3011.2s -> 3014.2s] I'm not using the same method of using the same method.
-[3014.2s -> 3018.2s] Because our medicine is very small.
-[3018.2s -> 3022.2s] Every time it is very small.
-[3022.2s -> 3026.2s] In any case, I don't think that actually the powder...
-[3026.2s -> 3028.2s] In that case, the white version is not good.
-[3028.2s -> 3031.2s] I want to take a look at the process.
-[3031.2s -> 3033.2s] It's a little bit difficult.
-[3033.2s -> 3037.2s] But I will explain another question.
-[3037.2s -> 3040.2s] Do you have other methods?
-[3040.2s -> 3042.2s] Yes, but it's some other methods.
-[3042.2s -> 3044.2s] You wouldn't have to do it.
-[3044.2s -> 3047.2s] You would have to go through a lot of things but it's a little bit more difficult.
-[3047.2s -> 3051.2s] It's a little bit more difficult.
-[3081.2s -> 3085.2s] I think the teacher will also give them a free speech.
-[3085.2s -> 3089.2s] They won't go to the court, either.
-[3089.2s -> 3093.2s] There will be a person who will write a letter to him.
-[3093.2s -> 3095.2s] There will be a person who will read a letter.
-[3095.2s -> 3097.2s] You don't know the letter.
-[3097.2s -> 3099.2s] You will go to the office to read the letter.
-[3099.2s -> 3103.2s] I'll ask him to not understand.
-[3103.2s -> 3105.2s] Then you can go to the office to read the letter.
-[3105.2s -> 3107.2s] I'll ask him to read the letter.
-[3107.2s -> 3108.2s] But I'll just answer.
-[3108.2s -> 3110.2s] You will read the letter.
-[3110.2s -> 3112.2s] Yes, because you are a student.
-[3112.2s -> 3114.2s] You have to read the letter completely.
-[3114.2s -> 3116.2s] You can do it all the time.
-[3116.2s -> 3118.2s] You can read the letter.
-[3118.2s -> 3120.2s] So I'll ask him to read the letter.
-[3120.2s -> 3122.2s] Yes.
-[3122.2s -> 3124.2s] So I think the teacher will read the letter.
-[3124.2s -> 3126.2s] The teacher will read the letter.
-[3126.2s -> 3128.2s] The teacher will read the letter.
-[3128.2s -> 3132.2s] If there is a student who needs a teacher,
-[3132.2s -> 3134.2s] he will read the letter.
-[3134.2s -> 3136.2s] Yes.
-[3136.2s -> 3138.2s] Yes, or it's a fan.
-[3138.2s -> 3140.2s] I'm a fan.
-[3140.2s -> 3142.2s] I'm a fan.
-[3142.2s -> 3144.2s] I'm a fan.
-[3144.2s -> 3148.2s] Actually, I met my colleagues.
-[3148.2s -> 3150.2s] I met my colleagues.
-[3150.2s -> 3152.2s] I met my colleagues.
-[3152.2s -> 3154.2s] I met my colleagues.
-[3154.2s -> 3156.2s] But we might have been from the video.
-[3156.2s -> 3158.2s] And I heard about them.
-[3158.2s -> 3160.2s] And I met them.
-[3160.2s -> 3162.2s] Because I had to...
-[3162.2s -> 3164.2s] I had to go to the community.
-[3164.2s -> 3166.2s] Because I was tired of the work now.
-[3166.2s -> 3170.2s] Yes, so you have to go to a centre.
-[3170.2s -> 3174.2s] The thing that you see is that,
-[3174.2s -> 3176.2s] He makes it look very familiar.
-[3176.2s -> 3177.2s] Yeah.
-[3177.2s -> 3179.2s] And he likes to film.
-[3179.2s -> 3181.2s] The background director.
-[3181.2s -> 3183.2s] The background director is the director.
-[3183.2s -> 3185.2s] Well, if that's the case,
-[3185.2s -> 3187.2s] I remember when I was in my apartment.
-[3187.2s -> 3189.2s] We made a movie on my own.
-[3189.2s -> 3191.2s] And then the part,
-[3221.2s -> 3222.2s] It's about two kinds.
-[3222.2s -> 3223.2s] A and B.
-[3223.2s -> 3224.2s] Yes.
-[3224.2s -> 3228.2s] And so, we will know each other very well.
-[3228.2s -> 3232.2s] And we only know how to teach.
-[3232.2s -> 3235.2s] You taught a few years ago.
-[3235.2s -> 3238.2s] But it's true and true.
-[3238.2s -> 3239.2s] It's very good.
-[3239.2s -> 3241.2s] But if you teach, it's also good.
-[3241.2s -> 3242.2s] Yes.
-[3242.2s -> 3246.2s] But it's because we don't have 1-6 years of age.
-[3246.2s -> 3247.2s] Yes.
-[3247.2s -> 3249.2s] So, I don't know how to teach.
-[3250.2s -> 3251.2s] Yes.
-[3251.2s -> 3253.2s] Why do you teach foreign students?
-[3253.2s -> 3255.2s] You are a cultural student.
-[3255.2s -> 3257.2s] There are foreign students.
-[3257.2s -> 3258.2s] For example,
-[3258.2s -> 3259.2s] like that.
-[3259.2s -> 3261.2s] What do you mean by that?
-[3261.2s -> 3263.2s] Because you are a teacher.
-[3263.2s -> 3265.2s] You won't become a student.
-[3265.2s -> 3267.2s] Because of me.
-[3267.2s -> 3272.2s] Because I see some foreign students.
-[3272.2s -> 3274.2s] It's true.
-[3274.2s -> 3278.2s] Because the language class is a little bit smaller.
-[3278.2s -> 3282.2s] So, the main teacher of the language class is the English teacher.
-[3282.2s -> 3284.2s] The language class is the language class.
-[3284.2s -> 3287.2s] The language class is the language class of the foreign students.
-[3287.2s -> 3288.2s] Yes.
-[3288.2s -> 3292.2s] Then we are the other two children.
-[3292.2s -> 3295.2s] We have so many students here.
-[3295.2s -> 3298.2s] We are not allowed to come out of the classroom.
-[3298.2s -> 3301.2s] So, we are not allowed to come out of the classroom.
-[3301.2s -> 3302.2s] So, the other two people are the same.
-[3302.2s -> 3305.2s] But the other two are the same.
-[3305.2s -> 3306.2s] That's right.
-[3306.2s -> 3309.2s] But they are a little bit more than a few.
-[3309.2s -> 3310.2s] Yes.
-[3310.2s -> 3311.2s] They are just different.
-[3311.2s -> 3313.2s] They are going to be in the same class.
-[3313.2s -> 3315.2s] In the same class.
-[3315.2s -> 3316.2s] But there are only children.
-[3316.2s -> 3318.2s] Because they are afraid of the communication.
-[3318.2s -> 3321.2s] So, the two children are not allowed to come out of the classroom.
-[3321.2s -> 3322.2s] No.
-[3322.2s -> 3323.2s] No.
-[3323.2s -> 3324.2s] No.
-[3324.2s -> 3326.2s] They are not allowed to come out of the classroom.
-[3326.2s -> 3327.2s] Yes.
-[3327.2s -> 3329.2s] The teacher doesn't even have a sense of responsibility.
-[3329.2s -> 3331.2s] Yes.
-[3331.2s -> 3332.2s] Yes.
-[3332.2s -> 3333.2s] Yes.
-[3334.2s -> 3336.2s] Teacher, are you think the teacher is okay?
-[3336.2s -> 3339.2s] Because he is okay with the knowledge of the class.
-[3339.2s -> 3341.2s] Because the teacher is not good at this.
-[3341.2s -> 3342.2s] Because the learning of the teacher is cold.
-[3342.2s -> 3346.2s] If he腰 is equal to his expression.
-[3346.2s -> 3349.2s] his potential is actually
-[3349.2s -> 3354.2s] His teacher is the teacher and he is a teacher.
-[3354.2s -> 3355.2s] Yes.
-[3355.2s -> 3357.2s] Even though he is a genius.
-[3357.2s -> 3359.2s] That is just a kid.
-[3359.2s -> 3362.2s] I think I know.
-[3392.2s -> 3395.2s] I don't want to talk about the opposite side.
-[3395.2s -> 3398.2s] This is my own idea.
-[3398.2s -> 3400.2s] What should it be like?
-[3400.2s -> 3401.2s] Yes.
-[3401.2s -> 3403.2s] It will be a little bit scary.
-[3403.2s -> 3405.2s] Okay, okay.
-[3405.2s -> 3407.2s] Is it a bit scary?
-[3407.2s -> 3410.2s] Or is it a bit scary?
-[3410.2s -> 3412.2s] It's a bit scary.
-[3412.2s -> 3414.2s] It's a bit scary.
-[3414.2s -> 3416.2s] They've been driving for a long time.
-[3416.2s -> 3419.2s] They seem to be doing their work.
-[3420.2s -> 3422.2s] It's a bit scary.
-[3422.2s -> 3426.2s] But after all, you can't imagine you're in the corner.
-[3426.2s -> 3427.2s] Yes.
-[3427.2s -> 3429.2s] You'll be in the back.
-[3429.2s -> 3432.2s] It will be very scary.
-[3432.2s -> 3434.2s] It's a bit scary.
-[3434.2s -> 3436.2s] Okay.
-[3436.2s -> 3439.2s] I think it's a bit scary.
-[3439.2s -> 3442.2s] It's a bit scary.
-[3442.2s -> 3445.2s] We're going to see it.
-[3445.2s -> 3448.2s] Because it's getting more and more scary.
-[3448.2s -> 3451.2s] It's getting more and more scary.
-[3451.2s -> 3454.2s] Yes, it's getting more and more scary.
-[3454.2s -> 3456.2s] It becomes more and more scary.
-[3456.2s -> 3458.2s] So it will...
-[3458.2s -> 3460.2s] It's still in the middle of the movie...
-[3460.2s -> 3462.2s] But it comes back now.
-[3462.2s -> 3465.2s] It may still be the middle of the movie.
-[3465.2s -> 3466.2s] Yes.
-[3466.2s -> 3468.2s] But its distance will be more and more strange.
-[3468.2s -> 3469.2s] Because everything's been coming.
-[3469.2s -> 3470.2s] Yes.
-[3470.2s -> 3472.2s] It's getting bigger.
-[3472.2s -> 3473.2s] The movies will become bigger.
-[3473.2s -> 3475.2s] So they're getting bigger.
-[3505.2s -> 3507.2s] I don't know if it's a good idea.
-[3507.2s -> 3509.2s] It's a good idea.
-[3509.2s -> 3511.2s] I don't have to do that.
-[3511.2s -> 3515.2s] I know there are a lot of people in this country.
-[3515.2s -> 3517.2s] We're going to do this.
-[3517.2s -> 3519.2s] That's right.
-[3519.2s -> 3521.2s] Especially when we go home,
-[3521.2s -> 3525.2s] there's no other option.
-[3525.2s -> 3529.2s] Maybe it's better to say something to each other.
-[3529.2s -> 3531.2s] I don't know.
-[3531.2s -> 3533.2s] I don't know.
-[3533.2s -> 3537.2s] I hope that if I meet him,
-[3537.2s -> 3539.2s] he's going to have a teacher.
-[3539.2s -> 3541.2s] One by one.
-[3541.2s -> 3543.2s] Because I don't see him.
-[3543.2s -> 3545.2s] He's a real person.
-[3545.2s -> 3547.2s] Because when he was sitting in front of me,
-[3547.2s -> 3549.2s] he was angry at me.
-[3549.2s -> 3551.2s] He was angry at me.
-[3551.2s -> 3553.2s] I can be angry right now.
-[3553.2s -> 3555.2s] But when I see him,
-[3555.2s -> 3557.2s] he was angry.
-[3557.2s -> 3561.2s] I don't know if I can find out the truth.
-[3561.2s -> 3565.2s] You said that the house is lying down.
-[3565.2s -> 3567.2s] Because he's a real person.
-[3567.2s -> 3569.2s] He's a real person.
-[3569.2s -> 3571.2s] He's a real person.
-[3571.2s -> 3573.2s] Maybe he's a real person.
-[3573.2s -> 3575.2s] Maybe he's a real person.
-[3575.2s -> 3577.2s] He's a real person.
-[3577.2s -> 3579.2s] I don't know.
-[3579.2s -> 3581.2s] Because I think he's going to have to know
-[3581.2s -> 3583.2s] what he's going to do.
-[3583.2s -> 3585.2s] He's going to have to hold him.
-[3585.2s -> 3587.2s] He's going to be a real person.
-[3587.2s -> 3589.2s] I think it's okay.
-[3589.2s -> 3593.2s] I think that his life is changing.
-[3593.2s -> 3595.2s] He's a real person.
-[3595.2s -> 3597.2s] He's a real person.
-[3597.2s -> 3600.2s] I remember the water in the pool,
-[3600.2s -> 3602.2s] my friend called me.
-[3602.2s -> 3604.2s] He's an object...
-[3604.2s -> 3606.2s] ...not a child.
-[3606.2s -> 3608.2s] He's just a real child.
-[3608.2s -> 3611.2s] He was just a little kid.
-[3701.2s -> 3704.2s] She just lost all her life
-[3704.2s -> 3707.2s] And then every class was in the back
-[3707.2s -> 3710.2s] Because you can't see the whole stage
-[3710.2s -> 3711.2s] I can't see it
-[3711.2s -> 3713.2s] It's 9-3 and 9-3 is what you think
-[3714.2s -> 3716.2s] She's about 9-5 to 1-2
-[3716.2s -> 3718.2s] That's right, that's right
-[3718.2s -> 3720.2s] Oh my god, they're like their partners
-[3720.2s -> 3722.2s] Is that right?
-[3722.2s -> 3723.2s] Because they're like their partners
-[3723.2s -> 3727.2s] I know that the national level is the highest level
-[3727.2s -> 3730.2s] Yes, they're like the top level
-[3730.2s -> 3732.2s] Oh, so it's like this
-[3732.2s -> 3734.2s] Yes, so it can't be done now
-[3734.2s -> 3736.2s] But now we're connected
-[3736.2s -> 3738.2s] Because like Zhu Ling, she still has to give up
-[3738.2s -> 3740.2s] For example, 80-80 to 89
-[3740.2s -> 3742.2s] But our connection is not the same
-[3742.2s -> 3744.2s] I told you before, their connection is not the same
-[3744.2s -> 3745.2s] Because now
-[3745.2s -> 3747.2s] It's not the same
-[3747.2s -> 3748.2s] It's not the same
-[3748.2s -> 3750.2s] Because there are some people who will like it
-[3750.2s -> 3751.2s] That's right
-[3751.2s -> 3753.2s] It's impossible
-[3753.2s -> 3755.2s] The point of education is that
-[3755.2s -> 3757.2s] It's impossible to record
-[3757.2s -> 3759.2s] But sometimes the main character
-[3759.2s -> 3761.2s] It's like a picture
-[3761.2s -> 3763.2s] It's like a picture
-[3763.2s -> 3765.2s] And then it's 3
-[3765.2s -> 3767.2s] But then it's a picture
-[3767.2s -> 3769.2s] I'm too obvious, right?
-[3769.2s -> 3772.2s] Yes, so I don't give up my own main character
-[3772.2s -> 3773.2s] It's just a sign
-[3773.2s -> 3774.2s] And then I will
-[3774.2s -> 3776.2s] But then you have to
-[3776.2s -> 3778.2s] Are you going to be the same as Diana?
-[3778.2s -> 3780.2s] Yes, I'm going to be the same
-[3780.2s -> 3782.2s] I write in the language
-[3782.2s -> 3784.2s] Everyone asks me
-[3784.2s -> 3785.2s] I'm going to do what I can
-[3785.2s -> 3787.2s] Then why do you write in the language
-[3787.2s -> 3789.2s] Then I don't want to ask you
-[3789.2s -> 3791.2s] I write a child's position
-[3791.2s -> 3795.2s] If he wants to run away, I write from 180 to 180
-[3795.2s -> 3797.2s] Oh, you want him to stop
-[3797.2s -> 3799.2s] Yes, I write to his child's position
-[3799.2s -> 3801.2s] That's right
-[3801.2s -> 3803.2s] That's what I want
-[3803.2s -> 3805.2s] He's your mobile phone
-[3805.2s -> 3807.2s] You and Diana are fake
-[3807.2s -> 3809.2s] So he's just 80
-[3809.2s -> 3811.2s] Is that right?
-[3811.2s -> 3813.2s] Well, we should be very early
-[3813.2s -> 3815.2s] 218
-[3815.2s -> 3817.2s] 218
-[3817.2s -> 3819.2s] He told me there are a few
-[3819.2s -> 3822.2s] It seems to be the same
-[3822.2s -> 3823.2s] I don't know
-[3823.2s -> 3824.2s] He said there are some
-[3824.2s -> 3825.2s] It's not the same
-[3825.2s -> 3826.2s] I said
-[3826.2s -> 3827.2s] How can he say that
-[3827.2s -> 3828.2s] Because the teacher at the school
-[3828.2s -> 3829.2s] I heard that I would see you
-[3829.2s -> 3831.2s] Are you going to step on your legs
-[3831.2s -> 3833.2s] Or are you going to step down
-[3833.2s -> 3835.2s] And then it's Diana
-[3835.2s -> 3836.2s] Or Diana
-[3836.2s -> 3837.2s] And then the front
-[3837.2s -> 3838.2s] Yes, yes, yes
-[3838.2s -> 3840.2s] So they saw you
-[3840.2s -> 3841.2s] Yes, they saw you
-[3841.2s -> 3842.2s] But
-[3842.2s -> 3844.2s] Because it's
-[3844.2s -> 3846.2s] It's called a phone
-[3846.2s -> 3848.2s] It's called a screen
-[3848.2s -> 3850.2s] The definition of the screen
-[3850.2s -> 3852.2s] Yes, you just said that
-[3852.2s -> 3854.2s] It's good, it's not 60
-[3854.2s -> 3856.2s] Yes, that's a screen screen
-[3856.2s -> 3858.2s] Yes, that's a screen screen
-[3858.2s -> 3861.2s] So if you want to ask
-[3861.2s -> 3863.2s] I don't want to write
-[3863.2s -> 3864.2s] I don't want to write
-[3864.2s -> 3866.2s] I can write this child's position
-[3866.2s -> 3868.2s] I want to write a child's position
-[3868.2s -> 3870.2s] Yes, you are afraid to go to the school
-[3870.2s -> 3872.2s] Yes, you just go to your school
-[3872.2s -> 3873.2s] So you can pick it up
-[3873.2s -> 3875.2s] Because he just wants to know his children
-[3875.2s -> 3876.2s] He wants to know
-[3876.2s -> 3877.2s] Yes, yes, yes, yes
-[3877.2s -> 3878.2s] He didn't have the opportunity
-[3878.2s -> 3880.2s] He didn't have the opportunity
-[3880.2s -> 3881.2s] Okay, okay
-[3881.2s -> 3882.2s] Then
-[3882.2s -> 3884.2s] It's probably not like that
-[3884.2s -> 3885.2s] Don't worry
-[3885.2s -> 3886.2s] It's been two years
-[3886.2s -> 3887.2s] Anyway, we're going to teach
-[3887.2s -> 3888.2s] It should be good
-[3888.2s -> 3889.2s] Thank you
-[3889.2s -> 3891.2s] Because the teacher is still good
-[3891.2s -> 3892.2s] Yes, because
-[3892.2s -> 3894.2s] Actually, I'm grateful to him
-[3894.2s -> 3895.2s] Because of your love
-[3895.2s -> 3897.2s] I think he likes you
-[3897.2s -> 3898.2s] Because he
-[3898.2s -> 3900.2s] First of all, I want to talk
-[3900.2s -> 3901.2s] Because I just said it
-[3901.2s -> 3902.2s] Because I think
-[3902.2s -> 3903.2s] As for the teacher
-[3903.2s -> 3905.2s] He said all three languages
-[3905.2s -> 3906.2s] The language is complete here
-[3906.2s -> 3907.2s] But I think he
-[3907.2s -> 3909.2s] The passion and love
-[3909.2s -> 3910.2s] It's a combination
-[3910.2s -> 3911.2s] That's good
-[3911.2s -> 3912.2s] Yes, yes, yes
-[3912.2s -> 3914.2s] It's not easy
-[3914.2s -> 3915.2s] The taste of English
-[3915.2s -> 3917.2s] Slowly gives him two big
-[3917.2s -> 3918.2s] Yes, yes, yes
-[3918.2s -> 3919.2s] Yes, yes, yes
-[3919.2s -> 3921.2s] And then he will let him see
-[3921.2s -> 3922.2s] How to explain
-[3922.2s -> 3923.2s] How to explain
-[3923.2s -> 3924.2s] He will explain
-[3924.2s -> 3925.2s] And he will explain
-[3925.2s -> 3926.2s] The level of the level
-[3926.2s -> 3927.2s] The level of the level is
-[3927.2s -> 3929.2s] OK, he Lao
-[3929.2s -> 3930.2s] He's learned the top and bottom
-[3930.2s -> 3931.2s] Look
-[3933.2s -> 3934.2s] Wow, wow, I understand
-[3935.2s -> 3936.2s] Really, he likes you
-[3936.2s -> 3937.2s] Do you feel very
-[3938.2s -> 3939.2s] Very happy
-[3939.2s -> 3940.2s] I said he likes me
-[3940.2s -> 3941.2s] He likes me
-[3941.2s -> 3942.2s] He likes me
-[3942.2s -> 3943.2s] Yes, he likes me
-[3943.2s -> 3944.2s] Sometimes he likes me
-[3944.2s -> 3945.7s] Sometimes he is really good
-[3945.7s -> 3947.7s] Sometimes he likes me
-[3947.7s -> 3949.2s] Yes, he likes me
-[3949.2s -> 3951.2s] I like to show him
-[3951.2s -> 3953.2s] He will do the magic
-[3953.2s -> 3955.2s] The most powerful way
-[4015.2s -> 4017.7s] I don't think it's true.
-[4017.7s -> 4019.4s] But it's not true.
-[4019.4s -> 4021.5s] It's true.
-[4021.5s -> 4022.4s] Right.
-[4022.4s -> 4023.9s] I wanted to say something.
-[4023.9s -> 4025.8s] Do you know how many people in this region have been doing the show?
-[4025.8s -> 4028.4s] I don't know, but it's been so long.
-[4028.4s -> 4030.0s] It's true.
-[4030.0s -> 4031.7s] It's true.
-[4031.7s -> 4034.6s] Was it about ten years ago?
-[4034.6s -> 4037.3s] It was about ten years ago.
-[4037.3s -> 4039.5s] I saw it.
-[4039.5s -> 4042.5s] It's about 8 years old.
-[4042.5s -> 4043.6s] That's a very long time right?
-[4043.6s -> 4045.3s] It can take a long time if you are pregnant
-[4045.3s -> 4045.6s] Right
-[4045.6s -> 4047.3s] That's a long time
-[4047.3s -> 4048.6s] Maybe eight or nine years
-[4048.6s -> 4049.3s] I see
-[4049.3s -> 4050.8s] You're going to get married
-[4050.8s -> 4051.4s] No
-[4051.4s -> 4052.4s] No
-[4052.4s -> 4054.0s] But if the innocent person gets more lost,
-[4054.0s -> 4055.1s] it's a little dangerous
-[4055.1s -> 4056.4s] I'm not surprised
-[4056.4s -> 4057.6s] It's that's not good
-[4057.6s -> 4058.6s] It's not good
-[4058.6s -> 4060.4s] They will hang out with the innocent
-[4060.4s -> 4061.4s] Not the one who keeps walking together
-[4061.4s -> 4062.4s] Doesn't matter
-[4062.4s -> 4063.4s] I'm not sick
-[4063.4s -> 4065.5s] They give you precious gifts
-[4065.5s -> 4066.9s] Is the reason for that
-[4066.9s -> 4068.2s] Not a second
-[4068.2s -> 4068.8s] Thank you
-[4068.8s -> 4070.6s] I'm fighting with you
-[4070.6s -> 4071.6s] Thank you
-[4071.6s -> 4072.6s] Thank you very much.
+[0.0s -> 2.0s] 所以之後我們如果說跑班的話
+[2.0s -> 3.0s] 其實是不會
+[3.5s -> 5.0s] 可能也不會遇到你的人
+[5.0s -> 6.5s] 對 可能不會
+[6.5s -> 7.5s] 看學校
+[7.5s -> 9.5s] 因為學校怎麼排課我也不知道
+[9.5s -> 12.0s] 所以會被排舞教二人以及未知道
+[13.0s -> 16.5s] 就算排舞教二人以及也不一定教這個班
+[16.5s -> 18.5s] 所以就要看情況
+[18.5s -> 22.5s] 那這樣子的話如果說他們是跑班的話
+[22.5s -> 26.5s] 那他們還會有什麼什麼聖誕節的唱歌
+[26.5s -> 29.5s] 會啊 會跟那一個跑班的人一起一起
+[29.5s -> 33.5s] 好啊 我大概有練了幾個問題啦
+[33.5s -> 37.0s] 就是說老師你覺得那個熱揚他在這一塊
+[37.0s -> 41.0s] 因為他其實在這個課的部分
+[41.0s -> 43.5s] 好像輸出差難大的
+[43.5s -> 46.0s] 就是他那個聽的這種課講的
+[46.0s -> 49.0s] 所以他說沒有說真的就是
+[49.0s -> 51.0s] 可以自己的去輸出
+[51.0s -> 54.0s] 可是他畢竟他好像那整個
+[54.0s -> 56.0s] 整個的那個語用啊
+[56.0s -> 58.5s] 跟趕開口 跟聽的老師講什麼
+[58.5s -> 62.5s] 好像我們的東西當然第一個舞表簡單
+[62.5s -> 65.5s] 我們的東西絕對比假的東西要簡單
+[65.5s -> 67.5s] 因為我們的東西其實是
+[68.5s -> 71.5s] 雙語跟國籍都是同的
+[71.5s -> 75.5s] 所以我們的東西不可能難道跟假的程度是一樣的
+[75.5s -> 80.5s] 因為我們五個雙語跟兩個國籍
+[80.5s -> 82.5s] 一共七個班其實就比較才一樣
+[82.5s -> 85.5s] 然後我們所有的教學資源都是
+[85.5s -> 86.5s] 全部一致的
+[86.5s -> 89.5s] 我們沒有說老師多做什麼沒有
+[89.5s -> 90.5s] 就是一致的
+[90.5s -> 95.5s] 所以其實他的東西對他而言被不算太一樣
+[95.5s -> 100.5s] 對 所以這種基本的難力度對他而言
+[100.5s -> 102.5s] 就是可能就是不太一樣
+[102.5s -> 105.5s] 跟假的課當然就是會比較多
+[105.5s -> 108.5s] 所以他如果你有畢竟他自己的文化
+[108.5s -> 110.5s] 他就會比較挫折一定的
+[110.5s -> 113.5s] 就是簡單的東西當然他就會比較成就乾
+[113.5s -> 117.5s] 當然他在我們班他真的就算偏弱了
+[117.5s -> 122.5s] 對可是我覺得他的學習就是他不夠專注
+[122.5s -> 127.5s] 因為有一次他那個防衡者有一大堆課
+[127.5s -> 128.5s] 那一大堆課
+[128.5s -> 129.5s] 然後我知道
+[129.5s -> 130.5s] 試試了寫
+[130.5s -> 132.5s] 對 然後我找他過來
+[132.5s -> 135.5s] 然後我會發現他身體那個M1
+[135.5s -> 138.5s] 我一個一個時候他都可以不專心
+[138.5s -> 139.5s] 然後不專心到
+[139.5s -> 141.5s] 其實看他的演技就是到
+[141.5s -> 143.5s] 你們是在這邊
+[143.5s -> 145.5s] 然後他就說在我旁邊
+[145.5s -> 147.5s] 我就說因為他有的時候我就會
+[147.5s -> 149.5s] 我就念字給他讓他選
+[149.5s -> 150.5s] 對 這幾個發音
+[150.5s -> 151.5s] 我就念字給他
+[151.5s -> 152.5s] 當然就是
+[152.5s -> 156.5s] 因為這竟然是我特別把他找來一個音教他了
+[156.5s -> 159.5s] 所以我當然就打相關的幾個
+[159.5s -> 161.5s] 比考覺還要再多
+[161.5s -> 163.5s] 多幾個音教他
+[163.5s -> 166.5s] 對 就是讓他多聽音
+[166.5s -> 168.5s] 對 因為我們一個單元就兩個音
+[168.5s -> 170.5s] 那兩個音就變變
+[170.5s -> 173.5s] 那我就故意你拿了一些其他的音
+[173.5s -> 176.5s] 我發現其實孩子他有沒有專注
+[176.5s -> 177.5s] 去看眼神就知道
+[177.5s -> 180.5s] 他是覺得外面很有聲音
+[180.5s -> 182.5s] 他那天是快放學的微鏡吧
+[182.5s -> 183.5s] 那個已經是
+[183.5s -> 185.5s] 老師那種乾的時候
+[185.5s -> 186.5s] 你有可以乾
+[186.5s -> 187.5s] 減少乾老眼
+[187.5s -> 189.5s] 沒有 因為我們本來如果是
+[189.5s -> 190.5s] 才一般的話
+[190.5s -> 192.5s] 我們就才一般的世界吧
+[192.5s -> 193.5s] 才一般的時間不太可能
+[193.5s -> 194.5s] 會外有這個
+[194.5s -> 195.5s] 因為小小姐
+[195.5s -> 197.5s] 所以我可以這樣
+[197.5s -> 199.5s] 超給那些我們都有拉下來
+[199.5s -> 200.5s] 因為我知道他
+[200.5s -> 202.5s] 沒有啦 一般小朋友在這邊
+[202.5s -> 203.5s] 我都會把拉床面
+[203.5s -> 206.5s] 對 因為小朋友在裡面的時候
+[206.5s -> 207.5s] 小小就會拉
+[207.5s -> 208.5s] 外面的人就會覺得
+[208.5s -> 209.5s] 這小孩子
+[209.5s -> 211.5s] 有此特別
+[211.5s -> 213.5s] 會有
+[213.5s -> 214.5s] 所以我都會
+[214.5s -> 215.5s] 又不想讓孩子覺得
+[215.5s -> 216.5s] 因為我沒有孩子
+[216.5s -> 218.5s] 對 特別打相關
+[218.5s -> 221.5s] 對 所以我一定會拉床面
+[221.5s -> 223.5s] 那一天我明顯感覺
+[223.5s -> 224.5s] 就是
+[224.5s -> 226.5s] 我在跟他講的時候
+[226.5s -> 227.5s] 譬如說他只要
+[227.5s -> 229.5s] 我看他的眼神是幻散的
+[229.5s -> 230.5s] 我就說
+[230.5s -> 231.5s] 他都會拉下我
+[231.5s -> 232.5s] 然後我看他的眼神
+[232.5s -> 234.5s] 有在專注的時候
+[234.5s -> 235.5s] 他就有自信
+[235.5s -> 236.5s] 他答案就是對的
+[236.5s -> 238.5s] 我就說你專心我
+[238.5s -> 239.5s] 你這樣你這裡
+[239.5s -> 240.5s] 因為我以後來
+[240.5s -> 241.5s] 有幾題
+[241.5s -> 243.5s] 你這樣你也記得對
+[243.5s -> 244.5s] 我再講一次
+[244.5s -> 245.5s] 然後他眼神
+[245.5s -> 246.5s] 有專注的時候
+[246.5s -> 247.5s] 就就答對了
+[247.5s -> 249.5s] 所以我覺得
+[249.5s -> 251.5s] 他不是
+[251.5s -> 252.5s] 他不是
+[252.5s -> 254.5s] 他的學習的並不是
+[254.5s -> 255.5s] 他的學習
+[255.5s -> 256.5s] 他的學習狀況
+[256.5s -> 257.5s] 沒有那麼好
+[257.5s -> 258.5s] 原因是他不都有專心
+[258.5s -> 260.5s] 因為我一堵一堵的時候
+[260.5s -> 261.5s] 我當然可以跟他
+[261.5s -> 262.5s] 我一看眼神
+[262.5s -> 263.5s] 就知道他那個
+[263.5s -> 264.5s] 就是在放空
+[264.5s -> 265.5s] 對
+[265.5s -> 266.5s] 他那個
+[266.5s -> 267.5s] 他一個體驗
+[267.5s -> 268.5s] 是在專注的時候
+[268.5s -> 269.5s] 其實是很明顯看的出來
+[269.5s -> 270.5s] 他看眼睛
+[270.5s -> 271.5s] 非常明顯
+[271.5s -> 272.5s] 寶寶可以
+[272.5s -> 273.5s] 比較觀察
+[273.5s -> 274.5s] 就比較專注
+[274.5s -> 275.5s] 然後他眼神看著你
+[275.5s -> 277.5s] 跟眼神幻散的時候
+[277.5s -> 278.5s] 就是不理
+[278.5s -> 279.5s] 他眼睛會看著你
+[279.5s -> 280.5s] 他眼神幻散的時候
+[280.5s -> 281.5s] 就是不理一樣
+[281.5s -> 282.5s] 然後我直接就發現
+[282.5s -> 283.5s] 他說
+[283.5s -> 284.5s] 他看你眼神
+[284.5s -> 285.5s] 他就這樣跟住
+[285.5s -> 286.5s] 因為上課我可能
+[286.5s -> 287.5s] 不可能
+[287.5s -> 288.5s] 注意到每個人都這樣
+[288.5s -> 289.5s] 對
+[289.5s -> 290.5s] 一對一
+[290.5s -> 291.5s] 我就
+[291.5s -> 292.5s] 馬上就不知道
+[292.5s -> 294.5s] 然後我就會發現
+[294.5s -> 295.5s] 這個才
+[295.5s -> 296.5s] 很不專心
+[296.5s -> 297.5s] 就假個
+[297.5s -> 298.5s] 兩三題
+[298.5s -> 299.5s] 然後他就開始
+[299.5s -> 300.5s] 空掉了
+[300.5s -> 301.5s] 就是我
+[301.5s -> 302.5s] 譬如說我
+[302.5s -> 303.5s] 我先教他
+[303.5s -> 304.5s] 然後再去
+[304.5s -> 305.5s] 出題目考他
+[305.5s -> 306.5s] 然後
+[306.5s -> 308.5s] 還抓了幾個箱
+[308.5s -> 309.5s] 周邊的
+[309.5s -> 310.5s] 對
+[310.5s -> 311.5s] 相關的
+[311.5s -> 312.5s] 會搞分的
+[312.5s -> 313.5s] 一起
+[313.5s -> 314.5s] 把他
+[314.5s -> 315.5s] 我們考去那時候
+[315.5s -> 316.5s] 其實只有
+[316.5s -> 317.5s] 變別兩層
+[317.5s -> 318.5s] 因為同一個單元
+[318.5s -> 319.5s] 那兩個聲音很像
+[319.5s -> 320.5s] 都在
+[320.5s -> 321.5s] 兩個聲音都在自己
+[321.5s -> 322.5s] 我也考不記得
+[322.5s -> 323.5s] 那我讓他去
+[323.5s -> 324.5s] 變別人的時候
+[324.5s -> 325.5s] 兩個他都還了
+[325.5s -> 326.5s] 就是他
+[326.5s -> 327.5s] OK就是
+[327.5s -> 328.5s] 他只要看他的眼神
+[328.5s -> 329.5s] OK
+[329.5s -> 330.5s] 他的打到地中OK了
+[330.5s -> 331.5s] 他眼神
+[331.5s -> 332.5s] 跟郭佩奏
+[332.5s -> 333.5s] 我等一下就換一對
+[333.5s -> 334.5s] 然後他就是會
+[334.5s -> 335.5s] 衝來
+[335.5s -> 336.5s] 他就是會對
+[336.5s -> 337.5s] 就是他會自己
+[337.5s -> 338.5s] 讓我看一整個感覺對不對
+[338.5s -> 339.5s] 我都說
+[339.5s -> 340.5s] 對
+[340.5s -> 341.5s] 我說比賽每個停
+[341.5s -> 342.5s] 我會直接跟他說
+[342.5s -> 343.5s] 因為
+[343.5s -> 344.5s] 因為這個
+[344.5s -> 345.5s] 太冷靜太冷靜了
+[345.5s -> 346.5s] 對啊
+[346.5s -> 347.5s] 對
+[347.5s -> 348.5s] 然後我就會
+[348.5s -> 349.5s] 請問我一聲
+[349.5s -> 350.5s] 然後像有時候我發現話
+[350.5s -> 351.5s] 我其實就會說
+[351.5s -> 352.5s] 你在旁邊
+[352.5s -> 353.5s] 可能跳了
+[353.5s -> 354.5s] 20下之類的
+[354.5s -> 355.5s] 然後就會
+[355.5s -> 356.5s] 或者是10分
+[356.5s -> 357.5s] 或是喝個茶喝的冰水
+[357.5s -> 358.5s] 對
+[358.5s -> 359.5s] 我又回來了
+[359.5s -> 360.5s] 我都沒有特別追
+[360.5s -> 361.5s] 我只是說
+[361.5s -> 362.5s] OK
+[362.5s -> 363.5s] 他就可以
+[363.5s -> 364.5s] 就是以他一聲
+[364.5s -> 365.5s] 對
+[365.5s -> 366.5s] 然後他就發現
+[366.5s -> 367.5s] 好
+[367.5s -> 368.5s] 他對我抓到
+[368.5s -> 369.5s] 對
+[369.5s -> 370.5s] 對
+[370.5s -> 371.5s] 可是上課我可能
+[371.5s -> 372.5s] 因為我才有班
+[372.5s -> 373.5s] 而且他會是在後面
+[373.5s -> 374.5s] 對
+[374.5s -> 375.5s] 1-1我才能班
+[375.5s -> 376.5s] 觀察到這個
+[376.5s -> 377.5s] 視為的差別
+[377.5s -> 378.5s] 對
+[378.5s -> 379.5s] 但是上次我說要讓他
+[379.5s -> 380.5s] 做比較前面
+[380.5s -> 381.5s] 也不要看得到
+[381.5s -> 382.5s] 對
+[382.5s -> 383.5s] 但是他
+[383.5s -> 384.5s] 所以前面他就是
+[384.5s -> 385.5s] 他會轉頭
+[385.5s -> 386.5s] 對
+[386.5s -> 387.5s] 然後別人就
+[387.5s -> 388.5s] 就覺得看好玩
+[388.5s -> 389.5s] 後面的小孩
+[389.5s -> 390.5s] 會覺得他好玩
+[390.5s -> 391.5s] 有
+[391.5s -> 392.5s] 有一些比較想學習
+[392.5s -> 393.5s] 然後
+[393.5s -> 394.5s] 對
+[394.5s -> 395.5s] 他會一家
+[395.5s -> 396.5s] 會一家
+[396.5s -> 397.5s] 對
+[397.5s -> 398.5s] 我知道有一個
+[398.5s -> 399.5s] 後面
+[399.5s -> 400.5s] 他之前
+[400.5s -> 401.5s] 第二排有一個女生
+[401.5s -> 402.5s] 他就是後來
+[402.5s -> 403.5s] 一直在鬧
+[403.5s -> 404.5s] 因為鬧鬧
+[404.5s -> 405.5s] 小孩子玩
+[405.5s -> 406.5s] 就是我有糾紛
+[406.5s -> 407.5s] 對
+[407.5s -> 408.5s] 然後玩久了
+[408.5s -> 409.5s] 然後人
+[409.5s -> 410.5s] 他就對方
+[410.5s -> 411.5s] 對你講
+[411.5s -> 412.5s] 我不要那個字
+[412.5s -> 413.5s] 不要
+[413.5s -> 414.5s] 你不要排在一起
+[414.5s -> 415.5s] 對
+[415.5s -> 416.5s] 後來
+[416.5s -> 417.5s] 所以老師
+[417.5s -> 418.5s] 要讓老師
+[418.5s -> 419.5s] 等於是
+[419.5s -> 420.5s] 讓養老師在
+[420.5s -> 421.5s] 覆著他
+[421.5s -> 422.5s] 對
+[422.5s -> 423.5s] 他在
+[423.5s -> 424.5s] 合在後面
+[424.5s -> 425.5s] 他就覺得
+[425.5s -> 426.5s] 比較無聊
+[426.5s -> 427.5s] 因為周圍就沒人
+[427.5s -> 428.5s] 可是他
+[428.5s -> 429.5s] 因為每一人
+[429.5s -> 430.5s] 他就關心
+[430.5s -> 431.5s] 你知道
+[431.5s -> 432.5s] 因為之前
+[432.5s -> 433.5s] 他做到前面
+[433.5s -> 434.5s] 是周圍人
+[434.5s -> 435.5s] 太多
+[435.5s -> 436.5s] 眼睛
+[436.5s -> 437.5s] 要眼神戶
+[437.5s -> 438.5s] 都開心
+[438.5s -> 439.5s] 跟旁邊
+[439.5s -> 440.5s] 眼睛看
+[440.5s -> 441.5s] 去旁邊
+[441.5s -> 442.5s] 就變成
+[442.5s -> 443.5s] 他
+[443.5s -> 444.5s] 因為在前面
+[444.5s -> 445.5s] 就是等於是
+[445.5s -> 446.5s] 旁邊的同學
+[446.5s -> 447.5s] 對
+[447.5s -> 448.5s] 就是會互相
+[448.5s -> 449.5s] 因為他就會想看同學
+[449.5s -> 450.5s] 同學想看他
+[450.5s -> 451.5s] 就是單純
+[451.5s -> 452.5s] 他就會不夠專門
+[452.5s -> 453.5s] 單純找樂族
+[453.5s -> 454.5s] 對
+[454.5s -> 455.5s] 但是他到後面
+[455.5s -> 456.5s] 以後
+[456.5s -> 457.5s] 他也不專門
+[457.5s -> 458.5s] 這樣做一做
+[458.5s -> 459.5s] 他就會刮下去
+[459.5s -> 460.5s] 因為這個
+[460.5s -> 461.5s] 就怕了
+[461.5s -> 462.5s] 就做好
+[462.5s -> 463.5s] 就是他
+[463.5s -> 464.5s] 就會
+[464.5s -> 465.5s] 要不然就做
+[465.5s -> 466.5s] 就刮下去
+[466.5s -> 467.5s] 因為
+[467.5s -> 468.5s] 不同
+[468.5s -> 469.5s] 因為你找到
+[469.5s -> 470.5s] 你
+[470.5s -> 471.5s] 不會找
+[471.5s -> 472.5s] 我會找
+[472.5s -> 473.5s] 因為我
+[473.5s -> 474.5s] 因為我會要求
+[474.5s -> 475.5s] 一群
+[475.5s -> 476.5s] 因為我
+[476.5s -> 477.5s] 我覺得
+[477.5s -> 478.5s] 三幾個人
+[478.5s -> 479.5s] 一塌
+[479.5s -> 480.5s] 四十分鐘
+[480.5s -> 481.5s] 我不可能聽到
+[481.5s -> 482.5s] 也不說話
+[482.5s -> 483.5s] 所以我會
+[483.5s -> 484.5s] 因為
+[484.5s -> 485.5s] 你每個人
+[485.5s -> 486.5s] 要走下去
+[486.5s -> 487.5s] 我一個劇情
+[487.5s -> 488.5s] 因為他們小朋友
+[488.5s -> 489.5s] 不是所有人生一種
+[489.5s -> 490.5s] 大名
+[490.5s -> 492.5s] 大個人生一種小的
+[492.5s -> 493.5s] 我都是要走到好
+[493.5s -> 494.5s] 對
+[494.5s -> 495.5s] 他就是會
+[495.5s -> 497.5s] 他沒有自信
+[497.5s -> 498.5s] 所以
+[498.5s -> 499.5s] 他講話
+[499.5s -> 500.5s] 這一點很小寫
+[500.5s -> 501.5s] 他講話
+[501.5s -> 502.5s] 對
+[502.5s -> 503.5s] 所以我都要走到好面
+[503.5s -> 504.5s] 去聽他說
+[504.5s -> 505.5s] 他什麼
+[505.5s -> 506.5s] 可以的
+[506.5s -> 507.5s] 就是你要
+[507.5s -> 509.5s] 他只要是一對一
+[509.5s -> 510.5s] 對
+[510.5s -> 511.5s] 他的學習
+[511.5s -> 512.5s] 就要靠他
+[512.5s -> 513.5s] 他只要
+[513.5s -> 514.5s] 他只要
+[514.5s -> 515.5s] 有興趣
+[515.5s -> 516.5s] 他其實
+[516.5s -> 517.5s] 在到那種
+[517.5s -> 518.5s] 小班中班的
+[518.5s -> 519.5s] 他其實就會
+[519.5s -> 520.5s] 想要抓些
+[520.5s -> 521.5s] 因為他現在可能
+[521.5s -> 522.5s] 就是閃
+[522.5s -> 523.5s] 比較閃掉了
+[523.5s -> 524.5s] 因為
+[524.5s -> 525.5s] 因為周圍的
+[525.5s -> 526.5s] 四季
+[526.5s -> 527.5s] 小朋友
+[527.5s -> 528.5s] 周圍的四季
+[528.5s -> 529.5s] 就是同學
+[529.5s -> 530.5s] 同學
+[530.5s -> 531.5s] 同學
+[531.5s -> 532.5s] 同學
+[532.5s -> 533.5s] 同學
+[533.5s -> 534.5s] 同學
+[534.5s -> 535.5s] 同學
+[535.5s -> 536.5s] 同學
+[536.5s -> 537.5s] 同學
+[537.5s -> 538.5s] 同學
+[538.5s -> 539.5s] 同學
+[539.5s -> 540.5s] 同學
+[540.5s -> 541.5s] 同學
+[541.5s -> 542.5s] 同學
+[542.5s -> 543.5s] 同學
+[543.5s -> 544.5s] 同學
+[544.5s -> 545.5s] 同學
+[545.5s -> 546.5s] 同學
+[546.5s -> 547.5s] 同學
+[547.5s -> 548.5s] 同學
+[548.5s -> 549.5s] 同學
+[549.5s -> 550.5s] 同學
+[550.5s -> 551.5s] 同學
+[551.5s -> 552.5s] 同學
+[552.5s -> 553.5s] 同學
+[553.5s -> 554.5s] 同學
+[554.5s -> 555.5s] 同學
+[555.5s -> 556.5s] 同學
+[556.5s -> 557.5s] 同學
+[557.5s -> 558.5s] 同學
+[558.5s -> 559.5s] 同學
+[559.5s -> 560.5s] 同學
+[560.5s -> 561.5s] 同學
+[561.5s -> 562.5s] 同學
+[562.5s -> 563.5s] 同學
+[563.5s -> 564.5s] 同學
+[564.5s -> 565.5s] 同學
+[565.5s -> 566.5s] 同學
+[566.5s -> 567.5s] 同學
+[567.5s -> 568.5s] 同學
+[568.5s -> 569.5s] 同學
+[569.5s -> 570.5s] 同學
+[570.5s -> 571.5s] 同學
+[571.5s -> 572.5s] 同學
+[572.5s -> 573.5s] 同學
+[573.5s -> 574.6s] 吃到的東西
+[574.6s -> 575.5s] 吃到的東西
+[575.5s -> 576.5s] 然後運用用上
+[576.5s -> 578.1s] 對,是很快就一講到
+[578.1s -> 579.1s] 很快就知道
+[579.1s -> 580.3s] 就是他馬上會講
+[580.3s -> 581.3s] 很快就知道
+[581.3s -> 582.8s] 你說他的文法是不行的
+[582.8s -> 583.6s] 那一定
+[583.6s -> 585.1s] 但是他沒有這個單子
+[585.1s -> 586.8s] 他可能就是周圍一生活
+[586.8s -> 588.5s] 周圍到大分子的字
+[588.5s -> 589.9s] 他都認得了
+[589.9s -> 591.3s] 所以他會當然就是
+[591.3s -> 592.4s] 這些孩子他學下來
+[592.4s -> 593.2s] 會比較自信
+[593.2s -> 594.4s] 也比較輕鬆一點
+[594.4s -> 596.1s] 因為他沒有理解太多
+[596.1s -> 597.7s] 但是你說就
+[597.7s -> 598.9s] 那些孩子
+[598.9s -> 600.9s] 文法不見得就很好
+[600.9s -> 602.4s] 因為他會有時候會亂鬆
+[602.4s -> 603.3s] 對不對
+[603.3s -> 604.7s] 像肚跟打死
+[604.7s -> 606.5s] 要用肚跟打死
+[606.5s -> 607.9s] 或者是用
+[607.9s -> 608.7s] 阿跟M
+[608.7s -> 610.2s] 自己的文化導致
+[610.2s -> 612.2s] 對,今天他們文法
+[612.2s -> 614.3s] 其實那些小朋友
+[614.3s -> 616.1s] 其實本來就是這樣
+[616.1s -> 617.1s] 先廣土
+[617.1s -> 618.5s] 先增加他的廣土
+[618.5s -> 619.3s] 就多聽
+[619.3s -> 622.3s] 對,然後其實再慢慢增加好的省股
+[622.3s -> 623.3s] 不是正確性的
+[623.3s -> 625.1s] 對,我覺得是這樣
+[625.1s -> 627.0s] 我要先有樂念的
+[627.0s -> 629.4s] 你如果一位的學文法
+[629.4s -> 631.9s] 然後你的單字量不夠的時候
+[631.9s -> 634.7s] 他照來照去就是那些句子
+[634.7s -> 636.6s] 因為他的單字量不夠廣
+[636.6s -> 639.1s] 但是如果他的單字量不夠廣的時候
+[639.1s -> 640.9s] 他其實要變化就夠了
+[640.9s -> 641.7s] 可是如果說
+[641.7s -> 643.1s] 你一個最簡單的意思是
+[643.1s -> 643.9s] 擦擦擦
+[643.9s -> 645.1s] 然後如果他單字多的話
+[645.1s -> 645.7s] 其實也就
+[645.7s -> 647.7s] 對,他的變化就到
+[647.7s -> 648.7s] 就大了
+[648.7s -> 649.2s] 所以
+[649.2s -> 650.4s] 但是他形容詞
+[650.4s -> 651.0s] 對
+[651.0s -> 651.5s] 快
+[651.5s -> 653.0s] 他會快的
+[653.0s -> 655.0s] 對,他的
+[655.0s -> 656.1s] 就是
+[656.1s -> 657.3s] 有很多的幾乎
+[657.3s -> 658.0s] 就比較可以
+[658.0s -> 660.5s] 蓋比較厲害的承包
+[661.5s -> 662.5s] 那這樣的話
+[662.5s -> 664.5s] 如果搬上
+[664.5s -> 665.5s] 對,因為畢竟搬上
+[665.5s -> 666.5s] 因為一般
+[666.5s -> 667.5s] 一般才不懂
+[667.5s -> 668.5s] 一樣的個人
+[668.5s -> 669.9s] 我覺得差不多太大
+[669.9s -> 670.7s] 因為我們也是考試
+[670.7s -> 671.5s] 都會稍微跪下
+[671.5s -> 672.5s] 對,一般
+[672.5s -> 674.0s] 對,我們這兩搬上去
+[674.0s -> 675.0s] 這兩搬考試的時候
+[675.0s -> 675.5s] 就差不多
+[675.5s -> 676.5s] 差不多
+[676.5s -> 677.5s] 對,沒有什麼
+[677.5s -> 678.5s] 沒有,蠻好的
+[678.5s -> 679.5s] 對,差不多
+[679.5s -> 680.5s] 有這樣子
+[680.5s -> 681.0s] 對
+[681.0s -> 681.5s] 那這樣的話
+[681.5s -> 683.5s] 如果說以
+[683.5s -> 686.0s] 以Wryer他的狀況的話
+[686.0s -> 687.5s] 因為我是有問他說
+[687.5s -> 689.0s] 你還是要趁
+[689.0s -> 690.0s] 手架把
+[690.0s -> 691.5s] 捲扯的手臂拿著
+[691.5s -> 692.5s] 把他拿回來
+[692.5s -> 693.0s] 然後就要補習
+[693.0s -> 693.5s] 可是這樣會
+[693.5s -> 694.5s] 因為其實我
+[694.5s -> 695.5s] 我用學習的捲
+[695.5s -> 696.5s] 然後這個公共講過
+[696.5s -> 698.0s] 其實他的
+[698.0s -> 699.0s] Wryer他有一些
+[699.0s -> 700.5s] 其實內容還是對未來
+[700.5s -> 701.5s] 比較難
+[701.5s -> 702.0s] 可是
+[702.0s -> 703.0s] 可是我就想
+[703.0s -> 704.0s] 因為其實
+[704.0s -> 705.0s] 成績可能是
+[705.0s -> 706.0s] 成績可能是
+[706.0s -> 707.0s] 沒有
+[707.0s -> 709.0s] 沒有一定的
+[709.0s -> 710.5s] 覺得他會不會的標準
+[710.5s -> 711.0s] 可是
+[711.0s -> 712.0s] 真的
+[712.0s -> 713.0s] 還蠻明顯的
+[713.0s -> 713.5s] 就是
+[713.5s -> 714.5s] 他的那個
+[714.5s -> 715.5s] 真的
+[715.5s -> 716.5s] 真的以成績來看
+[716.5s -> 718.0s] 哇,那個成績
+[718.0s -> 719.0s] 就是捲扯的
+[719.0s -> 720.0s] 老師,你的部分
+[720.0s -> 721.0s] 只落他蠻大
+[721.0s -> 722.0s] 對,他
+[722.0s -> 723.0s] 他知道他
+[723.0s -> 724.0s] 捲扯的成績
+[724.0s -> 725.0s] 他捲扯的成績
+[725.0s -> 726.0s] 就後面
+[726.0s -> 728.0s] 他有給你
+[728.0s -> 729.0s] 你說捲扯給你
+[729.0s -> 730.0s] 捲扯給我
+[730.0s -> 731.0s] 捲扯
+[731.0s -> 732.0s] 捲扯你全班的嗎
+[732.0s -> 733.0s] 對,因為
+[733.0s -> 734.0s] 我們都有
+[734.0s -> 735.0s] 有兩個
+[735.0s -> 736.0s] 他會知道我們
+[736.0s -> 737.0s] 我們是六臂
+[737.0s -> 738.0s] 他會知道
+[738.0s -> 739.0s] 我們班是他的
+[739.0s -> 741.0s] 我等一下介紹
+[741.0s -> 742.0s] 他可以
+[742.0s -> 743.0s] 他會把他
+[743.0s -> 744.0s] 捲扯一下
+[744.0s -> 745.0s] 就是
+[745.0s -> 746.0s] 我們等一下
+[746.0s -> 747.0s] 下次是六臂
+[747.0s -> 748.0s] 我算
+[748.0s -> 749.0s] 我這邊
+[749.0s -> 750.0s] 他們現在是
+[750.0s -> 751.0s] 最後
+[751.0s -> 752.0s] 因為這樣
+[752.0s -> 753.0s] 我們可能
+[753.0s -> 754.0s] 登入我們心目
+[754.0s -> 755.0s] 你要他登入
+[755.0s -> 756.0s] 他不懂
+[756.0s -> 757.0s] 對,我
+[757.0s -> 758.0s] 說他有時候
+[758.0s -> 759.0s] 會長
+[759.0s -> 760.0s] 一點點中文
+[760.0s -> 761.0s] 對,那文字
+[761.0s -> 762.0s] 他還是不行
+[762.0s -> 763.0s] 因為臂前提台灣
+[763.0s -> 764.0s] 對,臂前提
+[764.0s -> 765.0s] 確實是名字
+[765.0s -> 766.0s] 他不可能
+[766.0s -> 768.0s] 有一些簡單的頭語是還好
+[768.0s -> 769.0s] 對,他可能認中文名字
+[769.0s -> 770.0s] 然後
+[770.0s -> 771.0s] Key錯就麻煩
+[771.0s -> 772.0s] 所以
+[772.0s -> 773.0s] 他們的成績
+[773.0s -> 774.0s] 也會知道
+[774.0s -> 775.0s] 然後我們
+[775.0s -> 776.0s] 和背以後
+[776.0s -> 777.0s] 所以
+[777.0s -> 778.0s] 如果只要長成績
+[778.0s -> 779.0s] 沒有差距太大
+[779.0s -> 780.0s] 我都不會再回去看
+[780.0s -> 781.0s] 除非那個
+[781.0s -> 782.0s] 長成績
+[782.0s -> 783.0s] 很奇怪的時候
+[783.0s -> 784.0s] 我才會去看
+[784.0s -> 785.0s] 所以我沒有
+[785.0s -> 786.0s] 再上平常
+[786.0s -> 787.0s] 小孔跟作業
+[787.0s -> 788.0s] 對,每一個
+[788.0s -> 789.0s] 他們每一個
+[789.0s -> 790.0s] 考試作業
+[790.0s -> 791.0s] 我們都有算進去
+[791.0s -> 792.0s] 像
+[792.0s -> 793.0s] 劇科的小孔
+[793.0s -> 794.0s] 都會有的
+[794.0s -> 795.0s] 對,因為像他
+[795.0s -> 796.0s] 他劇科
+[796.0s -> 797.0s] 他就跟這個
+[797.0s -> 798.0s] 很明顯
+[798.0s -> 799.0s] 這個文字
+[799.0s -> 800.0s] 把它解決起來
+[800.0s -> 801.0s] 就是
+[801.0s -> 803.0s] 你八八一
+[803.0s -> 804.0s] 然後你的話
+[804.0s -> 805.0s] 是八六
+[805.0s -> 806.0s] 幾個月
+[806.0s -> 807.0s] 有幾八半
+[807.0s -> 809.0s] 因為
+[809.0s -> 810.0s] 我幫我
+[810.0s -> 811.0s] 教練的
+[811.0s -> 812.0s] 我們
+[812.0s -> 813.0s] 就是上學期的
+[813.0s -> 814.0s] 也是幾種好
+[814.0s -> 815.0s] 就是這三次
+[815.0s -> 816.0s] 一上期末
+[816.0s -> 817.0s] 一下集中
+[817.0s -> 818.0s] 一上
+[818.0s -> 819.0s] 一上
+[819.0s -> 820.0s] 我不曬得
+[820.0s -> 821.0s] 幾末跟
+[821.0s -> 822.0s] 一下的
+[822.0s -> 823.0s] 裝跟抹
+[823.0s -> 825.0s] 一上的成績
+[825.0s -> 826.0s] 不太準對不對
+[826.0s -> 827.0s] 因為我們
+[827.0s -> 828.0s] 因為一上
+[828.0s -> 830.0s] 我會比較寬容一點
+[830.0s -> 831.0s] 我們出題目
+[831.0s -> 832.0s] 就出了超級解釋
+[832.0s -> 833.0s] 所以要一下
+[833.0s -> 834.0s] 作業什麼
+[834.0s -> 836.0s] 考證小考一造業
+[836.0s -> 837.0s] 但期末考
+[837.0s -> 839.0s] 我們出了爆炸簡單
+[839.0s -> 840.0s] 因為不想
+[840.0s -> 842.0s] 然後第一次考試就出了
+[842.0s -> 843.0s] 對,第一次
+[843.0s -> 844.0s] 對他第一次
+[844.0s -> 845.0s] 考劇科的
+[845.0s -> 846.0s] 劇科的58
+[846.0s -> 847.0s] 他們的八字
+[847.0s -> 848.0s] 對啊
+[848.0s -> 849.0s] 因為那個
+[849.0s -> 850.0s] 就是
+[850.0s -> 851.0s] 你們刻意塞過的
+[851.0s -> 852.0s] 對
+[852.0s -> 853.0s] 而且
+[853.0s -> 854.0s] 因為上學
+[854.0s -> 855.0s] 是有音樂曲比賽
+[855.0s -> 856.0s] 所以我們
+[856.0s -> 857.0s] 音樂曲表演
+[857.0s -> 858.0s] 有關的
+[858.0s -> 859.0s] 就是
+[859.0s -> 860.0s] 在
+[860.0s -> 861.0s] 兩三週的時間
+[861.0s -> 862.0s] 其實
+[862.0s -> 863.0s] 他們學
+[863.0s -> 865.0s] 就是一半在上課
+[865.0s -> 866.0s] 一半到晚
+[866.0s -> 867.0s] 大概差不多
+[867.0s -> 868.0s] 那你對了
+[868.0s -> 869.0s] 這個小朋友
+[869.0s -> 870.0s] 心血型
+[870.0s -> 871.0s] 覺得狀況不好
+[871.0s -> 872.0s] 音樂曲
+[872.0s -> 873.0s] 12月1月出
+[873.0s -> 874.0s] 就逃適
+[874.0s -> 875.0s] 所以其實
+[875.0s -> 876.0s] 我們那一次的
+[876.0s -> 877.0s] 逃適
+[877.0s -> 878.0s] 幫忙
+[878.0s -> 879.0s] 一點點
+[879.0s -> 880.0s] 對,就會簡單
+[880.0s -> 881.0s] 就比較彈性很大
+[881.0s -> 882.0s] 對
+[882.0s -> 883.0s] 因為
+[883.0s -> 884.0s] 就知道
+[884.0s -> 885.0s] 說在音樂曲表演之後
+[885.0s -> 886.0s] 馬上就接著
+[886.0s -> 887.0s] 隔一個禮拜
+[887.0s -> 888.0s] 對
+[888.0s -> 889.0s] 就考試了
+[889.0s -> 890.0s] 對
+[890.0s -> 891.0s] 那隔一個禮拜就考試了
+[891.0s -> 893.0s] 然後中間還換個
+[893.0s -> 894.0s] Christmas 3
+[894.0s -> 895.0s] 元旦假期
+[895.0s -> 896.0s] 對
+[896.0s -> 897.0s] 這個
+[897.0s -> 898.0s] 就什麼
+[898.0s -> 899.0s] 能力有閃掉啦
+[899.0s -> 900.0s] 對,所以
+[900.0s -> 901.0s] 因為
+[901.0s -> 902.0s] 一次的逃適
+[902.0s -> 903.0s] 是非常簡單
+[903.0s -> 904.0s] 就是讓大家
+[904.0s -> 905.0s] 建立自選啦
+[905.0s -> 906.0s] 對
+[906.0s -> 907.0s] 那你會覺得
+[907.0s -> 908.0s] 低學級就不錯的感覺
+[908.0s -> 909.0s] 對,那
+[909.0s -> 910.0s] 你講到重點
+[910.0s -> 911.0s] 因為
+[911.0s -> 912.0s] 因為 Ryan對於
+[912.0s -> 913.0s] 他
+[913.0s -> 914.0s] Jerk考50
+[914.0s -> 915.0s] 把他
+[915.0s -> 916.0s] 有力更更於緩
+[916.0s -> 917.0s] 然後後來他死之後
+[917.0s -> 918.0s] 滿樣的
+[918.0s -> 919.0s] 因為他那個韓家
+[919.0s -> 920.0s] 他是
+[920.0s -> 921.0s] 那個
+[921.0s -> 922.0s] 五星的
+[922.0s -> 923.0s] 以下的舞蹈
+[923.0s -> 924.0s] 大家真的就看過一遍
+[924.0s -> 925.0s] 然後
+[925.0s -> 926.0s] 你就覺得
+[926.0s -> 927.0s] 什麼
+[927.0s -> 928.0s] 那個心態
+[928.0s -> 929.0s] 那個心態
+[929.0s -> 930.0s] 然後
+[930.0s -> 931.0s] 的確
+[931.0s -> 932.0s] 我們的那個
+[932.0s -> 933.0s] 青蛙本的
+[933.0s -> 934.0s] 以下後面
+[934.0s -> 935.0s] 就是稍微墊
+[935.0s -> 936.0s] 對,滿很多
+[936.0s -> 937.0s] 很多我們法就進來了
+[937.0s -> 938.0s] 所以他的
+[938.0s -> 939.0s] 我就要成績就有明顯
+[939.0s -> 940.0s] 對
+[940.0s -> 941.0s] 然後
+[941.0s -> 942.0s] 我發現後來
+[942.0s -> 943.0s] Jerk他
+[943.0s -> 944.0s] 其實有一點點
+[944.0s -> 945.0s] 在考試的部分
+[945.0s -> 946.0s] 小緩部分
+[946.0s -> 947.0s] 他有稍微
+[947.0s -> 948.0s] 其實說會考什麼
+[948.0s -> 949.0s] 對
+[949.0s -> 950.0s] 他的很簡單
+[950.0s -> 951.0s] 他們的
+[951.0s -> 952.0s] 因為他很努力
+[952.0s -> 953.0s] 當然他們的東西
+[953.0s -> 954.0s] 很難
+[954.0s -> 955.0s] 可是說像
+[955.0s -> 956.0s] Ryan的
+[956.0s -> 957.0s] 能力他如果
+[957.0s -> 958.0s] Ryan有按照Jerk
+[958.0s -> 959.0s] 乖乖的去寫
+[959.0s -> 960.0s] R&D的
+[960.0s -> 961.0s] 那個
+[961.0s -> 962.0s] 我的問題
+[962.0s -> 963.0s] 所以好像也可以
+[963.0s -> 964.0s] 我個人的建議
+[964.0s -> 965.0s] 說
+[965.0s -> 966.0s] 現在韓家
+[966.0s -> 967.0s] 起見我都不建議
+[967.0s -> 968.0s] 對
+[968.0s -> 969.0s] 跟韓署家起見我
+[969.0s -> 970.0s] 不建議要把客人拿出來
+[970.0s -> 971.0s] 因為我
+[971.0s -> 972.0s] 要開學
+[972.0s -> 973.0s] 不管是過往
+[973.0s -> 974.0s] 或是未來
+[974.0s -> 975.0s] 你要預期
+[975.0s -> 976.0s] 就是
+[976.0s -> 977.0s] 我會學的
+[977.0s -> 978.0s] 這個時間
+[978.0s -> 980.0s] 去拓展他們網路
+[980.0s -> 982.0s] 我舉個例子
+[982.0s -> 984.0s] 譬如說一個單字
+[984.0s -> 985.0s] 好的
+[985.0s -> 986.0s] 這個單字或這個文法
+[986.0s -> 987.0s] 你在這本書
+[987.0s -> 988.0s] 同一個內容
+[988.0s -> 989.0s] 看十字
+[989.0s -> 991.0s] 跟你在不同的
+[991.0s -> 992.0s] 文章
+[992.0s -> 993.0s] 或者是故事裡
+[993.0s -> 994.0s] 好看到十字
+[994.0s -> 995.0s] 那我們舉例
+[995.0s -> 996.0s] 我們學過好了
+[996.0s -> 997.0s] 學過類的
+[997.0s -> 998.0s] 假設這是學過類的
+[998.0s -> 999.0s] 或食物類的
+[999.0s -> 1001.0s] 然後可能我們去其他的
+[1001.0s -> 1002.0s] 教材
+[1002.0s -> 1003.0s] 或是這一本
+[1003.0s -> 1004.0s] 會本都在想學過
+[1004.0s -> 1005.0s] 會本
+[1005.0s -> 1007.0s] 或是
+[1007.0s -> 1009.0s] 講實物類的
+[1009.0s -> 1010.0s] 增加它的廣度
+[1010.0s -> 1011.0s] 那他覺得說
+[1011.0s -> 1012.0s] 因為我這個單字
+[1012.0s -> 1013.0s] 客人上
+[1013.0s -> 1014.0s] 我可能
+[1014.0s -> 1015.0s] 對
+[1015.0s -> 1016.0s] 他會跟我說
+[1016.0s -> 1017.0s] 媽媽這個身上有交過
+[1017.0s -> 1018.0s] 就是
+[1018.0s -> 1019.0s] 類似的文藝學
+[1019.0s -> 1020.0s] 覺得說
+[1020.0s -> 1021.0s] 我們原來
+[1021.0s -> 1023.0s] 我們都有講到同樣的字
+[1023.0s -> 1024.0s] 對他而言
+[1024.0s -> 1025.0s] 那個
+[1025.0s -> 1026.0s] 就是
+[1026.0s -> 1027.0s] 他看了十字
+[1027.0s -> 1028.0s] 跟我們客本
+[1028.0s -> 1030.0s] 同樣內容看十字
+[1030.0s -> 1031.0s] 他其實會提拔的
+[1031.0s -> 1032.0s] 一直看清楚
+[1032.0s -> 1033.0s] 他會覺得
+[1033.0s -> 1034.0s] 第一個他會覺得
+[1034.0s -> 1035.0s] 他就學過了
+[1035.0s -> 1036.0s] 第二個
+[1036.0s -> 1038.0s] 他在不同的地方
+[1038.0s -> 1039.0s] 遇到他認識
+[1039.0s -> 1040.0s] 他其實會有自信
+[1040.0s -> 1041.0s] 他這個我知道
+[1041.0s -> 1042.0s] 對
+[1042.0s -> 1043.0s] 所以我會接電台
+[1043.0s -> 1044.0s] 處下
+[1044.0s -> 1045.0s] 當然你要
+[1045.0s -> 1046.0s] 複習客本
+[1046.0s -> 1047.0s] 我很開心
+[1047.0s -> 1049.0s] 我會接你
+[1049.0s -> 1050.0s] 他過了複習小考考證
+[1050.0s -> 1051.0s] 我就老闆
+[1051.0s -> 1052.0s] 比較時間一點
+[1052.0s -> 1053.0s] 因為我老闆
+[1053.0s -> 1054.0s] 有考訓一些
+[1054.0s -> 1055.0s] 對
+[1055.0s -> 1056.0s] 所以我會接你
+[1056.0s -> 1057.0s] 讓他
+[1057.0s -> 1058.0s] 接著把自己的字身分子
+[1058.0s -> 1059.0s] 對
+[1059.0s -> 1061.0s] 可以說
+[1061.0s -> 1063.0s] 食物去上面
+[1063.0s -> 1064.0s] 對
+[1064.0s -> 1065.0s] 而同的影片
+[1065.0s -> 1066.0s] 對
+[1066.0s -> 1067.0s] 就讓他
+[1067.0s -> 1068.0s] 從不同的媒介
+[1068.0s -> 1069.0s] 其實
+[1069.0s -> 1070.0s] 基礎的影片
+[1070.0s -> 1071.0s] 就是這些
+[1071.0s -> 1072.0s] 對
+[1072.0s -> 1073.0s] 基礎的單子
+[1073.0s -> 1074.0s] 就是大象本的分類
+[1074.0s -> 1075.0s] 那些身的
+[1075.0s -> 1076.0s] 我們編排
+[1076.0s -> 1077.0s] 讓他拿好了
+[1077.0s -> 1078.0s] 對
+[1078.0s -> 1079.0s] 我們那個是
+[1079.0s -> 1080.0s] 穿上
+[1080.0s -> 1081.0s] 最長一件
+[1081.0s -> 1082.0s] 夾
+[1082.0s -> 1083.0s] 是
+[1083.0s -> 1084.0s] 穿上
+[1084.0s -> 1085.0s] 然後
+[1085.0s -> 1086.0s] 我們
+[1086.0s -> 1087.0s] 穿上
+[1087.0s -> 1088.0s] 夾
+[1088.0s -> 1089.0s] 教育部
+[1089.0s -> 1090.0s] 五兩千
+[1090.0s -> 1091.0s] 單
+[1091.0s -> 1092.0s] 對
+[1092.0s -> 1093.0s] 其實
+[1093.0s -> 1094.0s] 超萬用的
+[1094.0s -> 1095.0s] 不管今天
+[1095.0s -> 1096.0s] 最後趕到哪間學校
+[1096.0s -> 1097.0s] 我們已經編排
+[1097.0s -> 1098.0s] 就是
+[1098.0s -> 1099.0s] 等於是
+[1099.0s -> 1100.0s] 用漸小的夾
+[1100.0s -> 1101.0s] 我八兩千
+[1101.0s -> 1102.0s] 有一點那個
+[1102.0s -> 1103.0s] 超過密集
+[1103.0s -> 1104.0s] 再把它放進去
+[1104.0s -> 1105.0s] 所以如果說
+[1105.0s -> 1106.0s] 以小肉來講的話
+[1106.0s -> 1107.0s] 小肉畢業
+[1107.0s -> 1108.0s] 這本
+[1108.0s -> 1109.0s] 補刮那首的單子
+[1109.0s -> 1110.0s] 其實
+[1110.0s -> 1111.0s] 那個能力其實就真的嗎
+[1111.0s -> 1112.0s] 就很夠了
+[1112.0s -> 1113.0s] 很夠
+[1113.0s -> 1114.0s] 但是
+[1114.0s -> 1115.0s] 因為現在如果
+[1115.0s -> 1116.0s] 失蹤
+[1116.0s -> 1117.0s] 的要求又更高
+[1117.0s -> 1118.0s] 對
+[1118.0s -> 1119.0s] 那如果
+[1119.0s -> 1120.0s] 以往真的是夠
+[1120.0s -> 1121.0s] 沒問題
+[1121.0s -> 1122.0s] 但是現在
+[1122.0s -> 1123.0s] 只要失蹤的話
+[1123.0s -> 1124.0s] 當然又不夠
+[1124.0s -> 1125.0s] 對
+[1125.0s -> 1126.0s] 那一本事
+[1126.0s -> 1127.0s] 也是我們
+[1127.0s -> 1128.0s] 每一次都會改版
+[1128.0s -> 1129.0s] 還是要
+[1129.0s -> 1130.0s] 教育部那邊都
+[1130.0s -> 1131.0s] 漸小不改的話
+[1131.0s -> 1132.0s] 其實
+[1132.0s -> 1133.0s] 那一本就一直一
+[1133.0s -> 1134.0s] 其實我們也沒有在改版
+[1134.0s -> 1135.0s] 因為我受到漸小
+[1135.0s -> 1136.0s] 還有在跟前
+[1136.0s -> 1137.0s] 所以我們
+[1137.0s -> 1138.0s] 那一本就一直都知道
+[1138.0s -> 1139.0s] 因為漸小一點
+[1139.0s -> 1140.0s] 但是
+[1140.0s -> 1141.0s] 有一些什麼
+[1141.0s -> 1143.0s] 現在新的那種電腦
+[1143.0s -> 1144.0s] 網路
+[1144.0s -> 1146.0s] 我們就沒有收入
+[1146.0s -> 1147.0s] 那是我
+[1147.0s -> 1148.0s] 一些因為
+[1148.0s -> 1149.0s] 實在的
+[1149.0s -> 1150.0s] 我看Flyers的
+[1150.0s -> 1151.0s] 智慧
+[1151.0s -> 1152.0s] 因為我們
+[1152.0s -> 1153.0s] 有在開
+[1153.0s -> 1154.0s] 週末的那個
+[1154.0s -> 1155.0s] 漸小文件班
+[1155.0s -> 1156.0s] 對
+[1156.0s -> 1157.0s] 然後我看
+[1157.0s -> 1158.0s] 一些單紙
+[1158.0s -> 1159.0s] 他們幾個有本錢
+[1159.0s -> 1160.0s] 但是我們
+[1160.0s -> 1161.0s] 就沒有在跟前
+[1161.0s -> 1162.0s] 因為我們
+[1162.0s -> 1163.0s] 變成後常上
+[1163.0s -> 1164.0s] 再說了對不對
+[1164.0s -> 1165.0s] 小一到小六
+[1165.0s -> 1166.0s] 那如果
+[1166.0s -> 1167.0s] 哪一年要換版本
+[1167.0s -> 1168.0s] 會
+[1168.0s -> 1169.0s] 蠻大的工程
+[1169.0s -> 1170.0s] 因為他們等於
+[1170.0s -> 1171.0s] 是都是從小
+[1171.0s -> 1172.0s] 用到小六
+[1172.0s -> 1173.0s] 你要從哪一年看的話
+[1173.0s -> 1175.0s] 那個就是工程好大
+[1175.0s -> 1176.0s] 就先把基本盤先補過
+[1176.0s -> 1177.0s] 對
+[1177.0s -> 1178.0s] 那如果說像老師
+[1178.0s -> 1179.0s] 你剛剛講的
+[1179.0s -> 1180.0s] 因為實在的關係
+[1180.0s -> 1181.0s] 其實那個
+[1181.0s -> 1182.0s] 上課
+[1182.0s -> 1183.0s] 在服務裡就好
+[1183.0s -> 1184.0s] 這個不多了
+[1184.0s -> 1185.0s] 譬如說
+[1185.0s -> 1186.0s] 他在準備
+[1186.0s -> 1187.0s] 見小一天的時候
+[1187.0s -> 1188.0s] 聽都遇到
+[1188.0s -> 1189.0s] 就要再講一聲就好了
+[1189.0s -> 1190.0s] 對
+[1190.0s -> 1191.0s] 那個到拍
+[1191.0s -> 1192.0s] 好玩
+[1192.0s -> 1193.0s] 那
+[1193.0s -> 1194.0s] 那像老師
+[1194.0s -> 1195.0s] 有沒有推薦
+[1195.0s -> 1196.0s] 就是像你自己
+[1196.0s -> 1197.0s] 你在跟著小孩在打手
+[1197.0s -> 1198.0s] 你在
+[1198.0s -> 1199.0s] 因為我問你過
+[1199.0s -> 1201.0s] 推薦什麼ABD
+[1201.0s -> 1202.0s] 那你也是
+[1202.0s -> 1203.0s] 都是
+[1203.0s -> 1204.0s] 教他就是學校的工資
+[1204.0s -> 1205.0s] 他就不像
+[1205.0s -> 1206.0s] 這裡吧
+[1206.0s -> 1207.0s] 我發現
+[1207.0s -> 1208.0s] 好像有一些小孩
+[1208.0s -> 1209.0s] 是有一半
+[1209.0s -> 1210.0s] 不是那小孩
+[1210.0s -> 1211.0s] 其實我知道
+[1211.0s -> 1212.0s] 像一陣子
+[1212.0s -> 1213.0s] 也不是念機人
+[1213.0s -> 1214.0s] 對,他家主比較遠
+[1214.0s -> 1216.0s] 你看他多做捷運啊
+[1216.0s -> 1217.0s] 對,他家住好遠
+[1217.0s -> 1219.0s] 他是住台北
+[1219.0s -> 1220.0s] 那他住台北市嗎
+[1220.0s -> 1221.0s] 對啊,沒有
+[1221.0s -> 1222.0s] 他不是住台北市
+[1222.0s -> 1223.0s] 然後
+[1223.0s -> 1224.0s] 我小孩是因為音樂班
+[1224.0s -> 1225.0s] 他討音樂班
+[1225.0s -> 1227.0s] 所以他第二年級在這裡
+[1227.0s -> 1228.0s] 然後他
+[1228.0s -> 1229.0s] 之後
+[1229.0s -> 1230.0s] 功效去
+[1230.0s -> 1232.0s] 對,然後他去念那個音樂
+[1232.0s -> 1233.0s] 他是考...
+[1233.0s -> 1234.0s] 他就是對這個行學
+[1234.0s -> 1235.0s] 他是念工的音樂班
+[1235.0s -> 1236.0s] 對,工的音樂班
+[1236.0s -> 1237.0s] 那他是
+[1237.0s -> 1238.0s] 他是主修什麼
+[1238.0s -> 1239.0s] 主修鋼琴
+[1239.0s -> 1240.0s] 主修鋼琴
+[1240.0s -> 1241.0s] 然後
+[1241.0s -> 1242.0s] 主修鋼琴
+[1242.0s -> 1243.0s] 可是因為他
+[1243.0s -> 1244.0s] 音樂的東西
+[1244.0s -> 1245.0s] 都在學校寶店
+[1245.0s -> 1247.0s] 會什麼意思
+[1247.0s -> 1248.0s] 對
+[1248.0s -> 1249.0s] 等於說你
+[1249.0s -> 1250.0s] 你其實
+[1250.0s -> 1251.0s] 你在學校你也沒有
+[1251.0s -> 1252.0s] 讓他去補教教的
+[1252.0s -> 1253.0s] 鋼琴墨場地
+[1253.0s -> 1254.0s] 沒有
+[1254.0s -> 1255.0s] 因為學校寶店
+[1255.0s -> 1256.0s] 學校
+[1256.0s -> 1257.0s] 沒有,學校也只有
+[1257.0s -> 1258.0s] 一個一的
+[1258.0s -> 1259.0s] 學校的鋼琴
+[1259.0s -> 1260.0s] 一家就付分
+[1260.0s -> 1261.0s] 而且還比外面便宜
+[1261.0s -> 1262.0s] 對不對
+[1262.0s -> 1263.0s] 很多
+[1263.0s -> 1265.0s] 而且他都處理掉了
+[1265.0s -> 1267.0s] 學校就有情況
+[1267.0s -> 1268.0s] 真的好棒
+[1268.0s -> 1269.0s] 你們是公立國
+[1269.0s -> 1270.0s] 公立國小
+[1270.0s -> 1271.0s] 公立國小
+[1271.0s -> 1272.0s] 哪一間
+[1272.0s -> 1273.0s] 秀山
+[1273.0s -> 1274.0s] 學校寶店
+[1274.0s -> 1275.0s] 學校寶店
+[1275.0s -> 1276.0s] 學校寶店
+[1276.0s -> 1277.0s] 學校寶店
+[1277.0s -> 1278.0s] 學校寶店
+[1278.0s -> 1279.0s] 學校寶店
+[1279.0s -> 1280.0s] 學校寶店
+[1280.0s -> 1281.0s] 然後
+[1281.0s -> 1282.0s] 反正就是考
+[1282.0s -> 1283.0s] 就是要考
+[1283.0s -> 1284.0s] 學校寶店
+[1284.0s -> 1285.0s] 他在臉書
+[1285.0s -> 1286.0s] 他中年競進
+[1286.0s -> 1287.0s] 學校寶店
+[1287.0s -> 1288.0s] 對
+[1288.0s -> 1289.0s] 他二下的時候
+[1289.0s -> 1290.0s] 他有臉書
+[1290.0s -> 1291.0s] 其實
+[1291.0s -> 1292.0s] 一才班的話
+[1292.0s -> 1293.0s] 就是音樂班
+[1293.0s -> 1294.0s] 學校寶
+[1294.0s -> 1295.0s] 他們都是
+[1295.0s -> 1296.0s] 就是音音
+[1296.0s -> 1297.0s] 對
+[1297.0s -> 1298.0s] 你就是去考
+[1298.0s -> 1299.0s] 考過就
+[1299.0s -> 1300.0s] 就唸
+[1300.0s -> 1301.0s] 就給轉學
+[1301.0s -> 1302.0s] 那會哪哪
+[1302.0s -> 1303.0s] 但是你是說
+[1303.0s -> 1304.0s] 一小月的時候
+[1304.0s -> 1305.0s] 讓他學鋼琴
+[1305.0s -> 1306.0s] 還是大半分啊
+[1306.0s -> 1307.0s] 他就有學
+[1307.0s -> 1308.0s] 對
+[1308.0s -> 1309.0s] 他他們中部想要訪心
+[1309.0s -> 1310.0s] 因為
+[1310.0s -> 1311.0s] 因為他
+[1311.0s -> 1312.0s] 四月後
+[1312.0s -> 1313.0s] 先不要談鋼琴
+[1313.0s -> 1314.0s] 功課壓力太大
+[1314.0s -> 1315.0s] 他先把鋼琴停掉了
+[1315.0s -> 1316.0s] 可是
+[1316.0s -> 1317.0s] 你們就一直秩序
+[1317.0s -> 1318.0s] 他喜歡
+[1318.0s -> 1319.0s] 他是玩的
+[1319.0s -> 1320.0s] 所以就給他
+[1320.0s -> 1321.0s] 繼續學
+[1321.0s -> 1322.0s] 然後長禮是學校要求
+[1322.0s -> 1323.0s] 對
+[1323.0s -> 1324.0s] 因為你進去
+[1324.0s -> 1325.0s] 你就要在選一個復修
+[1325.0s -> 1327.0s] 就是主修完的選一個復修
+[1327.0s -> 1328.0s] 所以
+[1328.0s -> 1329.0s] 所以就變得
+[1329.0s -> 1330.0s] 一定要這樣子
+[1330.0s -> 1332.0s] 然後就一直這樣
+[1332.0s -> 1333.0s] 對
+[1333.0s -> 1334.0s] 這件事情
+[1334.0s -> 1335.0s] 花了非常多時間
+[1335.0s -> 1336.0s] 那他可以像
+[1336.0s -> 1337.0s] 因為是工地
+[1337.0s -> 1338.0s] 畢竟工地
+[1338.0s -> 1339.0s] 就是
+[1339.0s -> 1340.0s] 工地輕鬆
+[1340.0s -> 1341.0s] 但是
+[1341.0s -> 1342.0s] 因為我的話對你
+[1342.0s -> 1343.0s] 大家盯住
+[1343.0s -> 1344.0s] 也沒有
+[1344.0s -> 1345.0s] 沒有
+[1345.0s -> 1346.0s] 考慮
+[1346.0s -> 1347.0s] 因為他
+[1347.0s -> 1348.0s] 也其實
+[1348.0s -> 1349.0s] 學校要求
+[1349.0s -> 1350.0s] 一件事情
+[1350.0s -> 1351.0s] 很多
+[1351.0s -> 1352.0s] 今天一個月
+[1352.0s -> 1353.0s] 一天就是
+[1353.0s -> 1354.0s] 規定
+[1354.0s -> 1355.0s] 兩個月期加起來
+[1355.0s -> 1356.0s] 至少90分鐘
+[1356.0s -> 1358.0s] 我這麼多
+[1358.0s -> 1359.0s] 每天
+[1359.0s -> 1360.0s] 所以他會檢查
+[1360.0s -> 1361.0s] 每個禮拜
+[1361.0s -> 1363.0s] 要560分鐘
+[1363.0s -> 1364.0s] 所以你
+[1364.0s -> 1365.0s] 價值要千米
+[1365.0s -> 1366.0s] 我這麼的金
+[1366.0s -> 1367.0s] 對
+[1367.0s -> 1368.0s] 所以其實
+[1368.0s -> 1369.0s] 所以他
+[1369.0s -> 1370.0s] 練習時間會滿
+[1370.0s -> 1371.0s] 所以課業
+[1371.0s -> 1372.0s] 其實就有一點
+[1372.0s -> 1373.0s] 包庇
+[1373.0s -> 1374.0s] 因為他多小學
+[1374.0s -> 1375.0s] 就算了
+[1375.0s -> 1376.0s] 可是我六年級也到了
+[1376.0s -> 1377.0s] 因為這老師
+[1377.0s -> 1378.0s] 你們國中想要考慮
+[1378.0s -> 1379.0s] 哪一間
+[1379.0s -> 1380.0s] 國中
+[1380.0s -> 1381.0s] 看他吧
+[1381.0s -> 1382.0s] 你問他
+[1382.0s -> 1383.0s] 考試試力的人
+[1383.0s -> 1384.0s] 試力
+[1384.0s -> 1385.0s] 現在我
+[1385.0s -> 1386.0s] 不知道
+[1386.0s -> 1387.0s] 他口口少
+[1387.0s -> 1388.0s] 你知道嗎
+[1388.0s -> 1389.0s] 因為他的
+[1389.0s -> 1390.0s] 他們的學科
+[1390.0s -> 1391.0s] 其實
+[1391.0s -> 1392.0s] 是比一般的
+[1392.0s -> 1393.0s] 國小
+[1393.0s -> 1394.0s] 工地
+[1394.0s -> 1395.0s] 還有
+[1395.0s -> 1397.0s] 他等班的成績
+[1397.0s -> 1398.0s] 在
+[1398.0s -> 1399.0s] 秀山裡面
+[1399.0s -> 1400.0s] 算差的
+[1400.0s -> 1401.0s] 可是在一些
+[1401.0s -> 1402.0s] 特殊產業上
+[1402.0s -> 1403.0s] 因為他們
+[1403.0s -> 1404.0s] 因為他們的重心
+[1404.0s -> 1405.0s] 會變成
+[1405.0s -> 1406.0s] 在
+[1406.0s -> 1407.0s] 一個月
+[1407.0s -> 1408.0s] 所以
+[1408.0s -> 1409.0s] 他們的學科
+[1409.0s -> 1410.0s] 其實很多
+[1410.0s -> 1411.0s] 特別拿去
+[1411.0s -> 1412.0s] 團聯或什麼
+[1412.0s -> 1413.0s] 他們
+[1413.0s -> 1414.0s] 他的學科
+[1414.0s -> 1416.0s] 是被藝術科接走的
+[1416.0s -> 1417.0s] 這樣子就會變成
+[1417.0s -> 1418.0s] 老師你這樣
+[1418.0s -> 1419.0s] 建成嗎
+[1419.0s -> 1420.0s] 建成
+[1420.0s -> 1421.0s] 所以你
+[1421.0s -> 1422.0s] 可能會讓他去
+[1422.0s -> 1423.0s] 建成
+[1423.0s -> 1424.0s] 因為其實就不用
+[1424.0s -> 1425.0s] 跟學區
+[1425.0s -> 1426.0s] 跟我們玩家這樣
+[1426.0s -> 1427.0s] 好像可以去
+[1427.0s -> 1428.0s] 建成
+[1428.0s -> 1429.0s] 好像很嚴國樂
+[1429.0s -> 1430.0s] 我記得
+[1430.0s -> 1431.0s] 他有國樂
+[1431.0s -> 1432.0s] 他的
+[1432.0s -> 1433.0s] 少數
+[1433.0s -> 1434.0s] 性肥是
+[1434.0s -> 1435.0s] 有國樂的
+[1435.0s -> 1436.0s] 老師
+[1436.0s -> 1438.0s] 因為
+[1438.0s -> 1439.0s] 那個是嗎
+[1439.0s -> 1440.0s] 還算沒有大同學那邊
+[1440.0s -> 1442.0s] 因為他們
+[1442.0s -> 1443.0s] 他們學長
+[1443.0s -> 1444.0s] 劫力
+[1444.0s -> 1445.0s] 就是靠
+[1445.0s -> 1446.0s] 師傅
+[1446.0s -> 1447.0s] 然後
+[1447.0s -> 1448.0s] 人愛國中
+[1448.0s -> 1449.0s] 他們國中
+[1449.0s -> 1450.0s] 就是
+[1450.0s -> 1451.0s] 這三個
+[1451.0s -> 1452.0s] 一個月半
+[1452.0s -> 1453.0s] 建成
+[1453.0s -> 1454.0s] 我知道他有國中
+[1454.0s -> 1455.0s] 有國中部
+[1455.0s -> 1456.0s] 有
+[1456.0s -> 1457.0s] 因為
+[1457.0s -> 1458.0s] 然後
+[1458.0s -> 1459.0s] 建成的話
+[1459.0s -> 1460.0s] 我記得他們有一個學界
+[1460.0s -> 1461.0s] 是
+[1461.0s -> 1462.0s] 因為他主修的是
+[1462.0s -> 1463.0s] 中國地
+[1463.0s -> 1464.0s] 所以他就
+[1464.0s -> 1465.0s] 特別去建成
+[1465.0s -> 1466.0s] 因為建成好像是少數
+[1466.0s -> 1467.0s] 有國樂的老師
+[1467.0s -> 1482.0s] 國樂就比較
+[1482.0s -> 1483.0s] 下面就是
+[1483.0s -> 1484.0s] 人愛
+[1484.0s -> 1485.0s] 而且這些都是
+[1485.0s -> 1486.0s] 假設你面型每張頭上
+[1486.0s -> 1487.0s] 其實就跟學區
+[1487.0s -> 1488.0s] 有玩家
+[1488.0s -> 1489.0s] 有玩家
+[1489.0s -> 1490.0s] 他們要先
+[1490.0s -> 1491.0s] 副舉例
+[1491.0s -> 1492.0s] 副舉例
+[1492.0s -> 1493.0s] 副舉例
+[1493.0s -> 1494.0s] 副舉例
+[1494.0s -> 1495.0s] 副舉例
+[1495.0s -> 1496.0s] 副舉例
+[1496.0s -> 1497.0s] 副舉例
+[1497.0s -> 1498.0s] 可是
+[1498.0s -> 1499.0s] 老師加上
+[1499.0s -> 1500.0s] 你們會選的
+[1500.0s -> 1501.0s] 因為方式部分
+[1501.0s -> 1502.0s] 對於
+[1502.0s -> 1503.0s] 國中科業
+[1503.0s -> 1504.0s] 臺灣的
+[1504.0s -> 1505.0s] 身學制度跟
+[1505.0s -> 1506.0s] 你們其實也是
+[1506.0s -> 1507.0s] 就隨便
+[1507.0s -> 1508.0s] 國中
+[1508.0s -> 1509.0s] 我就可能
+[1509.0s -> 1510.0s] 就不讓他們
+[1510.0s -> 1511.0s] 就變成說
+[1511.0s -> 1512.0s] 因為是他的調子
+[1512.0s -> 1514.0s] 我會問他
+[1514.0s -> 1515.0s] 我會準
+[1515.0s -> 1516.0s] 我有跟他
+[1516.0s -> 1517.0s] 我現在就應該
+[1517.0s -> 1518.0s] 跟他講
+[1518.0s -> 1519.0s] 你自己要考慮
+[1519.0s -> 1520.0s] 就是
+[1520.0s -> 1521.0s] 你現在
+[1521.0s -> 1523.0s] 其實你開學
+[1523.0s -> 1524.0s] 因為
+[1524.0s -> 1525.0s] 他在班上
+[1525.0s -> 1526.0s] 自己算好的
+[1526.0s -> 1527.0s] 他自己知道
+[1527.0s -> 1528.0s] 他可以
+[1528.0s -> 1529.0s] 自己亂吃
+[1529.0s -> 1530.0s] 他可以
+[1530.0s -> 1531.0s] 自己知道
+[1531.0s -> 1532.0s] 自己的能耐
+[1532.0s -> 1533.0s] 對
+[1533.0s -> 1534.0s] 我說你
+[1534.0s -> 1535.0s] 因為他
+[1535.0s -> 1537.0s] 念過
+[1537.0s -> 1538.0s] 他知道
+[1538.0s -> 1540.0s] 這樣子的練習
+[1540.0s -> 1541.0s] 做業量
+[1541.0s -> 1542.0s] 跟練習
+[1542.0s -> 1543.0s] 對
+[1543.0s -> 1544.0s] 所以他自己知道
+[1544.0s -> 1545.0s] 對
+[1545.0s -> 1546.0s] 其實你想買品
+[1546.0s -> 1547.0s] 給他看你時間寫
+[1547.0s -> 1548.0s] 沒時間寫
+[1548.0s -> 1549.0s] 就不用買
+[1549.0s -> 1550.0s] 我一個
+[1550.0s -> 1551.0s] 我三年去
+[1551.0s -> 1552.0s] 像學習用買
+[1552.0s -> 1553.0s] 後來
+[1553.0s -> 1554.0s] 會錢
+[1554.0s -> 1555.0s] 真的沒時間寫
+[1555.0s -> 1556.0s] 沒有時間寫
+[1556.0s -> 1557.0s] 後來覺得
+[1557.0s -> 1558.0s] 我後來就算了
+[1558.0s -> 1559.0s] 反正
+[1559.0s -> 1560.0s] 如果
+[1560.0s -> 1561.0s] 因為
+[1561.0s -> 1562.0s] 我的想法
+[1562.0s -> 1563.0s] 是
+[1563.0s -> 1564.0s] 他私立的
+[1564.0s -> 1565.0s] 應該不夠照樣地
+[1565.0s -> 1566.0s] 因為我可能
+[1566.0s -> 1567.0s] 讓他去
+[1567.0s -> 1568.0s] 故事中
+[1568.0s -> 1569.0s] 因為他有時間
+[1569.0s -> 1570.0s] 對
+[1570.0s -> 1571.0s] 所以
+[1571.0s -> 1572.0s] 然後所以
+[1572.0s -> 1573.0s] 我就想說
+[1573.0s -> 1574.0s] 讓他
+[1574.0s -> 1575.0s] 如果
+[1575.0s -> 1576.0s] 考到因為班
+[1576.0s -> 1577.0s] 就念了
+[1577.0s -> 1578.0s] 考不到的話
+[1578.0s -> 1579.0s] 就
+[1579.0s -> 1580.0s] 就是
+[1580.0s -> 1581.0s] 有伙合
+[1581.0s -> 1582.0s] 對啊
+[1582.0s -> 1583.0s] 他的雙數嗎
+[1583.0s -> 1585.0s] 他是
+[1585.0s -> 1586.0s] 他是有伙
+[1586.0s -> 1587.0s] 他到我
+[1587.0s -> 1588.0s] 就是單數
+[1588.0s -> 1589.0s] 他是有伙合
+[1589.0s -> 1590.0s] 有伙合數理
+[1590.0s -> 1591.0s] 有伙合數理班
+[1591.0s -> 1592.0s] 跟伙合數
+[1592.0s -> 1593.0s] 班
+[1593.0s -> 1594.0s] 對
+[1594.0s -> 1595.0s] 但是數理班
+[1595.0s -> 1596.0s] 他可能考到了
+[1596.0s -> 1597.0s] 講一下
+[1597.0s -> 1598.0s] 因為班
+[1598.0s -> 1599.0s] 沒有
+[1599.0s -> 1600.0s] 就是這邊
+[1600.0s -> 1601.0s] 可是
+[1601.0s -> 1602.0s] 兩個學校
+[1602.0s -> 1603.0s] 都有緩越團
+[1603.0s -> 1604.0s] 兩個學校
+[1604.0s -> 1605.0s] 都有越團
+[1605.0s -> 1606.0s] 所以
+[1606.0s -> 1607.0s] 所以
+[1607.0s -> 1608.0s] 當他念
+[1608.0s -> 1609.0s] 普通班
+[1609.0s -> 1610.0s] 然後
+[1610.0s -> 1611.0s] 他就參加學校
+[1611.0s -> 1612.0s] 然後
+[1612.0s -> 1613.0s] 就有
+[1613.0s -> 1614.0s] 就是這樣子的
+[1614.0s -> 1615.0s] 管越團
+[1615.0s -> 1616.0s] 他們是這樣子的
+[1616.0s -> 1617.0s] 對
+[1617.0s -> 1618.0s] 他們就不參
+[1618.0s -> 1619.0s] 不學音樂
+[1619.0s -> 1620.0s] 念音樂班了
+[1620.0s -> 1621.0s] 但是
+[1621.0s -> 1622.0s] 念普通過程
+[1622.0s -> 1623.0s] 是參加管越團
+[1623.0s -> 1624.0s] 因為他
+[1624.0s -> 1625.0s] 過去四年的
+[1625.0s -> 1626.0s] 練習
+[1626.0s -> 1627.0s] 其實
+[1627.0s -> 1628.0s] 是參管越團
+[1628.0s -> 1629.0s] 就是夠了
+[1629.0s -> 1630.0s] 對
+[1630.0s -> 1631.0s] 其實這些都
+[1631.0s -> 1632.0s] 跟高中你要那個
+[1632.0s -> 1633.0s] 加分子
+[1633.0s -> 1634.0s] 就可以加分
+[1634.0s -> 1635.0s] 其實參加這個
+[1635.0s -> 1636.0s] 沒有
+[1636.0s -> 1637.0s] 對啊
+[1637.0s -> 1638.0s] 我想沒有
+[1638.0s -> 1640.0s] 我有
+[1640.0s -> 1641.0s] 給我們家老大
+[1641.0s -> 1642.0s] 一大學
+[1642.0s -> 1643.0s] 大學
+[1643.0s -> 1644.0s] 他就說
+[1644.0s -> 1645.0s] 大學跟小小
+[1645.0s -> 1646.0s] 有買
+[1646.0s -> 1647.0s] 對
+[1647.0s -> 1648.0s] 他就說
+[1648.0s -> 1649.0s] 沒操
+[1649.0s -> 1650.0s] 他也是音樂出來的
+[1650.0s -> 1651.0s] 他沒有
+[1651.0s -> 1652.0s] 他就說
+[1652.0s -> 1653.0s] 他就說
+[1653.0s -> 1654.0s] 拿有操
+[1654.0s -> 1655.0s] 他說那個
+[1655.0s -> 1656.0s] 家怎麼分
+[1656.0s -> 1657.0s] 他還一頭什麼學
+[1657.0s -> 1658.0s] 就是你
+[1658.0s -> 1659.0s] 你申請
+[1659.0s -> 1660.0s] 因為
+[1660.0s -> 1661.0s] 我們家大學
+[1661.0s -> 1662.0s] 是念立功的
+[1662.0s -> 1663.0s] 你念音樂
+[1663.0s -> 1664.0s] 對他
+[1664.0s -> 1665.0s] 對他
+[1665.0s -> 1666.0s] 也念什麼
+[1666.0s -> 1667.0s] 就是你念這些音樂
+[1667.0s -> 1668.0s] 或什麼藝術
+[1668.0s -> 1669.0s] 對他們
+[1669.0s -> 1670.0s] 立功來說
+[1670.0s -> 1671.0s] 是沒有意義的
+[1671.0s -> 1672.0s] 你家
+[1672.0s -> 1674.0s] 也沒有加到
+[1674.0s -> 1675.0s] 對
+[1675.0s -> 1677.0s] 除非你要訓練的是那個領域的
+[1677.0s -> 1678.0s] 對
+[1678.0s -> 1679.0s] 可是
+[1679.0s -> 1680.0s] 這又講到很大的議題的
+[1680.0s -> 1681.0s] 台灣
+[1681.0s -> 1682.0s] 就是一個科技的
+[1682.0s -> 1683.0s] 科技寡甩
+[1683.0s -> 1684.0s] 現在你
+[1684.0s -> 1685.0s] 現在
+[1685.0s -> 1686.0s] 文竹
+[1686.0s -> 1687.0s] 像文竹
+[1687.0s -> 1688.0s] 像
+[1688.0s -> 1689.0s] 東西一樣的
+[1689.0s -> 1690.0s] 沒關係
+[1690.0s -> 1691.0s] 我覺得這心境比較重要
+[1691.0s -> 1692.0s] 所以
+[1692.0s -> 1693.0s] 也是這樣
+[1693.0s -> 1694.0s] 小朋友
+[1694.0s -> 1695.0s] 我們家的
+[1695.0s -> 1696.0s] 各式
+[1696.0s -> 1697.0s] 你好
+[1697.0s -> 1698.0s] 事情發展
+[1698.0s -> 1699.0s] 沒有
+[1699.0s -> 1700.0s] 就是心臟比較強
+[1700.0s -> 1701.0s] 連大的那種椅子
+[1701.0s -> 1702.0s] 大得也是自己
+[1702.0s -> 1703.0s] 去摸手一個禮
+[1703.0s -> 1704.0s] 對啊
+[1704.0s -> 1705.0s] 因為我們家
+[1705.0s -> 1706.0s] 有什麼地方都被解
+[1706.0s -> 1707.0s] 所以
+[1707.0s -> 1708.0s] 那時候其實
+[1708.0s -> 1709.0s] 你大的藥頭出現音樂
+[1709.0s -> 1710.0s] 但他就是沒有藥學
+[1710.0s -> 1711.0s] 對啊
+[1711.0s -> 1712.0s] 他也是有學
+[1712.0s -> 1713.0s] 剛請什麼都藥
+[1713.0s -> 1714.0s] 就只有他請
+[1714.0s -> 1716.0s] 他最小
+[1716.0s -> 1717.0s] 然後
+[1717.0s -> 1718.0s] 到小
+[1718.0s -> 1719.0s] 小藥他就不要學
+[1719.0s -> 1720.0s] 他有效對或之
+[1720.0s -> 1721.0s] 沒有
+[1721.0s -> 1722.0s] 他
+[1722.0s -> 1724.0s] 高中是管樂團
+[1724.0s -> 1726.0s] 不過高中是管樂團
+[1726.0s -> 1727.0s] 對
+[1727.0s -> 1729.0s] 大家學的是小畢竟
+[1729.0s -> 1730.0s] 反正
+[1730.0s -> 1731.0s] 有音樂
+[1731.0s -> 1732.0s] 基礎
+[1732.0s -> 1734.0s] 其實都差不多了
+[1734.0s -> 1735.0s] 就感覺
+[1735.0s -> 1736.0s] 他音樂的部分
+[1736.0s -> 1737.0s] 對啊
+[1737.0s -> 1738.0s] 因為這樣
+[1738.0s -> 1739.0s] 我在想
+[1739.0s -> 1740.0s] 因為他對音樂
+[1740.0s -> 1741.0s] 其實也蠻喜歡的
+[1741.0s -> 1742.0s] 對
+[1742.0s -> 1743.0s] 但是
+[1743.0s -> 1744.0s] 很辛苦
+[1744.0s -> 1745.0s] 也很辛苦
+[1745.0s -> 1746.0s] 但我會覺得
+[1746.0s -> 1747.0s] 我現在
+[1747.0s -> 1748.0s] 越來越覺得
+[1748.0s -> 1749.0s] 就是
+[1749.0s -> 1751.0s] 唸一般的公囂
+[1751.0s -> 1752.0s] 然後
+[1752.0s -> 1753.0s] 有樂團的
+[1753.0s -> 1754.0s] 像我
+[1754.0s -> 1755.0s] 我就很想
+[1755.0s -> 1756.0s] 其實我朋友
+[1756.0s -> 1757.0s] 在演合
+[1757.0s -> 1758.0s] 教書
+[1758.0s -> 1759.0s] 然後有樂團
+[1759.0s -> 1760.0s] 就有樂團
+[1760.0s -> 1761.0s] 對
+[1761.0s -> 1762.0s] 看中和那個都沒有
+[1762.0s -> 1763.0s] 秀勞
+[1763.0s -> 1764.0s] 也是
+[1764.0s -> 1765.0s] 嫌對團的管樂團
+[1765.0s -> 1766.0s] 而且都
+[1766.0s -> 1767.0s] 比賽都滿厲害的
+[1767.0s -> 1768.0s] 都比賽滿了
+[1768.0s -> 1769.0s] 秀勞
+[1769.0s -> 1770.0s] 但是也是也不錯
+[1770.0s -> 1771.0s] 秀勞是
+[1771.0s -> 1772.0s] 因為他們是音樂版
+[1772.0s -> 1773.0s] 但是他們的音樂版
+[1773.0s -> 1774.0s] 因為現在音樂版人很少
+[1774.0s -> 1775.0s] 所以他們
+[1775.0s -> 1776.0s] 臭部陳一環
+[1776.0s -> 1777.0s] 對
+[1777.0s -> 1778.0s] 那他們
+[1778.0s -> 1779.0s] 本身也沒有什麼效對是
+[1779.0s -> 1780.0s] 他們
+[1780.0s -> 1781.0s] 用粉絲比賽
+[1781.0s -> 1782.0s] 但是
+[1782.0s -> 1783.0s] 他們人太少了
+[1783.0s -> 1784.0s] 因為
+[1784.0s -> 1785.0s] 我以為他們對班的
+[1785.0s -> 1786.0s] 15個人
+[1786.0s -> 1787.0s] 還是5個人
+[1787.0s -> 1788.0s] 然後他的學生
+[1788.0s -> 1789.0s] 黃金比例很好
+[1789.0s -> 1790.0s] 他的學生
+[1790.0s -> 1791.0s] 覺得都是8個10個
+[1791.0s -> 1793.0s] 我這麼少
+[1793.0s -> 1794.0s] 他們今年畢業的
+[1794.0s -> 1795.0s] 那一屆才8個
+[1795.0s -> 1796.0s] 在8個
+[1796.0s -> 1797.0s] 那他們本身
+[1797.0s -> 1798.0s] 就沒有效對
+[1798.0s -> 1799.0s] 他們本身就沒有效對
+[1799.0s -> 1800.0s] 他們就是
+[1800.0s -> 1801.0s] 他們也會去比
+[1801.0s -> 1802.0s] 這種管學樂團
+[1802.0s -> 1803.0s] 但他們人太少
+[1803.0s -> 1804.0s] 因為他們
+[1804.0s -> 1805.0s] 樂版手
+[1805.0s -> 1806.0s] 他們也不需要
+[1806.0s -> 1807.0s] 一般般的學生
+[1807.0s -> 1808.0s] 對
+[1808.0s -> 1809.0s] 因為沒有
+[1809.0s -> 1810.0s] 這兩個是不能一起比
+[1810.0s -> 1811.0s] 你不能
+[1811.0s -> 1812.0s] 用粉絲比
+[1812.0s -> 1813.0s] 一般般
+[1813.0s -> 1814.0s] 這不行
+[1814.0s -> 1815.0s] 因為
+[1815.0s -> 1816.0s] 人家會覺得他們
+[1816.0s -> 1817.0s] 比較能力
+[1817.0s -> 1818.0s] 對
+[1818.0s -> 1819.0s] 因為音樂班主是
+[1819.0s -> 1820.0s] 跟一般
+[1820.0s -> 1821.0s] 飛音樂班主是
+[1821.0s -> 1822.0s] 分開的比賽
+[1822.0s -> 1823.0s] 就都是管學樂團
+[1823.0s -> 1824.0s] 但是不同的比賽
+[1824.0s -> 1825.0s] 那他們比賽
+[1825.0s -> 1826.0s] 就是要跟一些
+[1826.0s -> 1827.0s] 有音樂班
+[1827.0s -> 1828.0s] 對
+[1828.0s -> 1829.0s] 他們要跟音樂班比
+[1829.0s -> 1830.0s] 對
+[1830.0s -> 1831.0s] 音樂班
+[1831.0s -> 1832.0s] 對
+[1832.0s -> 1833.0s] 他們臭
+[1833.0s -> 1834.0s] 他們
+[1834.0s -> 1835.0s] 沒有年紀
+[1835.0s -> 1836.0s] 才10幾個
+[1836.0s -> 1837.0s] 才20個左右
+[1837.0s -> 1839.0s] 20個
+[1839.0s -> 1840.0s] 臭氣
+[1840.0s -> 1841.0s] 對啊
+[1841.0s -> 1842.0s] 所以他們現在
+[1842.0s -> 1843.0s] 也很嚴強
+[1843.0s -> 1845.0s] 因為他們就變成
+[1845.0s -> 1846.0s] 然後樂器
+[1846.0s -> 1847.0s] 分配也不平均
+[1847.0s -> 1848.0s] 對
+[1848.0s -> 1849.0s] 像
+[1849.0s -> 1850.0s] 你要看那個整個
+[1850.0s -> 1851.0s] 取掉豐富
+[1851.0s -> 1852.0s] 其實那個豐富度
+[1852.0s -> 1853.0s] 就有它變成
+[1853.0s -> 1854.0s] 它的它是場地
+[1854.0s -> 1855.0s] 但它
+[1855.0s -> 1856.0s] 水毆毆的庫
+[1856.0s -> 1858.0s] 有水燒
+[1858.0s -> 1859.0s] 然後
+[1859.0s -> 1860.0s] 中提琴
+[1860.0s -> 1861.0s] 中提琴
+[1861.0s -> 1862.0s] 好像變成
+[1862.0s -> 1863.0s] 樹敵
+[1863.0s -> 1865.0s] 去吹中提琴的庫
+[1865.0s -> 1866.0s] 就是變成
+[1866.0s -> 1867.0s] 他們的樂器分配
+[1867.0s -> 1868.0s] 可能
+[1868.0s -> 1869.0s] 樂團
+[1869.0s -> 1870.0s] 它需要這些樂器
+[1870.0s -> 1871.0s] 現在他們的樂器
+[1871.0s -> 1872.0s] 有少
+[1872.0s -> 1873.0s] 可是他們人少
+[1873.0s -> 1874.0s] 就等於說
+[1874.0s -> 1875.0s] 要緊惡期
+[1875.0s -> 1876.0s] 大家有些樂器
+[1876.0s -> 1877.0s] 有很多人
+[1877.0s -> 1878.0s] 小兵琴大家都
+[1878.0s -> 1879.0s] 小兵
+[1879.0s -> 1880.0s] 小兵
+[1880.0s -> 1881.0s] 小兵
+[1881.0s -> 1882.0s] 小兵
+[1882.0s -> 1883.0s] 對
+[1883.0s -> 1884.0s] 比較大樂器
+[1884.0s -> 1885.0s] 就沒有人學
+[1885.0s -> 1886.0s] 所以他們
+[1886.0s -> 1887.0s] 很嚴強
+[1887.0s -> 1888.0s] 他們
+[1888.0s -> 1889.0s] 本來受傷的音樂班
+[1889.0s -> 1890.0s] 可能會有越少
+[1890.0s -> 1891.0s] 有時候看不成
+[1891.0s -> 1892.0s] 對
+[1892.0s -> 1893.0s] 不知到
+[1893.0s -> 1894.0s] 就要變成
+[1894.0s -> 1895.0s] 跟其他功效一樣
+[1895.0s -> 1897.0s] 就是主要主力培養
+[1897.0s -> 1898.0s] 一般的學生
+[1898.0s -> 1899.0s] 後來我覺得
+[1899.0s -> 1900.0s] 有點
+[1900.0s -> 1901.0s] 比較不代表
+[1901.0s -> 1902.0s] 要讓他
+[1902.0s -> 1903.0s] 應該要讓他
+[1903.0s -> 1904.0s] 去面
+[1904.0s -> 1905.0s] 有合的
+[1905.0s -> 1906.0s] 寫
+[1906.0s -> 1907.0s] 對
+[1907.0s -> 1908.0s] 有合的寫
+[1908.0s -> 1909.0s] 那這樣你是千部級耶
+[1909.0s -> 1910.0s] 我們就要把這個
+[1910.0s -> 1911.0s] 有合的小
+[1911.0s -> 1912.0s] 所以秀山
+[1912.0s -> 1913.0s] 你是因為
+[1913.0s -> 1914.0s] 就是他寫的
+[1914.0s -> 1915.0s] 對秀山是用好的
+[1915.0s -> 1916.0s] 我推薦新北的
+[1916.0s -> 1917.0s] 然後用好的
+[1917.0s -> 1918.0s] 就對了
+[1918.0s -> 1919.0s] 對
+[1919.0s -> 1920.0s] 所以有合合的小兵寫完
+[1920.0s -> 1922.0s] 然後我有朋友在
+[1922.0s -> 1923.0s] 我有朋友
+[1923.0s -> 1924.0s] 我是
+[1924.0s -> 1925.0s] 你看
+[1925.0s -> 1926.0s] 如果是這樣的話
+[1926.0s -> 1927.0s] 他在寫
+[1927.0s -> 1928.0s] 因為你這個
+[1928.0s -> 1929.0s] 就有想要拉越合的
+[1929.0s -> 1930.0s] 對不對
+[1930.0s -> 1931.0s] 沒有啦
+[1931.0s -> 1932.0s] 如果是有寫音樂條
+[1932.0s -> 1933.0s] 他們寫的很好笑
+[1933.0s -> 1934.0s] 有嗎
+[1934.0s -> 1935.0s] 可是中文還強嗎
+[1935.0s -> 1936.0s] 我不知道
+[1936.0s -> 1937.0s] 中文合好笑
+[1937.0s -> 1938.0s] 就能有一個
+[1938.0s -> 1939.0s] 中正國小
+[1939.0s -> 1940.0s] 反修中文
+[1940.0s -> 1942.0s] 還是哪個中正國小的
+[1942.0s -> 1943.0s] 反修中文是
+[1943.0s -> 1944.0s] 他們的寫音樂
+[1944.0s -> 1945.0s] 對
+[1945.0s -> 1947.0s] 他們連寫音樂
+[1947.0s -> 1949.0s] 以賽都顧名參加
+[1949.0s -> 1950.0s] 音樂班
+[1950.0s -> 1952.0s] 他還可以這樣子
+[1952.0s -> 1954.0s] 一般可以參加音樂班
+[1954.0s -> 1955.0s] 可能
+[1955.0s -> 1956.0s] 真的這樣子
+[1956.0s -> 1957.0s] 對
+[1957.0s -> 1958.0s] 但他們顧名挑戰音樂班
+[1958.0s -> 1959.0s] 是
+[1959.0s -> 1960.0s] 所以音樂班
+[1960.0s -> 1961.0s] 我記得去年
+[1961.0s -> 1962.0s] 音樂比賽的
+[1962.0s -> 1963.0s] 前三年
+[1963.0s -> 1964.0s] 都是他們
+[1964.0s -> 1965.0s] 樂團的
+[1965.0s -> 1966.0s] 中正國小
+[1966.0s -> 1967.0s] 反修
+[1967.0s -> 1968.0s] 中正
+[1968.0s -> 1969.0s] 反修
+[1969.0s -> 1970.0s] 那個是反修
+[1970.0s -> 1971.0s] 還是中文
+[1971.0s -> 1972.0s] 中文
+[1972.0s -> 1973.0s] 反修
+[1973.0s -> 1974.0s] 還是上德區的
+[1974.0s -> 1976.0s] 是上德區的學校
+[1976.0s -> 1977.0s] 我忘記
+[1977.0s -> 1978.0s] 中開頭
+[1978.0s -> 1980.0s] 就中開頭
+[1980.0s -> 1981.0s] 對
+[1981.0s -> 1983.0s] 很厲害
+[1983.0s -> 1984.0s] 我覺得現在寫音樂班
+[1984.0s -> 1985.0s] 很厲害
+[1985.0s -> 1986.0s] 因為他們等於是專注學
+[1986.0s -> 1987.0s] 一個樂器
+[1987.0s -> 1988.0s] 對
+[1988.0s -> 1989.0s] 他們人多啊
+[1989.0s -> 1990.0s] 他們是兩個樂器
+[1990.0s -> 1992.0s] 然後
+[1992.0s -> 1993.0s] 兩個樂器
+[1993.0s -> 1994.0s] 然後又
+[1994.0s -> 1995.0s] 其他的樂理
+[1995.0s -> 1996.0s] 課
+[1996.0s -> 1997.0s] 聽寫
+[1997.0s -> 1998.0s] 課事上
+[1998.0s -> 1999.0s] 他們樂理事上聽寫
+[1999.0s -> 2000.0s] 經常
+[2000.0s -> 2002.0s] 德瓦丁碼考試
+[2002.0s -> 2003.0s] 德瓦丁碼考試
+[2003.0s -> 2004.0s] 對
+[2004.0s -> 2005.0s] 而且中年開始考不得
+[2005.0s -> 2006.0s] 對
+[2006.0s -> 2007.0s] 然後經常課即
+[2007.0s -> 2008.0s] 就是你的音樂式
+[2008.0s -> 2010.0s] 就是
+[2010.0s -> 2012.0s] 進去群隊都要這樣
+[2012.0s -> 2013.0s] 沒有
+[2013.0s -> 2015.0s] 就是音樂班
+[2015.0s -> 2016.0s] 所以我後來
+[2016.0s -> 2017.0s] 就覺得
+[2017.0s -> 2018.0s] 應該讓他去
+[2018.0s -> 2019.0s] 甜樂場
+[2019.0s -> 2020.0s] 因為我們
+[2020.0s -> 2021.0s] 我現在
+[2021.0s -> 2022.0s] 就是小時候
+[2022.0s -> 2023.0s] 就是音樂班
+[2023.0s -> 2025.0s] 他就是垃圾畢竟
+[2025.0s -> 2026.0s] 所以他覺得
+[2026.0s -> 2027.0s] 可是因為
+[2027.0s -> 2028.0s] 一回群
+[2028.0s -> 2029.0s] 然後因為進去
+[2029.0s -> 2030.0s] 他就變成
+[2030.0s -> 2032.0s] 他是
+[2032.0s -> 2033.0s] 因為寫
+[2033.0s -> 2035.0s] 因為很多人
+[2035.0s -> 2036.0s] 然後所以
+[2036.0s -> 2037.0s] 他就不能寫
+[2037.0s -> 2038.0s] 小畢竟
+[2038.0s -> 2039.0s] 因為小畢竟
+[2039.0s -> 2040.0s] 跟養成時間要比較長
+[2040.0s -> 2041.0s] 對
+[2041.0s -> 2042.0s] 我們學小畢竟
+[2042.0s -> 2043.0s] 他說
+[2043.0s -> 2044.0s] 你三年級
+[2044.0s -> 2045.0s] 才有寫復修的話
+[2045.0s -> 2046.0s] 就是
+[2046.0s -> 2047.0s] 選關於
+[2047.0s -> 2048.0s] 或他
+[2048.0s -> 2049.0s] 所以
+[2049.0s -> 2050.0s] 就各讓我寫
+[2050.0s -> 2051.0s] 小畢竟
+[2051.0s -> 2052.0s] 因為我們家
+[2052.0s -> 2053.0s] 其實我是不是
+[2053.0s -> 2054.0s] 就可以教他
+[2054.0s -> 2055.0s] 對啊
+[2055.0s -> 2056.0s] 可以
+[2056.0s -> 2057.0s] 也不是
+[2057.0s -> 2058.0s] 教他
+[2058.0s -> 2059.0s] 對
+[2059.0s -> 2060.0s] 教他
+[2060.0s -> 2061.0s] 不至於
+[2061.0s -> 2062.0s] 能教他
+[2062.0s -> 2063.0s] 那是陪他練
+[2063.0s -> 2064.0s] 沒有可能
+[2064.0s -> 2065.0s] 以前畢竟是學過
+[2065.0s -> 2066.0s] 可是教人
+[2066.0s -> 2067.0s] 本來是要教有專業
+[2067.0s -> 2068.0s] 對
+[2068.0s -> 2069.0s] 教還是要教專業
+[2069.0s -> 2070.0s] 本來親自存款
+[2070.0s -> 2071.0s] 對
+[2071.0s -> 2072.0s] 然後
+[2072.0s -> 2073.0s] 晚上給他練
+[2073.0s -> 2074.0s] 當然是可以
+[2074.0s -> 2076.0s] 幫他聽所一陣的音準
+[2076.0s -> 2077.0s] 對
+[2077.0s -> 2078.0s] 對
+[2078.0s -> 2079.0s] 這個時候
+[2079.0s -> 2080.0s] 我們不讓我們寫學
+[2080.0s -> 2081.0s] 因為
+[2081.0s -> 2082.0s] 我們有點遺憾
+[2082.0s -> 2084.0s] 因為他寫
+[2084.0s -> 2085.0s] 對
+[2085.0s -> 2086.0s] 考上
+[2086.0s -> 2087.0s] 所以就算了
+[2087.0s -> 2088.0s] 可是後來
+[2088.0s -> 2089.0s] 我可能
+[2089.0s -> 2090.0s] 聽過
+[2090.0s -> 2093.0s] 他不是寫學
+[2093.0s -> 2094.0s] 然後稍微看他的能力
+[2094.0s -> 2095.0s] 然後
+[2095.0s -> 2096.0s] 就進來
+[2096.0s -> 2097.0s] 進來在練
+[2097.0s -> 2098.0s] 然後他們
+[2098.0s -> 2099.0s] 也會
+[2099.0s -> 2101.0s] 就像自己去找老師
+[2101.0s -> 2102.0s] 一堆
+[2102.0s -> 2103.0s] 課後
+[2103.0s -> 2104.0s] 然後又有關
+[2104.0s -> 2106.0s] 又點是便利
+[2106.0s -> 2107.0s] 你一堆
+[2107.0s -> 2108.0s] 一找老師
+[2108.0s -> 2109.0s] 就是出了老師的重點
+[2109.0s -> 2110.0s] 可是
+[2110.0s -> 2111.0s] 可是社團的
+[2111.0s -> 2112.0s] 校隊的
+[2112.0s -> 2113.0s] 一個也是
+[2113.0s -> 2114.0s] 不貴吧
+[2114.0s -> 2115.0s] 還是
+[2115.0s -> 2116.0s] 那個就是跟老師
+[2116.0s -> 2117.0s] 自己去上
+[2117.0s -> 2118.0s] 所以我會問
+[2118.0s -> 2119.0s] 其實是
+[2119.0s -> 2120.0s] 像內
+[2120.0s -> 2121.0s] 真的
+[2121.0s -> 2122.0s] 他不是像內老師
+[2122.0s -> 2124.0s] 他也是外貴老師
+[2124.0s -> 2125.0s] 然後他那個費用
+[2125.0s -> 2126.0s] 就是跟外貴
+[2126.0s -> 2127.0s] 只是你的
+[2127.0s -> 2129.0s] 產定是在學校
+[2129.0s -> 2130.0s] 他對
+[2130.0s -> 2131.0s] 這個我聽不知道
+[2131.0s -> 2132.0s] 他們有的要求
+[2132.0s -> 2133.0s] 要是假學
+[2133.0s -> 2134.0s] 有的是
+[2134.0s -> 2135.0s] 我記得他們是要在
+[2135.0s -> 2136.0s] 老師假學
+[2136.0s -> 2137.0s] 一樣跟老師
+[2137.0s -> 2138.0s] 一堆一堆
+[2138.0s -> 2139.0s] 真的
+[2139.0s -> 2140.0s] 如果是
+[2140.0s -> 2141.0s] 校隊的話
+[2141.0s -> 2142.0s] 或是有這個狀況
+[2142.0s -> 2143.0s] 我覺得校隊還不錯
+[2143.0s -> 2144.0s] 我現在
+[2144.0s -> 2145.0s] 目前
+[2145.0s -> 2147.0s] 我覺得校隊是
+[2147.0s -> 2150.0s] 如果你考量經濟因素的話
+[2150.0s -> 2151.0s] 因為因為
+[2151.0s -> 2152.0s] 不是這個
+[2152.0s -> 2153.0s] 但是
+[2153.0s -> 2154.0s] 對
+[2154.0s -> 2155.0s] 然後
+[2155.0s -> 2156.0s] 但是如果
+[2156.0s -> 2157.0s] 經濟因素的話
+[2157.0s -> 2158.0s] 我覺得
+[2158.0s -> 2159.0s] 公校的
+[2159.0s -> 2160.0s] 閒躍團
+[2160.0s -> 2161.0s] 或管躍團
+[2161.0s -> 2162.0s] 是比較嚇人
+[2162.0s -> 2163.0s] 管躍團
+[2163.0s -> 2164.0s] 如果想要在音樂
+[2164.0s -> 2165.0s] 這塊盒
+[2165.0s -> 2166.0s] 其實在他以後
+[2166.0s -> 2167.0s] 有一個桃園
+[2167.0s -> 2169.0s] 那他有一個團隊的學生
+[2169.0s -> 2171.0s] 其實是
+[2171.0s -> 2172.0s] 我覺得會比較好
+[2172.0s -> 2173.0s] 管躍團
+[2173.0s -> 2174.0s] 就是看小孩
+[2174.0s -> 2175.0s] 是進什麼樣的樂器
+[2175.0s -> 2176.0s] 就讓他
+[2176.0s -> 2177.0s] 自己去選擇了
+[2177.0s -> 2178.0s] 對
+[2178.0s -> 2179.0s] 但是
+[2179.0s -> 2180.0s] 通常這個
+[2180.0s -> 2181.0s] 要選大校
+[2181.0s -> 2182.0s] 大校這種社團
+[2182.0s -> 2183.0s] 會懂
+[2183.0s -> 2184.0s] 小校就沒有
+[2184.0s -> 2185.0s] 社團
+[2185.0s -> 2187.0s] 合就只有顯越
+[2187.0s -> 2188.0s] 可是
+[2188.0s -> 2189.0s] 秀郎
+[2189.0s -> 2190.0s] 就是管躍團
+[2190.0s -> 2191.0s] 對
+[2191.0s -> 2192.0s] 但是秀郎
+[2192.0s -> 2193.0s] 不是更想進去
+[2193.0s -> 2194.0s] 秀郎比較大
+[2194.0s -> 2195.0s] 秀郎人
+[2195.0s -> 2196.0s] 是不是
+[2196.0s -> 2197.0s] 有何
+[2197.0s -> 2198.0s] 有何只有顯越
+[2198.0s -> 2199.0s] 然後秀郎
+[2199.0s -> 2200.0s] 是顯越跟管躍團
+[2200.0s -> 2201.0s] 對
+[2201.0s -> 2202.0s] 所以
+[2202.0s -> 2203.0s] 其實
+[2203.0s -> 2204.0s] 不知道
+[2204.0s -> 2205.0s] 因為後來發現
+[2205.0s -> 2206.0s] 很多學校都有樂團
+[2206.0s -> 2207.0s] 對
+[2207.0s -> 2209.0s] 因為我今天就是音樂班出來了
+[2209.0s -> 2210.0s] 還覺得
+[2210.0s -> 2212.0s] 就是要念音樂班
+[2212.0s -> 2213.0s] 然後
+[2213.0s -> 2214.0s] 來發現
+[2214.0s -> 2215.0s] 要來寫
+[2215.0s -> 2216.0s] 外面的事件
+[2216.0s -> 2217.0s] 比較寬廣
+[2217.0s -> 2218.0s] 對
+[2218.0s -> 2219.0s] 因為人多
+[2219.0s -> 2220.0s] 所以你臭
+[2220.0s -> 2221.0s] 我的樂器
+[2221.0s -> 2222.0s] 什麼的都
+[2222.0s -> 2223.0s] 對
+[2223.0s -> 2224.0s] 因為他的手機
+[2224.0s -> 2225.0s] 是樂團
+[2225.0s -> 2226.0s] 就是等於是全校我都
+[2226.0s -> 2227.0s] 只要願意來的
+[2227.0s -> 2228.0s] 就是
+[2228.0s -> 2229.0s] 考古古古
+[2229.0s -> 2230.0s] 所以
+[2230.0s -> 2232.0s] 我可以鬆很多的人
+[2232.0s -> 2233.0s] 可是現在
+[2233.0s -> 2234.0s] 音樂班
+[2234.0s -> 2235.0s] 就沒辦法
+[2235.0s -> 2236.0s] 好進來
+[2236.0s -> 2237.0s] 就這些人
+[2237.0s -> 2238.0s] 就沒辦法
+[2238.0s -> 2239.0s] 就沒那麼少
+[2239.0s -> 2240.0s] 對
+[2240.0s -> 2241.0s] 還有一個人去學
+[2241.0s -> 2242.0s] 另外別別的
+[2242.0s -> 2243.0s] 那今天
+[2243.0s -> 2244.0s] 可能
+[2244.0s -> 2245.0s] 他一定要兩個樂器
+[2245.0s -> 2246.0s] 對
+[2246.0s -> 2247.0s] 一個主銷
+[2247.0s -> 2248.0s] 有主銷
+[2248.0s -> 2249.0s] 然後
+[2249.0s -> 2250.0s] 其他的客戶
+[2250.0s -> 2251.0s] 那光庫老師
+[2251.0s -> 2252.0s] 想聽過嗎
+[2252.0s -> 2253.0s] 中和光庫
+[2253.0s -> 2255.0s] 中和光庫
+[2255.0s -> 2256.0s] 是不是
+[2256.0s -> 2257.0s] 有一個同事
+[2257.0s -> 2258.0s] 在中和光庫
+[2258.0s -> 2259.0s] 因為像我們學區是
+[2259.0s -> 2260.0s] 中和光庫
+[2260.0s -> 2261.0s] 我們是
+[2261.0s -> 2262.0s] 有一個
+[2262.0s -> 2263.0s] 富士
+[2263.0s -> 2264.0s] 中和在
+[2264.0s -> 2265.0s] 方法場
+[2265.0s -> 2266.0s] 旁邊的音樂
+[2266.0s -> 2267.0s] 他現在
+[2267.0s -> 2268.0s] 化為中和
+[2268.0s -> 2269.0s] 有美術班
+[2272.0s -> 2274.0s] 有沒有美術班
+[2274.0s -> 2275.0s] 我要去朝向
+[2275.0s -> 2276.0s] 因為我
+[2276.0s -> 2277.0s] 一個同事
+[2277.0s -> 2278.0s] 在那邊
+[2278.0s -> 2279.0s] 的先生在
+[2279.0s -> 2280.0s] 腳
+[2280.0s -> 2281.0s] 我真的
+[2281.0s -> 2282.0s] 中和光庫
+[2282.0s -> 2283.0s] 我確定在中和
+[2283.0s -> 2284.0s] 但是
+[2284.0s -> 2285.0s] 是叫光庫
+[2285.0s -> 2286.0s] 踩下來
+[2286.0s -> 2287.0s] 我記得
+[2287.0s -> 2288.0s] 他好像
+[2288.0s -> 2289.0s] 是有美術
+[2289.0s -> 2290.0s] 因為我確定中和
+[2290.0s -> 2291.0s] 那我也說班
+[2291.0s -> 2292.0s] 中和
+[2292.0s -> 2293.0s] 有數字
+[2293.0s -> 2295.0s] 然後回國銷
+[2295.0s -> 2296.0s] 可是
+[2296.0s -> 2297.0s] 我就覺得
+[2297.0s -> 2298.0s] 太大笑
+[2298.0s -> 2299.0s] 其實
+[2299.0s -> 2300.0s] 人太多
+[2300.0s -> 2301.0s] 我也沒有那麼想要選
+[2301.0s -> 2303.0s] 我現在覺得
+[2303.0s -> 2304.0s] 因為我們自己在
+[2304.0s -> 2305.0s] 小學界
+[2305.0s -> 2307.0s] 在
+[2307.0s -> 2308.0s] 大笑的資源
+[2308.0s -> 2309.0s] 真的比較多
+[2309.0s -> 2310.0s] 對
+[2310.0s -> 2311.0s] 他還測團
+[2311.0s -> 2312.0s] 才育
+[2312.0s -> 2313.0s] 而且我發現這個
+[2313.0s -> 2314.0s] 比較特殊的床
+[2314.0s -> 2315.0s] 其實
+[2315.0s -> 2316.0s] 他
+[2316.0s -> 2317.0s] 中和
+[2317.0s -> 2318.0s] 我不知道哪個需要
+[2318.0s -> 2319.0s] 比較大
+[2319.0s -> 2320.0s] 但大笑的資源
+[2320.0s -> 2321.0s] 一定是比較多的
+[2321.0s -> 2322.0s] 因為我有
+[2322.0s -> 2324.0s] 我之前有個學生
+[2324.0s -> 2326.0s] 他
+[2326.0s -> 2328.0s] 他是
+[2328.0s -> 2329.0s] 亞斯
+[2329.0s -> 2330.0s] 但是
+[2330.0s -> 2331.0s] 他
+[2331.0s -> 2332.0s] 他
+[2332.0s -> 2333.0s] 就是
+[2333.0s -> 2335.0s] 很
+[2335.0s -> 2336.0s] 堅持
+[2336.0s -> 2337.0s] 很堅持
+[2337.0s -> 2338.0s] 肚子
+[2338.0s -> 2339.0s] 但是
+[2339.0s -> 2340.0s] 那是
+[2340.0s -> 2342.0s] 有一點
+[2342.0s -> 2343.0s] 他是
+[2343.0s -> 2344.0s] 很專
+[2344.0s -> 2345.0s] 但
+[2345.0s -> 2346.0s] 有時候會專
+[2346.0s -> 2347.0s] 有教界的
+[2347.0s -> 2348.0s] 你朋友的孩子
+[2348.0s -> 2349.0s] 我們以前的學生
+[2349.0s -> 2350.0s] 他就
+[2350.0s -> 2352.0s] 轉去
+[2352.0s -> 2353.0s] 去秀
+[2353.0s -> 2355.0s] 他簡直轉的
+[2355.0s -> 2356.0s] 四年級
+[2356.0s -> 2357.0s] 他在那邊
+[2357.0s -> 2358.0s] 還沒到四年級
+[2358.0s -> 2360.0s] 那成績是很好
+[2360.0s -> 2361.0s] 可是
+[2361.0s -> 2362.0s] 他就是
+[2362.0s -> 2363.0s] 會泰國在
+[2363.0s -> 2364.0s] 有時候
+[2364.0s -> 2365.0s] 泰國在
+[2365.0s -> 2366.0s] 有時候
+[2366.0s -> 2367.0s] 泰國在
+[2367.0s -> 2368.0s] 有時候
+[2368.0s -> 2369.0s] 我們那邊
+[2369.0s -> 2370.0s] 特業也要有打
+[2370.0s -> 2371.0s] 他的成績是
+[2371.0s -> 2372.0s] 還不錯
+[2372.0s -> 2373.0s] 但他大口
+[2373.0s -> 2374.0s] 有時候會
+[2374.0s -> 2375.0s] 斷這個題目
+[2375.0s -> 2376.0s] 他會
+[2376.0s -> 2377.0s] 後面
+[2377.0s -> 2378.0s] 就沒寫
+[2378.0s -> 2379.0s] 他會
+[2379.0s -> 2381.0s] 有些
+[2381.0s -> 2382.0s] 他
+[2382.0s -> 2383.0s] 他會有些
+[2383.0s -> 2384.0s] 莫名的堅持
+[2384.0s -> 2385.0s] 譬如說
+[2385.0s -> 2386.0s] 他的造距
+[2386.0s -> 2387.0s] 他會堅持
+[2387.0s -> 2388.0s] 他一定要想
+[2388.0s -> 2389.0s] 一定要寫
+[2389.0s -> 2390.0s] 譬如說
+[2390.0s -> 2391.0s] 這個考試
+[2391.0s -> 2392.0s] 譬如
+[2392.0s -> 2393.0s] 其中考的時候
+[2393.0s -> 2394.0s] 出的這一題
+[2394.0s -> 2395.0s] 小考考過
+[2395.0s -> 2396.0s] 他會
+[2396.0s -> 2397.0s] 簡直要再想一句
+[2397.0s -> 2398.0s] 行的
+[2398.0s -> 2399.0s] 所以他會寫不完
+[2399.0s -> 2400.0s] 然後
+[2400.0s -> 2401.0s] 那個時候
+[2401.0s -> 2402.0s] 他就覺得
+[2402.0s -> 2403.0s] 他的壓力
+[2403.0s -> 2404.0s] 他會有情緒
+[2404.0s -> 2405.0s] 假設如果我們
+[2405.0s -> 2406.0s] 硬要教他
+[2406.0s -> 2407.0s] 他會有情緒
+[2407.0s -> 2409.0s] 還是他自己
+[2409.0s -> 2410.0s] 會自己
+[2410.0s -> 2411.0s] 他
+[2411.0s -> 2412.0s] 不顧
+[2412.0s -> 2413.0s] 應該
+[2413.0s -> 2414.0s] 他會
+[2414.0s -> 2415.0s] 他就是會
+[2415.0s -> 2416.0s] 會
+[2416.0s -> 2417.0s] 鬧鬧寫不完
+[2417.0s -> 2418.0s] 那
+[2418.0s -> 2419.0s] 我們就可以跟他說
+[2419.0s -> 2420.0s] 這個是考試
+[2420.0s -> 2421.0s] 我們說
+[2421.0s -> 2422.0s] 往下寫
+[2422.0s -> 2423.0s] 完全比較重要
+[2423.0s -> 2424.0s] 譬如說
+[2424.0s -> 2425.0s] 很堅持
+[2425.0s -> 2426.0s] 後面這樣
+[2426.0s -> 2427.0s] 很可怕
+[2427.0s -> 2428.0s] 當然大了
+[2428.0s -> 2429.0s] 他就越來越懂
+[2429.0s -> 2430.0s] 然後
+[2430.0s -> 2431.0s] 那個孩子
+[2431.0s -> 2432.0s] 成績是蠻好的
+[2432.0s -> 2433.0s] 但是
+[2433.0s -> 2434.0s] 就是
+[2434.0s -> 2435.0s] 我看到他成績
+[2435.0s -> 2436.0s] 好的
+[2436.0s -> 2437.0s] 就是說
+[2437.0s -> 2438.0s] 他有時候
+[2438.0s -> 2439.0s] 整大地
+[2439.0s -> 2440.0s] 寫
+[2440.0s -> 2441.0s] 他會
+[2441.0s -> 2442.0s] 非常有
+[2442.0s -> 2443.0s] 非常有
+[2443.0s -> 2445.0s] 然後
+[2446.0s -> 2447.0s] 因為他自己
+[2447.0s -> 2448.0s] 會給自己壓力
+[2448.0s -> 2449.0s] 所以
+[2449.0s -> 2450.0s] 後來
+[2450.0s -> 2451.0s] 轉去秀了
+[2451.0s -> 2452.0s] 然後後來
+[2452.0s -> 2453.0s] 有跟我
+[2453.0s -> 2454.0s] 他才是自己
+[2454.0s -> 2455.0s] 他考過只有嗎
+[2455.0s -> 2456.0s] 他沒有
+[2456.0s -> 2457.0s] 不知道
+[2457.0s -> 2458.0s] 後來
+[2458.0s -> 2459.0s] 他就秀了
+[2459.0s -> 2460.0s] 然後說那邊的特調是
+[2460.0s -> 2461.0s] 有很多
+[2461.0s -> 2462.0s] 他說他覺得
+[2462.0s -> 2463.0s] 對他的兒子
+[2463.0s -> 2464.0s] 比較好的
+[2464.0s -> 2465.0s] 因為
+[2465.0s -> 2466.0s] 他沒有拿到身分
+[2466.0s -> 2467.0s] 然後孩子的
+[2467.0s -> 2468.0s] 就是
+[2468.0s -> 2469.0s] 又是
+[2469.0s -> 2470.0s] 樹林
+[2470.0s -> 2471.0s] 他樹林很強
+[2471.0s -> 2472.0s] 所以
+[2472.0s -> 2473.0s] 還有就是
+[2473.0s -> 2474.0s] 額外的那種
+[2474.0s -> 2475.0s] 就是那一個
+[2475.0s -> 2476.0s] 穿身
+[2476.0s -> 2477.0s] 對他
+[2477.0s -> 2478.0s] 但是
+[2478.0s -> 2479.0s] 他有時候去考
+[2479.0s -> 2480.0s] 只有班這個
+[2480.0s -> 2481.0s] 可能是要如老師那邊
+[2481.0s -> 2482.0s] 這個我就
+[2482.0s -> 2483.0s] 我就請出
+[2483.0s -> 2484.0s] 那很久以前的
+[2484.0s -> 2485.0s] 那現在可能已經
+[2485.0s -> 2486.0s] 高中大學了
+[2486.0s -> 2487.0s] 其實
+[2487.0s -> 2488.0s] 跟妳現在一樣大了
+[2488.0s -> 2489.0s] 我女兒那裡空班的
+[2489.0s -> 2490.0s] 空班
+[2490.0s -> 2491.0s] 所以我放在她手
+[2491.0s -> 2492.0s] 所以
+[2492.0s -> 2493.0s] 她其實
+[2493.0s -> 2494.0s] 有點像是
+[2494.0s -> 2495.0s] 妳的
+[2495.0s -> 2496.0s] 女兒同學
+[2496.0s -> 2497.0s] 認識的
+[2497.0s -> 2498.0s] 我女兒同學啦
+[2498.0s -> 2499.0s] 所以
+[2499.0s -> 2500.0s] 她就被妳教到
+[2500.0s -> 2501.0s] 沒有
+[2501.0s -> 2502.0s] 沒有
+[2502.0s -> 2503.0s] 但是
+[2503.0s -> 2504.0s] 那妳說
+[2504.0s -> 2505.0s] 好
+[2505.0s -> 2506.0s] 那妳說
+[2506.0s -> 2507.0s] 所以她又去了
+[2507.0s -> 2508.0s] 也不是她又去了
+[2508.0s -> 2509.0s] 就是
+[2509.0s -> 2510.0s] 太特別了啦
+[2510.0s -> 2511.0s] 就是
+[2511.0s -> 2512.0s] 誰會堅持
+[2512.0s -> 2513.0s] 造劇
+[2513.0s -> 2514.0s] 要照顧妳一樣的
+[2514.0s -> 2515.0s] 跟田益
+[2515.0s -> 2516.0s] 跟很多同學
+[2516.0s -> 2517.0s] 對她
+[2517.0s -> 2518.0s] 會討論
+[2518.0s -> 2519.0s] 對
+[2519.0s -> 2520.0s] 她就是
+[2520.0s -> 2521.0s] 很特別
+[2521.0s -> 2522.0s] 讓媽媽後來
+[2522.0s -> 2523.0s] 說她
+[2523.0s -> 2524.0s] 去秀了
+[2524.0s -> 2525.0s] 她比著
+[2525.0s -> 2526.0s] 兒子
+[2526.0s -> 2527.0s] 去那邊
+[2527.0s -> 2528.0s] 把人吃好的
+[2528.0s -> 2529.0s] 因為她
+[2529.0s -> 2530.0s] 她的菜
+[2530.0s -> 2531.0s] 一直很急
+[2531.0s -> 2533.0s] 我去普通的學校
+[2533.0s -> 2534.0s] 會不會
+[2534.0s -> 2535.0s] 深度把她嚇講
+[2535.0s -> 2536.0s] 可是
+[2536.0s -> 2537.0s] 因為她
+[2537.0s -> 2538.0s] 兒子自己
+[2538.0s -> 2539.0s] 會給自己很多壓力
+[2539.0s -> 2540.0s] 然後
+[2540.0s -> 2541.0s] 就是她自己會很緊
+[2541.0s -> 2542.0s] 所以
+[2542.0s -> 2543.0s] 她就說算了
+[2543.0s -> 2544.0s] 她就就算
+[2544.0s -> 2545.0s] 是你
+[2545.0s -> 2546.0s] 她跟她是你
+[2546.0s -> 2547.0s] 她這邊
+[2547.0s -> 2548.0s] 因為她
+[2548.0s -> 2549.0s] 忘記了
+[2549.0s -> 2550.0s] 這太久了
+[2550.0s -> 2551.0s] 對
+[2551.0s -> 2552.0s] 因為她講
+[2552.0s -> 2553.0s] 如果是大學
+[2553.0s -> 2554.0s] 20來頭
+[2554.0s -> 2555.0s] 對
+[2555.0s -> 2556.0s] 太久了
+[2556.0s -> 2557.0s] 但她
+[2557.0s -> 2558.0s] 我印象
+[2558.0s -> 2559.0s] 跟我說
+[2559.0s -> 2560.0s] 就是那個
+[2560.0s -> 2561.0s] 家長有說
+[2561.0s -> 2562.0s] 就是大笑
+[2562.0s -> 2563.0s] 這種資源
+[2563.0s -> 2564.0s] 因為她
+[2564.0s -> 2565.0s] 她也蒐集了
+[2565.0s -> 2566.0s] 很多資源
+[2566.0s -> 2567.0s] 去任意
+[2567.0s -> 2568.0s] 她不是
+[2568.0s -> 2569.0s] 想到
+[2569.0s -> 2570.0s] 不是
+[2570.0s -> 2571.0s] 她是蒐集了
+[2571.0s -> 2572.0s] 對她媽媽
+[2572.0s -> 2573.0s] 她就說
+[2573.0s -> 2574.0s] 她覺得
+[2574.0s -> 2575.0s] 秀娃的特教
+[2575.0s -> 2576.0s] 不說
+[2576.0s -> 2577.0s] 她的確
+[2577.0s -> 2578.0s] 也是
+[2578.0s -> 2579.0s] 真的是
+[2579.0s -> 2580.0s] 覺得很適合她的
+[2580.0s -> 2581.0s] 小孩
+[2581.0s -> 2582.0s] 她就說
+[2582.0s -> 2584.0s] 而且她
+[2584.0s -> 2585.0s] 這樣的話
+[2585.0s -> 2586.0s] 其實
+[2586.0s -> 2587.0s] 因為她有資慮
+[2587.0s -> 2588.0s] 所以她
+[2588.0s -> 2589.0s] 還進入
+[2589.0s -> 2590.0s] 不用學校去過去
+[2590.0s -> 2591.0s] 因為像是學校
+[2591.0s -> 2592.0s] 都會
+[2592.0s -> 2593.0s] 幫你規劃得好
+[2593.0s -> 2594.0s] 那我來的是建築嗎
+[2594.0s -> 2595.0s] 好好的
+[2595.0s -> 2596.0s] 那你建築
+[2596.0s -> 2597.0s] 那你補充你買電章嗎
+[2597.0s -> 2598.0s] 因爲
+[2598.0s -> 2599.0s] 我覺得
+[2599.0s -> 2600.0s] 手禮班
+[2600.0s -> 2601.0s] 那應該是會
+[2601.0s -> 2602.0s] 那應該會是
+[2602.0s -> 2603.0s] 宿禮班
+[2603.0s -> 2604.0s] 如果她這樣講
+[2604.0s -> 2605.0s] 她是宿禮班
+[2605.0s -> 2606.0s] 這我就不知道
+[2606.0s -> 2607.0s] 她在我確定她是有合額
+[2607.0s -> 2608.0s] 她後來就在建築
+[2608.0s -> 2609.0s] 對
+[2609.0s -> 2610.0s] 然後大學我就知道
+[2610.0s -> 2611.0s] 大學
+[2611.0s -> 2612.0s] 可能就你
+[2612.0s -> 2614.0s] 你沒有特別聯絡
+[2614.0s -> 2615.0s] 因為她跟我小孩
+[2615.0s -> 2616.0s] 就是同學
+[2616.0s -> 2617.0s] 她們是個臉書
+[2617.0s -> 2618.0s] 那些她就說
+[2618.0s -> 2620.0s] 欸她雙人說
+[2620.0s -> 2621.0s] 因為她們會
+[2621.0s -> 2622.0s] 有時候會提的那些
+[2622.0s -> 2623.0s] 對
+[2623.0s -> 2624.0s] 對
+[2624.0s -> 2626.0s] 然後
+[2626.0s -> 2627.0s] 然後我告訴你
+[2627.0s -> 2628.0s] 所料
+[2628.0s -> 2629.0s] 也沒有來
+[2629.0s -> 2630.0s] 我沒什麼料她
+[2630.0s -> 2631.0s] 但是我覺得說
+[2631.0s -> 2632.0s] 這孩子
+[2632.0s -> 2633.0s] 特別
+[2633.0s -> 2634.0s] 對
+[2634.0s -> 2635.0s] 但她的雅師
+[2635.0s -> 2636.0s] 真的是堅持
+[2636.0s -> 2637.0s] 她比較像
+[2637.0s -> 2638.0s] 我覺得她這樣
+[2638.0s -> 2639.0s] 有點像是
+[2639.0s -> 2640.0s] 比較偏高工男型的
+[2640.0s -> 2641.0s] 因爲她又不國
+[2641.0s -> 2642.0s] 她又不是屬於上班
+[2642.0s -> 2643.0s] 她會
+[2643.0s -> 2644.0s] 很
+[2644.0s -> 2646.0s] 有時候沒伸手
+[2646.0s -> 2647.0s] 今天
+[2647.0s -> 2648.0s] 有那些什麼考試
+[2648.0s -> 2649.0s] 或是哪些
+[2649.0s -> 2650.0s] 昨夜她就不會
+[2650.0s -> 2651.0s] 沒有她會
+[2651.0s -> 2652.0s] 也倒不會
+[2652.0s -> 2653.0s] 但是她會
+[2653.0s -> 2654.0s] 思考
+[2654.0s -> 2655.0s] 我先看我考
+[2655.0s -> 2656.0s] 思考等一下
+[2656.0s -> 2657.0s] 有時候考試的時候
+[2657.0s -> 2658.0s] 你先考
+[2658.0s -> 2659.0s] 可是這個
+[2659.0s -> 2660.0s] 挺好的
+[2660.0s -> 2661.0s] 可是我
+[2661.0s -> 2662.0s] 她這樣
+[2662.0s -> 2663.0s] 我不知道
+[2663.0s -> 2664.0s] 這個數學
+[2664.0s -> 2665.0s] 我不會
+[2665.0s -> 2666.0s] 你就會覺得她
+[2666.0s -> 2667.0s] 卡住
+[2667.0s -> 2668.0s] 她會一直
+[2668.0s -> 2669.0s] 對
+[2669.0s -> 2670.0s] 她就賺了腳墊
+[2670.0s -> 2671.0s] 所以
+[2671.0s -> 2672.0s] 對她來說
+[2672.0s -> 2674.0s] 這是好事
+[2674.0s -> 2675.0s] 對
+[2675.0s -> 2676.0s] 深度
+[2676.0s -> 2677.0s] 深度思考
+[2677.0s -> 2678.0s] 是的
+[2678.0s -> 2679.0s] 對她可能
+[2679.0s -> 2680.0s] 功效會給她
+[2680.0s -> 2681.0s] 比較多的空間
+[2681.0s -> 2682.0s] 對
+[2682.0s -> 2683.0s] 因爲她
+[2683.0s -> 2684.0s] 比較沒有說真的
+[2684.0s -> 2685.0s] 因爲這邊
+[2685.0s -> 2686.0s] 像你考試的時候
+[2686.0s -> 2687.0s] 她們一個
+[2687.0s -> 2688.0s] 特裁是女分鐘
+[2688.0s -> 2689.0s] 要那麼多東西
+[2689.0s -> 2690.0s] 然後
+[2690.0s -> 2692.0s] 思考對於
+[2692.0s -> 2693.0s] 思考大部分
+[2693.0s -> 2694.0s] 變成
+[2694.0s -> 2695.0s] 大家要差不多
+[2695.0s -> 2696.0s] 對
+[2696.0s -> 2697.0s] 比較好
+[2697.0s -> 2699.0s] 如果你的差距
+[2699.0s -> 2700.0s] 太特別的
+[2700.0s -> 2701.0s] 特別
+[2701.0s -> 2702.0s] 不用
+[2702.0s -> 2703.0s] 對
+[2703.0s -> 2704.0s] 其實都很難融入
+[2704.0s -> 2705.0s] 像這種
+[2705.0s -> 2706.0s] 特別用的
+[2706.0s -> 2707.0s] 也很難融入
+[2707.0s -> 2708.0s] 因爲她
+[2708.0s -> 2710.0s] 就沒辦法
+[2710.0s -> 2711.0s] 快
+[2711.0s -> 2712.0s] 因爲
+[2712.0s -> 2713.0s] 在學校時間
+[2713.0s -> 2714.0s] 就很短
+[2714.0s -> 2715.0s] 那
+[2715.0s -> 2716.0s] 你要給她
+[2716.0s -> 2717.0s] 我們
+[2717.0s -> 2718.0s] 相對於功效
+[2718.0s -> 2719.0s] 我們
+[2719.0s -> 2720.0s] 就是要走
+[2720.0s -> 2721.0s] 所以我們這邊
+[2721.0s -> 2722.0s] 比較像是屬於
+[2722.0s -> 2724.0s] 大家都差不多
+[2724.0s -> 2725.0s] 就算
+[2725.0s -> 2726.0s] 大家沒有差不多
+[2726.0s -> 2727.0s] 我們也想辦法
+[2727.0s -> 2728.0s] 好好的
+[2728.0s -> 2729.0s] 拉起來
+[2729.0s -> 2730.0s] 對
+[2730.0s -> 2731.0s] 就差不多
+[2731.0s -> 2732.0s] 把她拉起來
+[2732.0s -> 2733.0s] 所以
+[2733.0s -> 2735.0s] 特雙的
+[2735.0s -> 2736.0s] 特優的
+[2736.0s -> 2737.0s] 跟特不優的
+[2737.0s -> 2738.0s] 對
+[2738.0s -> 2739.0s] 都不太適合
+[2739.0s -> 2740.0s] 因爲
+[2740.0s -> 2741.0s] 特優的
+[2741.0s -> 2742.0s] 她其實
+[2742.0s -> 2743.0s] 她也不需要
+[2743.0s -> 2744.0s] 對
+[2744.0s -> 2745.0s] 她也不需要
+[2745.0s -> 2746.0s] 對
+[2746.0s -> 2747.0s] 不需要那個
+[2747.0s -> 2748.0s] 她要變功效
+[2748.0s -> 2749.0s] 還是
+[2749.0s -> 2750.0s] 還是
+[2750.0s -> 2751.0s] 還是健康
+[2751.0s -> 2752.0s] 對啦
+[2753.0s -> 2754.0s] 而且她會去安排
+[2754.0s -> 2755.0s] 然後可能
+[2755.0s -> 2756.0s] 又是自己喜歡的想
+[2756.0s -> 2757.0s] 不是別人
+[2757.0s -> 2758.0s] 會養給她的
+[2758.0s -> 2759.0s] 對
+[2759.0s -> 2760.0s] 因為我跟這個小孩
+[2760.0s -> 2761.0s] 有結束
+[2761.0s -> 2762.0s] 後來學習
+[2762.0s -> 2763.0s] 狀態
+[2763.0s -> 2764.0s] 是什麼
+[2764.0s -> 2765.0s] 就不太清楚
+[2765.0s -> 2766.0s] 但是
+[2766.0s -> 2767.0s] 是面積之前
+[2767.0s -> 2768.0s] 我看到的是這樣
+[2768.0s -> 2769.0s] 對
+[2769.0s -> 2771.0s] 後來是
+[2771.0s -> 2772.0s] 她是
+[2772.0s -> 2773.0s] 生不轉
+[2773.0s -> 2774.0s] 對
+[2774.0s -> 2775.0s] 那
+[2775.0s -> 2776.0s] 幫她是
+[2776.0s -> 2777.0s] 收集了
+[2777.0s -> 2778.0s] 對
+[2778.0s -> 2779.0s] 還是
+[2779.0s -> 2780.0s] 做這個決定
+[2780.0s -> 2781.0s] 對
+[2781.0s -> 2782.0s] 因爲她
+[2782.0s -> 2783.0s] 畢竟在那邊
+[2783.0s -> 2784.0s] 損之算
+[2784.0s -> 2785.0s] 好
+[2785.0s -> 2786.0s] 每天我去寫
+[2786.0s -> 2787.0s] 就是有都是寫的
+[2787.0s -> 2788.0s] 這個
+[2788.0s -> 2789.0s] 我不知道
+[2789.0s -> 2790.0s] 但是
+[2790.0s -> 2791.0s] 我的
+[2791.0s -> 2792.0s] 我印象中
+[2792.0s -> 2793.0s] 她就算
+[2793.0s -> 2794.0s] 考慮
+[2794.0s -> 2795.0s] 就算
+[2795.0s -> 2796.0s] 考慮沒寫
+[2796.0s -> 2797.0s] 她就全班前面的等
+[2797.0s -> 2798.0s] 對
+[2798.0s -> 2799.0s] 她有辦法
+[2799.0s -> 2800.0s] 前幾瓶的那一種
+[2800.0s -> 2801.0s] 那就是她是那種
+[2801.0s -> 2802.0s] 高度專注的亞斯
+[2802.0s -> 2803.0s] 有可能
+[2803.0s -> 2804.0s] 有可能
+[2804.0s -> 2805.0s] 可是她會
+[2805.0s -> 2807.0s] 花很久的時間
+[2807.0s -> 2808.0s] 現在
+[2808.0s -> 2809.0s] 我一體
+[2809.0s -> 2810.0s] 那一種
+[2810.0s -> 2811.0s] 對
+[2811.0s -> 2812.0s] 就
+[2812.0s -> 2813.0s] 有監考
+[2813.0s -> 2814.0s] 後面
+[2814.0s -> 2815.0s] 還有監禍
+[2815.0s -> 2816.0s] 對
+[2816.0s -> 2817.0s] 我記得以前
+[2817.0s -> 2818.0s] 她的導師
+[2818.0s -> 2819.0s] 因為
+[2819.0s -> 2820.0s] 特別跟監考師說
+[2820.0s -> 2821.0s] 每天看她
+[2821.0s -> 2822.0s] 卡在哪裡
+[2822.0s -> 2823.0s] 所以我可以
+[2823.0s -> 2824.0s] 現在
+[2824.0s -> 2825.0s] 對
+[2825.0s -> 2826.0s] 要往後寫這樣子
+[2826.0s -> 2827.0s] 就是她寫過
+[2827.0s -> 2828.0s] 就會
+[2828.0s -> 2829.0s] 走過去的
+[2829.0s -> 2830.0s] 她就這樣
+[2830.0s -> 2831.0s] 對
+[2831.0s -> 2832.0s] 就很久以前
+[2832.0s -> 2833.0s] 她的導師
+[2833.0s -> 2834.0s] 我
+[2834.0s -> 2835.0s] 就看她
+[2835.0s -> 2836.0s] 她都會
+[2836.0s -> 2837.0s] 看你們先寫一件好
+[2837.0s -> 2838.0s] 哪一班
+[2838.0s -> 2839.0s] 先監考她的班
+[2839.0s -> 2840.0s] 她就
+[2840.0s -> 2841.0s] 做完哪個位置
+[2841.0s -> 2842.0s] 那有
+[2842.0s -> 2843.0s] 久了
+[2843.0s -> 2844.0s] 我們到底知道是誰
+[2844.0s -> 2845.0s] 對
+[2845.0s -> 2846.0s] 那
+[2846.0s -> 2847.0s] 二年級工作可能
+[2847.0s -> 2848.0s] 對啊
+[2848.0s -> 2849.0s] 可以一樣
+[2849.0s -> 2850.0s] 其實我也是
+[2850.0s -> 2852.0s] 也在觀察她的
+[2852.0s -> 2853.0s] 狀況
+[2853.0s -> 2854.0s] 你可以先收集資料
+[2854.0s -> 2855.0s] 對
+[2855.0s -> 2856.0s] 對
+[2856.0s -> 2857.0s] 有收集一些
+[2857.0s -> 2858.0s] 資料這樣子
+[2858.0s -> 2859.0s] 那因為
+[2859.0s -> 2860.0s] 就是有跟小老師說
+[2860.0s -> 2861.0s] 就是
+[2861.0s -> 2862.0s] 好像大概十六個
+[2862.0s -> 2863.0s] 她會有自由界定
+[2863.0s -> 2864.0s] 可能會讓她
+[2864.0s -> 2865.0s] 好好看
+[2865.0s -> 2866.0s] 對
+[2866.0s -> 2867.0s] 讓她好好看這樣子
+[2867.0s -> 2868.0s] 所以她這樣
+[2868.0s -> 2869.0s] 就會變成
+[2869.0s -> 2871.0s] 訓練功效的自由班
+[2871.0s -> 2872.0s] 如果考上的話
+[2872.0s -> 2873.0s] 如果考上的話
+[2873.0s -> 2874.0s] 對
+[2874.0s -> 2875.0s] 就會有自由自由自由
+[2875.0s -> 2876.0s] 因為她
+[2876.0s -> 2878.0s] 她前陣子有
+[2878.0s -> 2879.0s] 因為她
+[2879.0s -> 2880.0s] 那時候是
+[2880.0s -> 2881.0s] 大班到小醫師
+[2881.0s -> 2882.0s] 用那個
+[2882.0s -> 2883.0s] 監聽案子的
+[2883.0s -> 2884.0s] 所以監聽案子
+[2884.0s -> 2885.0s] 那時候我們
+[2885.0s -> 2886.0s] 三月份那時候
+[2886.0s -> 2887.0s] 有性品老師
+[2887.0s -> 2888.0s] 有過來做
+[2888.0s -> 2889.0s] 然後都畢竟
+[2889.0s -> 2890.0s] 然後上個月有
+[2890.0s -> 2891.0s] 有通過
+[2891.0s -> 2892.0s] 那個有生命資格
+[2892.0s -> 2893.0s] 然後
+[2893.0s -> 2894.0s] 如果說
+[2894.0s -> 2895.0s] 自由有過的話
+[2895.0s -> 2896.0s] 她就會變成
+[2896.0s -> 2897.0s] 双手
+[2897.0s -> 2898.0s] 双手的身份
+[2898.0s -> 2899.0s] 然後就是
+[2899.0s -> 2900.0s] 就會更多資源
+[2900.0s -> 2901.0s] 給她
+[2901.0s -> 2902.0s] 應該是
+[2902.0s -> 2903.0s] 對
+[2903.0s -> 2904.0s] 他們就是會有
+[2904.0s -> 2905.0s] 那其實
+[2905.0s -> 2906.0s] 新北政府
+[2906.0s -> 2907.0s] 那個自由中心
+[2907.0s -> 2908.0s] 他們那邊有
+[2908.0s -> 2909.0s] 我特別把這一塊
+[2909.0s -> 2910.0s] 納入他們的
+[2910.0s -> 2911.0s] 一個
+[2911.0s -> 2912.0s] 就是重點的
+[2912.0s -> 2913.0s] 因為我大概
+[2913.0s -> 2914.0s] 有去
+[2914.0s -> 2915.0s] 然後自己是
+[2915.0s -> 2916.0s] 對啊
+[2916.0s -> 2917.0s] 那真的是
+[2917.0s -> 2918.0s] 資源有很多的
+[2918.0s -> 2919.0s] 對她就變成說
+[2919.0s -> 2920.0s] 她的不專項是
+[2920.0s -> 2921.0s] 想她的專心
+[2921.0s -> 2922.0s] 她的專心
+[2922.0s -> 2923.0s] 其他是可以完成
+[2923.0s -> 2924.0s] 她一不專心
+[2924.0s -> 2925.0s] 一拉開的話
+[2925.0s -> 2926.0s] 其實就閃掉
+[2926.0s -> 2927.0s] 因為我發現她後來
+[2927.0s -> 2928.0s] 她後來
+[2928.0s -> 2929.0s] 考的那個
+[2929.0s -> 2930.0s] 那幾個
+[2930.0s -> 2931.0s] 全部對
+[2931.0s -> 2932.0s] 就包含這一次
+[2932.0s -> 2933.0s] 全部對對
+[2933.0s -> 2934.0s] 那個
+[2934.0s -> 2935.0s] 那個是不是
+[2935.0s -> 2936.0s] 那個是不是
+[2936.0s -> 2937.0s] 你們就是
+[2937.0s -> 2938.0s] 假設今天
+[2938.0s -> 2939.0s] 請問考你們
+[2939.0s -> 2940.0s] 那個老師
+[2940.0s -> 2941.0s] 就是
+[2941.0s -> 2942.0s] 發MT3給他們
+[2942.0s -> 2943.0s] 對
+[2943.0s -> 2944.0s] 那個老師老師
+[2944.0s -> 2945.0s] 想問你
+[2945.0s -> 2946.0s] 那通常
+[2946.0s -> 2947.0s] 全部對的
+[2947.0s -> 2948.0s] 幾乎
+[2948.0s -> 2949.0s] 全部都會
+[2949.0s -> 2950.0s] 我會
+[2950.0s -> 2951.0s] 他就是
+[2951.0s -> 2952.0s] 我印象中
+[2952.0s -> 2953.0s] 因為
+[2953.0s -> 2954.0s] 發展系
+[2954.0s -> 2955.0s] 是一個
+[2955.0s -> 2956.0s] 很容易
+[2956.0s -> 2957.0s] 卡關的東西
+[2957.0s -> 2958.0s] 因為
+[2958.0s -> 2959.0s] 很雷童
+[2959.0s -> 2960.0s] 因為像我聽
+[2960.0s -> 2961.0s] 其實
+[2961.0s -> 2962.0s] 他
+[2962.0s -> 2963.0s] 他其實
+[2963.0s -> 2964.0s] 就是一個
+[2964.0s -> 2965.0s] 我說他不會
+[2965.0s -> 2966.0s] 用發MT3
+[2966.0s -> 2968.0s] 來關電學生的
+[2968.0s -> 2969.0s] 但是
+[2969.0s -> 2970.0s] 發MT3很重要
+[2970.0s -> 2971.0s] 對他們的學生
+[2971.0s -> 2972.0s] 但是我不會
+[2972.0s -> 2973.0s] 用發MT3
+[2973.0s -> 2974.0s] 所以
+[2974.0s -> 2975.0s] 你有能力聽
+[2975.0s -> 2976.0s] 不懂的字對不對
+[2976.0s -> 2977.0s] 對
+[2977.0s -> 2978.0s] 對啦還有
+[2978.0s -> 2979.0s] 閱讀相對
+[2979.0s -> 2980.0s] 不懂自己
+[2980.0s -> 2981.0s] 可以過去
+[2981.0s -> 2982.0s] 但是
+[2982.0s -> 2983.0s] 我不會用
+[2983.0s -> 2984.0s] 考卷上
+[2984.0s -> 2985.0s] 發MT3
+[2985.0s -> 2986.0s] 大體的成績
+[2986.0s -> 2987.0s] 然後斷定
+[2987.0s -> 2988.0s] 他的
+[2988.0s -> 2989.0s] 如果譬如說
+[2989.0s -> 2990.0s] 這個孩子
+[2990.0s -> 2992.0s] 就沒關係
+[2992.0s -> 2993.0s] 因為有時候
+[2993.0s -> 2994.0s] 就是一個
+[2994.0s -> 2995.0s] 聲音卡住
+[2995.0s -> 2996.0s] 因為我們考試的
+[2996.0s -> 2997.0s] 範圍很小
+[2997.0s -> 2998.0s] 對
+[2998.0s -> 2999.0s] 所以有時候
+[2999.0s -> 3000.0s] 就是
+[3000.0s -> 3002.0s] 這一個聲音
+[3002.0s -> 3003.0s] 他
+[3003.0s -> 3004.0s] 沒有卡住
+[3004.0s -> 3005.0s] 就是
+[3005.0s -> 3006.0s] 可能要
+[3006.0s -> 3007.0s] 把你
+[3007.0s -> 3008.0s] 播放
+[3008.0s -> 3009.0s] 把他拿出來
+[3009.0s -> 3010.0s] 甚至
+[3010.0s -> 3012.0s] 都是
+[3012.0s -> 3013.0s] 錯類
+[3013.0s -> 3015.0s] 所以我不會用發MT3
+[3015.0s -> 3016.0s] 因為
+[3016.0s -> 3017.0s] 我們畢竟
+[3017.0s -> 3018.0s] 考得
+[3018.0s -> 3019.0s] 發MX
+[3019.0s -> 3020.0s] 對
+[3020.0s -> 3021.0s] 每次發MX
+[3021.0s -> 3022.0s] 對
+[3022.0s -> 3023.0s] 發MX的小
+[3023.0s -> 3024.0s] 對
+[3024.0s -> 3025.0s] 那我這樣
+[3025.0s -> 3026.0s] 我不會覺得
+[3026.0s -> 3027.0s] 其實
+[3027.0s -> 3028.0s] 那個青蛙白膽
+[3028.0s -> 3029.0s] 那個不懂
+[3029.0s -> 3030.0s] 還是要拿回來
+[3030.0s -> 3031.0s] 自己作品
+[3031.0s -> 3032.0s] 繼續在
+[3032.0s -> 3033.0s] 一直聽練習
+[3033.0s -> 3034.0s] 因為那個是
+[3034.0s -> 3035.0s] 那個是
+[3035.0s -> 3037.0s] 某位度
+[3037.0s -> 3038.0s] 可是我會建議
+[3038.0s -> 3039.0s] 就是
+[3039.0s -> 3040.0s] 別的資源
+[3040.0s -> 3041.0s] 比如說
+[3041.0s -> 3042.0s] 別的資源
+[3042.0s -> 3043.0s] 對
+[3043.0s -> 3044.0s] 譬如說
+[3044.0s -> 3045.0s] 也不一定要發MX
+[3045.0s -> 3046.0s] 譬如說
+[3046.0s -> 3047.0s] 你找
+[3047.0s -> 3048.0s] 譬如說
+[3048.0s -> 3049.0s] 那個
+[3049.0s -> 3050.0s] 搭科蘇那種
+[3050.0s -> 3051.0s] 對
+[3051.0s -> 3052.0s] 就是有生的
+[3052.0s -> 3053.0s] 就增加他的
+[3053.0s -> 3054.0s] 現在
+[3054.0s -> 3056.0s] 什麼要採新老師
+[3056.0s -> 3057.0s] 類似
+[3057.0s -> 3058.0s] 那一套
+[3058.0s -> 3059.0s] 對
+[3059.0s -> 3060.0s] 因為
+[3060.0s -> 3061.0s] 他都有聽過那邊
+[3061.0s -> 3062.0s] 對
+[3062.0s -> 3063.0s] 然後
+[3063.0s -> 3064.0s] 他拿起來
+[3064.0s -> 3065.0s] 就是其實
+[3065.0s -> 3066.0s] 就出了很多
+[3066.0s -> 3067.0s] 那老師這樣
+[3067.0s -> 3068.0s] 這樣
+[3068.0s -> 3069.0s] 講
+[3069.0s -> 3070.0s] 如果他聽了之後
+[3070.0s -> 3071.0s] 他會聽
+[3071.0s -> 3072.0s] 他會講
+[3072.0s -> 3073.0s] 可是
+[3073.0s -> 3074.0s] 他有需要直接
+[3074.0s -> 3075.0s] 就是
+[3075.0s -> 3076.0s] 我覺得
+[3076.0s -> 3077.0s] 如果是
+[3077.0s -> 3078.0s] 這個
+[3078.0s -> 3079.0s] 就當
+[3079.0s -> 3080.0s] 就像
+[3080.0s -> 3081.0s] 我的想法
+[3081.0s -> 3082.0s] 就像
+[3082.0s -> 3083.0s] 老師
+[3083.0s -> 3084.0s] 也會
+[3084.0s -> 3085.0s] 給他
+[3085.0s -> 3086.0s] 共同的書
+[3086.0s -> 3087.0s] 對
+[3087.0s -> 3088.0s] 他也
+[3088.0s -> 3089.0s] 你也不會
+[3089.0s -> 3090.0s] 去查裡面的審字
+[3090.0s -> 3091.0s] 有了
+[3091.0s -> 3092.0s] 一生會
+[3092.0s -> 3093.0s] 將他寫
+[3093.0s -> 3094.0s] 寫獄
+[3094.0s -> 3095.0s] 或是
+[3095.0s -> 3096.0s] 又會寫
+[3096.0s -> 3097.0s] 不認識的字
+[3097.0s -> 3098.0s] 你會去
+[3098.0s -> 3099.0s] 翻字
+[3099.0s -> 3100.0s] 這個字
+[3100.0s -> 3101.0s] 我認識的字
+[3101.0s -> 3102.0s] 我現在會
+[3102.0s -> 3103.0s] 讓他教他
+[3103.0s -> 3104.0s] 你不懂
+[3104.0s -> 3105.0s] 你知道
+[3105.0s -> 3106.0s] 要學字字
+[3106.0s -> 3107.0s] 我會讓他去
+[3107.0s -> 3108.0s] 可是我們就直接
+[3108.0s -> 3109.0s] 他會讓他認識
+[3109.0s -> 3110.0s] 對
+[3110.0s -> 3111.0s] 因為你的目的是
+[3111.0s -> 3112.0s] 閱讀嗎
+[3112.0s -> 3113.0s] 就順利
+[3113.0s -> 3114.0s] 完成這件事
+[3114.0s -> 3115.0s] 對
+[3115.0s -> 3116.0s] 中段去做起
+[3116.0s -> 3117.0s] 他是
+[3117.0s -> 3118.0s] 你的閱讀
+[3118.0s -> 3119.0s] 事前就被打的
+[3119.0s -> 3120.0s] 所以
+[3120.0s -> 3121.0s] 我為了
+[3121.0s -> 3122.0s] 我們今天目標是
+[3122.0s -> 3123.0s] 要認識
+[3123.0s -> 3124.0s] 採檢字
+[3124.0s -> 3125.0s] 所以我會覺得
+[3125.0s -> 3126.0s] 說文閱讀書
+[3126.0s -> 3127.0s] 那個共讀書
+[3127.0s -> 3128.0s] 概念
+[3128.0s -> 3129.0s] 就是
+[3129.0s -> 3130.0s] 在家裡
+[3130.0s -> 3131.0s] 有差的書
+[3131.0s -> 3132.0s] 然後
+[3132.0s -> 3133.0s] 如果你希望
+[3133.0s -> 3134.0s] 你會聽一點
+[3134.0s -> 3135.0s] 對著對你的看
+[3135.0s -> 3136.0s] 對你的
+[3136.0s -> 3137.0s] 對
+[3137.0s -> 3138.0s] 或者是
+[3138.0s -> 3139.0s] 分開
+[3139.0s -> 3140.0s] 先聽
+[3140.0s -> 3141.0s] 先聽
+[3141.0s -> 3142.0s] 先看
+[3142.0s -> 3143.0s] 主題
+[3143.0s -> 3144.0s] 後來
+[3144.0s -> 3145.0s] 對
+[3145.0s -> 3146.0s] 其實我會建議
+[3146.0s -> 3148.0s] 不同的資源
+[3148.0s -> 3150.0s] 做同樣的事
+[3150.0s -> 3151.0s] 同樣
+[3151.0s -> 3152.0s] 都要把
+[3152.0s -> 3153.0s] 英文的广度加深
+[3153.0s -> 3154.0s] 但是
+[3154.0s -> 3155.0s] 我們可能從
+[3155.0s -> 3157.0s] 影片
+[3157.0s -> 3158.0s] 聽的
+[3158.0s -> 3159.0s] 跟會本
+[3159.0s -> 3160.0s] 這些
+[3160.0s -> 3161.0s] 我會建議
+[3161.0s -> 3162.0s] 因為
+[3162.0s -> 3163.0s] 小業
+[3163.0s -> 3164.0s] 內容不多
+[3164.0s -> 3165.0s] 對
+[3165.0s -> 3166.0s] 所以
+[3166.0s -> 3167.0s] 其實
+[3167.0s -> 3170.0s] 你要去擴充
+[3170.0s -> 3171.0s] 對
+[3171.0s -> 3172.0s] 你的東西
+[3172.0s -> 3173.0s] 你看看
+[3173.0s -> 3174.0s] 就是那些
+[3174.0s -> 3175.0s] 他每一頁
+[3175.0s -> 3176.0s] 他都看了手了
+[3176.0s -> 3177.0s] 對
+[3177.0s -> 3178.0s] 他也很喜歡
+[3178.0s -> 3179.0s] 會不會
+[3179.0s -> 3180.0s] 老師的
+[3180.0s -> 3181.0s] 影片
+[3181.0s -> 3182.0s] 一把
+[3182.0s -> 3183.0s] 是錄的
+[3183.0s -> 3184.0s] 這樣的話
+[3184.0s -> 3185.0s] 老師
+[3185.0s -> 3186.0s] 像我記得
+[3186.0s -> 3187.0s] 我們書
+[3187.0s -> 3188.0s] 有一個
+[3188.0s -> 3189.0s] 我們自己跳的英文會
+[3189.0s -> 3190.0s] 然後那個部分
+[3190.0s -> 3192.0s] 就是顯得那個月底單
+[3192.0s -> 3193.0s] 之後那是新的
+[3193.0s -> 3194.0s] 老師會去幫我看
+[3194.0s -> 3195.0s] 對
+[3195.0s -> 3196.0s] 還有
+[3196.0s -> 3197.0s] 大象盆
+[3197.0s -> 3198.0s] 也是那個
+[3198.0s -> 3199.0s] 二年級
+[3199.0s -> 3200.0s] 我有跟他們說
+[3200.0s -> 3201.0s] 你們就交給你們
+[3201.0s -> 3202.0s] 二年級的英文老師
+[3202.0s -> 3203.0s] 然後大家有
+[3203.0s -> 3204.0s] 你們還會在遇到我
+[3204.0s -> 3207.0s] 因為他都
+[3207.0s -> 3208.0s] 不知道
+[3208.0s -> 3211.0s] 我們都還不知道
+[3211.0s -> 3213.0s] 通常就是八月
+[3213.0s -> 3214.0s] 八月才知道
+[3214.0s -> 3215.0s] 對
+[3215.0s -> 3216.0s] 八月才知道
+[3216.0s -> 3217.0s] 交哪一個
+[3217.0s -> 3218.0s] 教材
+[3218.0s -> 3219.0s] 你們分兩個班
+[3219.0s -> 3220.0s] 跟進階班
+[3220.0s -> 3221.0s] 你們就先
+[3221.0s -> 3222.0s] 小孩就是分兩種
+[3222.0s -> 3223.0s] 對
+[3223.0s -> 3224.0s] A&B
+[3224.0s -> 3225.0s] 對
+[3225.0s -> 3226.0s] 然後所以
+[3226.0s -> 3227.0s] 我們會教哪個班
+[3227.0s -> 3228.0s] 也不知道
+[3228.0s -> 3229.0s] 然後
+[3229.0s -> 3230.0s] 我們只是
+[3230.0s -> 3231.0s] 其實通常
+[3231.0s -> 3232.0s] 只知道教材
+[3232.0s -> 3233.0s] 好
+[3233.0s -> 3234.0s] 是
+[3234.0s -> 3235.0s] 你教幾年級的
+[3235.0s -> 3236.0s] 大一本書
+[3236.0s -> 3237.0s] 但是
+[3237.0s -> 3238.0s] 真正分班
+[3238.0s -> 3239.0s] 通常要
+[3239.0s -> 3240.0s] 很教材
+[3240.0s -> 3241.0s] 但是教門的話
+[3241.0s -> 3242.0s] 應該也是毫無惡的
+[3242.0s -> 3243.0s] 對
+[3243.0s -> 3244.0s] 可是我也是
+[3244.0s -> 3246.0s] 我們有
+[3246.0s -> 3247.0s] 一到六年級
+[3247.0s -> 3248.0s] 對啊
+[3248.0s -> 3249.0s] 我也會教二年級
+[3249.0s -> 3250.0s] 也不知道
+[3250.0s -> 3251.0s] 對
+[3251.0s -> 3252.0s] 那因好好奇
+[3252.0s -> 3253.0s] 為什麼
+[3253.0s -> 3254.0s] 外師的中師
+[3254.0s -> 3255.0s] 老師你們是輪流嗎
+[3255.0s -> 3256.0s] 你們中師有時候
+[3256.0s -> 3257.0s] 會發廣外師
+[3257.0s -> 3258.0s] 就是外師客
+[3258.0s -> 3259.0s] 有的時候
+[3259.0s -> 3260.0s] 這樣
+[3260.0s -> 3261.0s] 這樣你也是
+[3261.0s -> 3262.0s] 等一下就教
+[3262.0s -> 3263.0s] 但是因為
+[3263.0s -> 3264.0s] 你們身部中
+[3264.0s -> 3266.0s] 你們不會變成是
+[3266.0s -> 3267.0s] 誰
+[3267.0s -> 3269.0s] 因為我的
+[3269.0s -> 3270.0s] 因為我看他
+[3270.0s -> 3271.0s] 有教一些
+[3271.0s -> 3272.0s] 中師的
+[3272.0s -> 3273.0s] 當然
+[3273.0s -> 3275.0s] 就是我們老師
+[3275.0s -> 3276.0s] 應該說
+[3276.0s -> 3277.0s] 雙語班的
+[3277.0s -> 3278.0s] 就是客
+[3278.0s -> 3279.0s] 比較小
+[3279.0s -> 3280.0s] 所以他們的
+[3280.0s -> 3281.0s] 助教就是
+[3281.0s -> 3282.0s] 那一班的
+[3282.0s -> 3283.0s] 英文老師
+[3283.0s -> 3284.0s] 假設像
+[3284.0s -> 3285.0s] 英文老師
+[3285.0s -> 3286.0s] 他就是
+[3286.0s -> 3287.0s] 他們哪一個
+[3287.0s -> 3288.0s] 外師的助教
+[3288.0s -> 3289.0s] 對
+[3289.0s -> 3290.0s] 那是我們
+[3290.0s -> 3291.0s] 另外我們
+[3291.0s -> 3293.0s] 兩個小
+[3293.0s -> 3294.0s] 我們這兩個班
+[3294.0s -> 3296.0s] 只要客太多了
+[3296.0s -> 3297.0s] 我們客室
+[3297.0s -> 3298.0s] 所以
+[3298.0s -> 3300.0s] 只有我們這兩個班
+[3300.0s -> 3301.0s] 就是另外
+[3301.0s -> 3302.0s] 有
+[3302.0s -> 3303.0s] 送助助教
+[3303.0s -> 3304.0s] 但這助教
+[3304.0s -> 3305.0s] 也都是
+[3305.0s -> 3306.0s] 一樣的
+[3306.0s -> 3307.0s] 是
+[3307.0s -> 3308.0s] 只是他
+[3308.0s -> 3309.0s] 就少教一個
+[3309.0s -> 3310.0s] 班幾個重點
+[3310.0s -> 3311.0s] 他就是
+[3311.0s -> 3312.0s] 變成他
+[3312.0s -> 3313.0s] 要在
+[3313.0s -> 3315.0s] 在裡面
+[3315.0s -> 3316.0s] 那你也只有
+[3316.0s -> 3317.0s] 小一
+[3317.0s -> 3318.0s] 因為怕
+[3318.0s -> 3319.0s] 溝通上的照
+[3319.0s -> 3320.0s] 小二的
+[3320.0s -> 3321.0s] 小二的外師客
+[3321.0s -> 3322.0s] 不會有中師
+[3322.0s -> 3323.0s] 不會有
+[3323.0s -> 3324.0s] 不會有助教
+[3324.0s -> 3326.0s] 也要練習
+[3326.0s -> 3327.0s] 對
+[3327.0s -> 3328.0s] 連老師都
+[3328.0s -> 3329.0s] 都沒砍會
+[3329.0s -> 3330.0s] 好不好
+[3330.0s -> 3331.0s] 對啊
+[3331.0s -> 3332.0s] 對
+[3332.0s -> 3333.0s] 要自己幫忙
+[3333.0s -> 3334.0s] 對
+[3334.0s -> 3335.0s] 老師
+[3335.0s -> 3336.0s] 你覺得
+[3336.0s -> 3337.0s] 略良
+[3337.0s -> 3338.0s] 他算
+[3338.0s -> 3339.0s] 因為上手
+[3339.0s -> 3341.0s] 你覺得
+[3341.0s -> 3342.0s] 他的那個學習
+[3342.0s -> 3343.0s] 如果
+[3343.0s -> 3344.0s] 他假設
+[3344.0s -> 3345.0s] 你一個
+[3345.0s -> 3346.0s] 他的表現
+[3346.0s -> 3347.0s] 有專心的話
+[3347.0s -> 3348.0s] 其實他在
+[3348.0s -> 3349.0s] 能力上
+[3349.0s -> 3350.0s] 其實
+[3350.0s -> 3351.0s] 假設他是
+[3351.0s -> 3352.0s] 他
+[3352.0s -> 3354.0s] 是可以
+[3354.0s -> 3355.0s] 有
+[3355.0s -> 3356.0s] 算是有潛力
+[3356.0s -> 3357.0s] 就是小二的
+[3357.0s -> 3358.0s] 小二的潛力
+[3358.0s -> 3359.0s] 對
+[3359.0s -> 3360.0s] 小二的潛力
+[3360.0s -> 3361.0s] 我覺得
+[3361.0s -> 3363.0s] 我不知道
+[3363.0s -> 3364.0s] 我覺得
+[3364.0s -> 3366.0s] 反正
+[3366.0s -> 3367.0s] 你不要擔心
+[3367.0s -> 3368.0s] 他身上
+[3368.0s -> 3369.0s] 二人級
+[3369.0s -> 3370.0s] 他的
+[3370.0s -> 3371.0s] 老師是誰
+[3371.0s -> 3372.0s] 我一定會
+[3372.0s -> 3373.0s] 去跟他教解
+[3373.0s -> 3374.0s] 我們都會
+[3374.0s -> 3375.0s] 這樣
+[3375.0s -> 3376.0s] 我們一定會教解
+[3376.0s -> 3377.0s] 孩子的狀況
+[3377.0s -> 3379.0s] 因為
+[3379.0s -> 3381.0s] 我們都會去看
+[3381.0s -> 3382.0s] 別的老師的名單
+[3382.0s -> 3383.0s] 所以這個
+[3383.0s -> 3384.0s] 以前是我的
+[3384.0s -> 3385.0s] 這個鳥
+[3385.0s -> 3386.0s] 注意什麼
+[3386.0s -> 3388.0s] 我們都會教解
+[3388.0s -> 3389.0s] 對
+[3389.0s -> 3390.0s] 我們一定都會教解
+[3390.0s -> 3391.0s] 就是我們自己
+[3391.0s -> 3392.0s] 老師直接
+[3392.0s -> 3393.0s] 拿到名單
+[3393.0s -> 3395.0s] 互相跟對方講一下
+[3395.0s -> 3396.0s] 然後
+[3396.0s -> 3397.0s] 這七個
+[3397.0s -> 3398.0s] 是我的
+[3398.0s -> 3399.0s] 每一個大概是
+[3399.0s -> 3400.0s] 什麼樣子
+[3400.0s -> 3401.0s] 對
+[3401.0s -> 3402.0s] 我也讓他
+[3402.0s -> 3403.0s] 比較快享受
+[3403.0s -> 3404.0s] 好
+[3404.0s -> 3405.0s] 那
+[3405.0s -> 3406.0s] 那像他
+[3406.0s -> 3407.0s] 上課就是
+[3407.0s -> 3408.0s] 還蠻常理
+[3408.0s -> 3409.0s] 這個
+[3409.0s -> 3410.0s] 房地平息
+[3410.0s -> 3411.0s] 就是心理
+[3411.0s -> 3412.0s] 心理
+[3412.0s -> 3413.0s] 心理
+[3413.0s -> 3414.0s] 分析
+[3414.0s -> 3415.0s] 他們已經分開了
+[3415.0s -> 3416.0s] 很久
+[3416.0s -> 3417.0s] 他們好像
+[3417.0s -> 3418.0s] 即興做
+[3418.0s -> 3419.0s] 他們兩個
+[3419.0s -> 3420.0s] 會在那邊
+[3420.0s -> 3421.0s] 對
+[3421.0s -> 3422.0s] 剛剛上課
+[3422.0s -> 3423.0s] 避充
+[3423.0s -> 3424.0s] 但是上課
+[3424.0s -> 3425.0s] 避兼
+[3425.0s -> 3426.0s] 你不會影響到
+[3426.0s -> 3427.0s] 你們在教科
+[3427.0s -> 3428.0s] 對
+[3428.0s -> 3429.0s] 因為在後面
+[3429.0s -> 3430.0s] 那個
+[3430.0s -> 3431.0s] 還會
+[3431.0s -> 3432.0s] 會處理他
+[3432.0s -> 3433.0s] 對
+[3433.0s -> 3434.0s] 他在後面
+[3434.0s -> 3435.0s] 所以就還好
+[3435.0s -> 3436.0s] 對
+[3436.0s -> 3437.0s] 好
+[3437.0s -> 3438.0s] 主要
+[3438.0s -> 3439.0s] 主要我覺得
+[3439.0s -> 3440.0s] 他現在
+[3440.0s -> 3441.0s] 影響他學習
+[3441.0s -> 3442.0s] 專心度
+[3442.0s -> 3443.0s] 專心度
+[3443.0s -> 3444.0s] 那個真的要
+[3444.0s -> 3445.0s] 要我們
+[3445.0s -> 3446.0s] 對
+[3446.0s -> 3447.0s] 因為
+[3447.0s -> 3448.0s] 二年級
+[3448.0s -> 3449.0s] 東西
+[3449.0s -> 3450.0s] 真的是
+[3450.0s -> 3451.0s] 算是比較緊
+[3451.0s -> 3452.0s] 對
+[3452.0s -> 3453.0s] 二年級
+[3453.0s -> 3454.0s] 是一個
+[3454.0s -> 3455.0s] 完全
+[3455.0s -> 3456.0s] 越來越難
+[3456.0s -> 3457.0s] 所以
+[3457.0s -> 3458.0s] 他會
+[3458.0s -> 3459.0s] 他現在
+[3459.0s -> 3460.0s] 是中間
+[3460.0s -> 3461.0s] 電落
+[3461.0s -> 3462.0s] 但是
+[3462.0s -> 3463.0s] 將來
+[3463.0s -> 3464.0s] 他可能
+[3464.0s -> 3465.0s] 還是中間
+[3465.0s -> 3466.0s] 電落
+[3466.0s -> 3467.0s] 但是
+[3467.0s -> 3468.0s] 他的距離
+[3468.0s -> 3469.0s] 會更點越
+[3469.0s -> 3470.0s] 因為
+[3470.0s -> 3471.0s] 東西一直進來了
+[3471.0s -> 3472.0s] 對
+[3472.0s -> 3473.0s] 因為
+[3473.0s -> 3474.0s] 會變大
+[3474.0s -> 3475.0s] 所以
+[3475.0s -> 3476.0s] 變成
+[3476.0s -> 3477.0s] 我覺得
+[3477.0s -> 3478.0s] 他要解決
+[3478.0s -> 3479.0s] 我的時候
+[3479.0s -> 3480.0s] 先讓他
+[3480.0s -> 3481.0s] 有
+[3481.0s -> 3483.0s] 雖然他的專注
+[3483.0s -> 3484.0s] 那周邊
+[3484.0s -> 3485.0s] 因為其實
+[3485.0s -> 3486.0s] 我們就是
+[3486.0s -> 3487.0s] 有在
+[3487.0s -> 3488.0s] 嘗試
+[3488.0s -> 3489.0s] 一些線上的一對
+[3489.0s -> 3490.0s] 因為
+[3490.0s -> 3491.0s] 我覺得
+[3491.0s -> 3492.0s] 我覺得
+[3492.0s -> 3493.0s] 我也不太適合
+[3493.0s -> 3494.0s] 讓他
+[3494.0s -> 3495.0s] 去上
+[3495.0s -> 3496.0s] 外面的例如
+[3496.0s -> 3497.0s] 說
+[3497.0s -> 3498.0s] 那種
+[3498.0s -> 3499.0s] 他
+[3499.0s -> 3500.0s] 因為
+[3500.0s -> 3501.0s] 他
+[3501.0s -> 3502.0s] 目前
+[3502.0s -> 3503.0s] 就是
+[3503.0s -> 3504.0s] 他的
+[3504.0s -> 3505.0s] 應該是
+[3505.0s -> 3506.0s] 加長
+[3506.0s -> 3507.0s] 應該是
+[3507.0s -> 3508.0s] 可能
+[3508.0s -> 3509.0s] 這會比較適合他
+[3509.0s -> 3510.0s] 我
+[3510.0s -> 3511.0s] 沒有用過這種東西
+[3511.0s -> 3512.0s] 我
+[3512.0s -> 3513.0s] 知道
+[3513.0s -> 3514.0s] 我這個東西
+[3514.0s -> 3515.0s] 現在兩件
+[3515.0s -> 3516.0s] 很多家長在居家
+[3516.0s -> 3517.0s] 都會做這個
+[3517.0s -> 3518.0s] 對
+[3518.0s -> 3519.0s] 就是不用充門
+[3519.0s -> 3520.0s] 尤其
+[3520.0s -> 3521.0s] 像我們回家
+[3521.0s -> 3522.0s] 也沒有在於
+[3522.0s -> 3523.0s] 我們又帶去
+[3523.0s -> 3524.0s] 另外一個機構
+[3524.0s -> 3525.0s] 所以
+[3525.0s -> 3526.0s] 可能
+[3526.0s -> 3527.0s] 還是要
+[3527.0s -> 3528.0s] 像老師
+[3528.0s -> 3529.0s] 應該講一對一
+[3529.0s -> 3530.0s] 或是
+[3530.0s -> 3531.0s] 我覺得
+[3531.0s -> 3532.0s] 我不知道
+[3532.0s -> 3533.0s] 因為我那天
+[3533.0s -> 3534.0s] 是覺得
+[3534.0s -> 3535.0s] 我會希望
+[3535.0s -> 3536.0s] 如果
+[3536.0s -> 3537.0s] 我會建議
+[3537.0s -> 3538.0s] 他要有
+[3538.0s -> 3539.0s] 一個老師
+[3539.0s -> 3540.0s] 一對一
+[3540.0s -> 3541.0s] 或是線上
+[3541.0s -> 3542.0s] 其實線上
+[3542.0s -> 3543.0s] 我看不到
+[3543.0s -> 3544.0s] 他說的是
+[3544.0s -> 3545.0s] 真人
+[3545.0s -> 3546.0s] 對
+[3546.0s -> 3547.0s] 因為
+[3547.0s -> 3548.0s] 他其實
+[3548.0s -> 3549.0s] 做到
+[3549.0s -> 3550.0s] 後面的時候
+[3550.0s -> 3551.0s] 抽籍零件
+[3551.0s -> 3552.0s] 我馬上可以出現他
+[3552.0s -> 3553.0s] 但是線上
+[3553.0s -> 3554.0s] 今天好像是
+[3554.0s -> 3555.0s] 是看
+[3555.0s -> 3556.0s] 你透過
+[3556.0s -> 3557.0s] 螢幕
+[3557.0s -> 3558.0s] 我剛會想像的是
+[3558.0s -> 3559.0s] 透過螢幕
+[3559.0s -> 3560.0s] 或是
+[3560.0s -> 3561.0s] 就沒辦法
+[3561.0s -> 3563.0s] 發現這件事情
+[3563.0s -> 3564.0s] 變成說
+[3564.0s -> 3565.0s] 加長要在旁邊
+[3565.0s -> 3566.0s] 因為他其實
+[3566.0s -> 3567.0s] 超平息
+[3567.0s -> 3568.0s] 遠端空
+[3568.0s -> 3569.0s] 遠端稍微
+[3569.0s -> 3570.0s] 點醒一下他
+[3570.0s -> 3571.0s] 對
+[3571.0s -> 3572.0s] 那可能
+[3572.0s -> 3573.0s] 那可能變成說
+[3573.0s -> 3574.0s] 去可能
+[3574.0s -> 3576.0s] 先事上看看
+[3576.0s -> 3577.0s] 對
+[3577.0s -> 3578.0s] 我不是
+[3578.0s -> 3579.0s] 因為我畢竟
+[3579.0s -> 3580.0s] 還是要提起
+[3580.0s -> 3581.0s] 他的一些
+[3581.0s -> 3582.0s] 真的想要認真學習的
+[3582.0s -> 3583.0s] 動機要打開
+[3583.0s -> 3584.0s] 動機打開
+[3584.0s -> 3585.0s] 可能就會有助於
+[3585.0s -> 3586.0s] 他將來二年級
+[3586.0s -> 3587.0s] 上週
+[3587.0s -> 3588.0s] 我覺得
+[3588.0s -> 3589.0s] 對
+[3589.0s -> 3590.0s] 我覺得
+[3590.0s -> 3591.0s] 對
+[3591.0s -> 3592.0s] 真人
+[3592.0s -> 3593.0s] 在旁邊
+[3593.0s -> 3594.0s] 可比較恰的
+[3594.0s -> 3595.0s] 對
+[3595.0s -> 3596.0s] 就是真人的身份
+[3596.0s -> 3597.0s] 很高
+[3597.0s -> 3598.0s] 真的
+[3598.0s -> 3599.0s] 我剛
+[3599.0s -> 3600.0s] 上次我記得
+[3600.0s -> 3601.0s] 你在外面
+[3601.0s -> 3603.0s] 那邊有跟我分享
+[3603.0s -> 3604.0s] 跟你有一個
+[3604.0s -> 3605.0s] 懂同事的小孩
+[3605.0s -> 3606.0s] 好像邦建哪間
+[3606.0s -> 3607.0s] 我忘記
+[3607.0s -> 3608.0s] 也是10小
+[3608.0s -> 3609.0s] 然後他一年級
+[3609.0s -> 3610.0s] 超
+[3610.0s -> 3611.0s] 不過他那個
+[3611.0s -> 3612.0s] 是
+[3612.0s -> 3613.0s] 有點跟不上
+[3613.0s -> 3614.0s] 然後我來就跟上
+[3614.0s -> 3615.0s] 因為那是加教
+[3615.0s -> 3616.0s] 對
+[3616.0s -> 3617.0s] 他是加小
+[3617.0s -> 3618.0s] 而且就是
+[3618.0s -> 3620.0s] 找離子的老師
+[3620.0s -> 3621.0s] 而且還是
+[3621.0s -> 3622.0s] 用學校教才
+[3622.0s -> 3623.0s] 對
+[3623.0s -> 3625.0s] 回去幫他重新
+[3625.0s -> 3626.0s] 然後他
+[3626.0s -> 3627.0s] 因為他那個教採
+[3627.0s -> 3628.0s] 就是
+[3628.0s -> 3629.0s] 因為
+[3629.0s -> 3630.0s] 他那個
+[3630.0s -> 3631.0s] 其實就很明顯的是
+[3631.0s -> 3632.0s] 你已經有
+[3632.0s -> 3633.0s] 掌握到
+[3633.0s -> 3634.0s] 今天會學什麼
+[3634.0s -> 3635.0s] 然後你又在
+[3635.0s -> 3636.0s] 你會
+[3636.0s -> 3637.0s] 你會自己回到這個狀態
+[3637.0s -> 3638.0s] 不會飄掉
+[3638.0s -> 3639.0s] 因為他
+[3639.0s -> 3640.0s] 畢竟自己
+[3640.0s -> 3641.0s] 對
+[3641.0s -> 3642.0s] 他就是
+[3642.0s -> 3643.0s] 已經先操了
+[3643.0s -> 3644.0s] 先被人力
+[3644.0s -> 3646.0s] 五十能夠
+[3646.0s -> 3647.0s] 因為進行
+[3647.0s -> 3649.0s] 他的進行
+[3649.0s -> 3650.0s] 畢竟
+[3650.0s -> 3651.0s] 就是
+[3651.0s -> 3652.0s] 比較
+[3652.0s -> 3653.0s] 比較重新
+[3653.0s -> 3654.0s] 對
+[3654.0s -> 3655.0s] 他的先被人力
+[3655.0s -> 3656.0s] 跟其他同學比起來
+[3656.0s -> 3657.0s] 所以
+[3657.0s -> 3658.0s] 他
+[3658.0s -> 3659.0s] 有點像
+[3659.0s -> 3660.0s] 他現在
+[3660.0s -> 3661.0s] 越像到了狀況
+[3661.0s -> 3662.0s] 可是
+[3662.0s -> 3663.0s] 那也是先段的
+[3663.0s -> 3664.0s] 成績很漂亮
+[3664.0s -> 3665.0s] 因為他的成績
+[3665.0s -> 3666.0s] 對
+[3666.0s -> 3667.0s] 他的成績是
+[3667.0s -> 3668.0s] 是
+[3668.0s -> 3669.0s] 應該都他的成績看起來
+[3669.0s -> 3670.0s] 九十四分
+[3670.0s -> 3671.0s] 你會不會
+[3671.0s -> 3672.0s] 不知道他
+[3672.0s -> 3673.0s] 是所謂的學員
+[3673.0s -> 3674.0s] 你不夠的
+[3674.0s -> 3675.0s] 對
+[3675.0s -> 3676.0s] 可是你看
+[3676.0s -> 3677.0s] 他
+[3677.0s -> 3679.0s] 他發無聊
+[3679.0s -> 3680.0s] 那成績
+[3680.0s -> 3681.0s] 拿回來
+[3681.0s -> 3682.0s] 全部的成績
+[3682.0s -> 3683.0s] 一個一個踢進去
+[3683.0s -> 3684.0s] 重新跑
+[3684.0s -> 3685.0s] 那個年代他還可以
+[3685.0s -> 3686.0s] 那個年代
+[3686.0s -> 3687.0s] 還有全部成績可以看
+[3687.0s -> 3688.0s] 因為現在不死了
+[3688.0s -> 3689.0s] 現在不行
+[3689.0s -> 3690.0s] 他就有全部成績
+[3690.0s -> 3691.0s] 成績跑
+[3691.0s -> 3692.0s] 比較好看
+[3692.0s -> 3693.0s] 好看
+[3693.0s -> 3694.0s] 好看
+[3694.0s -> 3695.0s] 而且
+[3695.0s -> 3696.0s] 因為他們那個時候
+[3696.0s -> 3697.0s] 你知道
+[3697.0s -> 3698.0s] 好吃
+[3698.0s -> 3699.0s] 然後他
+[3699.0s -> 3700.0s] 有國語
+[3700.0s -> 3701.0s] 國語
+[3701.0s -> 3702.0s] 每一顆
+[3702.0s -> 3703.0s] 他就是
+[3703.0s -> 3705.0s] 把全部成績都輸入
+[3705.0s -> 3706.0s] 而且
+[3706.0s -> 3707.0s] 他每一顆都在後面
+[3707.0s -> 3708.0s] 對
+[3708.0s -> 3709.0s] 因為你這樣子亂排的時候
+[3709.0s -> 3711.0s] 我沒有看不出來
+[3711.0s -> 3713.0s] 九十三九十你會覺得
+[3713.0s -> 3715.0s] 他都
+[3715.0s -> 3716.0s] 結他都九五到一半
+[3716.0s -> 3717.0s] 對
+[3717.0s -> 3718.0s] 對
+[3718.0s -> 3719.0s] 對
+[3719.0s -> 3720.0s] 那一次這樣
+[3720.0s -> 3722.0s] 很像他們合班
+[3722.0s -> 3724.0s] 因為像合班
+[3724.0s -> 3725.0s] 我知道的是
+[3725.0s -> 3726.0s] 國語就
+[3726.0s -> 3727.0s] 國語數學
+[3727.0s -> 3728.0s] 對
+[3728.0s -> 3730.0s] 都好像滿高分的
+[3730.0s -> 3732.0s] 原來是這樣
+[3732.0s -> 3733.0s] 現在都不行
+[3733.0s -> 3734.0s] 現在不行
+[3734.0s -> 3735.0s] 現在上不出來
+[3735.0s -> 3736.0s] 可是現在我們年紀
+[3736.0s -> 3737.0s] 就說
+[3737.0s -> 3738.0s] 因為像竹林
+[3738.0s -> 3739.0s] 就譬如說
+[3739.0s -> 3740.0s] 八十到八九會幾個了
+[3740.0s -> 3741.0s] 可是我們連這個
+[3741.0s -> 3742.0s] 好像都沒有了
+[3742.0s -> 3743.0s] 因為剛剛跟我說
+[3743.0s -> 3744.0s] 他們連這個都不會
+[3744.0s -> 3745.0s] 因為現在
+[3745.0s -> 3747.0s] 現在說這個
+[3747.0s -> 3748.0s] 不是不給
+[3748.0s -> 3749.0s] 可是因為有些家長
+[3749.0s -> 3750.0s] 會希望這樣
+[3750.0s -> 3751.0s] 要知道
+[3751.0s -> 3752.0s] 就是
+[3752.0s -> 3754.0s] 不能
+[3754.0s -> 3755.0s] 教育局的公會
+[3755.0s -> 3756.0s] 是說
+[3756.0s -> 3757.0s] 不能排名
+[3757.0s -> 3758.0s] 可是沒有
+[3758.0s -> 3759.0s] 可是有的時候
+[3759.0s -> 3760.0s] 主劇
+[3760.0s -> 3761.0s] 主劇
+[3761.0s -> 3762.0s] 像排名
+[3762.0s -> 3763.0s] 像迅裝
+[3763.0s -> 3764.0s] 他們會有以上
+[3764.0s -> 3765.0s] 然後可是三個
+[3765.0s -> 3767.0s] 那就是排名了
+[3767.0s -> 3768.0s] 我就太明顯的
+[3768.0s -> 3769.0s] 對不對
+[3769.0s -> 3770.0s] 對
+[3770.0s -> 3771.0s] 所以我自己
+[3771.0s -> 3772.0s] 主劇我是不給
+[3772.0s -> 3773.0s] 只是繞個圈
+[3773.0s -> 3774.0s] 然後我會
+[3774.0s -> 3775.0s] 可是
+[3775.0s -> 3776.0s] 那你要
+[3776.0s -> 3777.0s] 像是
+[3777.0s -> 3778.0s] 像是
+[3778.0s -> 3779.0s] 像是
+[3779.0s -> 3780.0s] 像是
+[3780.0s -> 3781.0s] 有一個
+[3781.0s -> 3782.0s] 我就寫在
+[3782.0s -> 3783.0s] 聯絡不少
+[3783.0s -> 3784.0s] 個別問我的
+[3784.0s -> 3785.0s] 我就把我們班的
+[3785.0s -> 3786.0s] 那你會怎麼
+[3786.0s -> 3787.0s] 寫在
+[3787.0s -> 3788.0s] 聯絡不少
+[3788.0s -> 3790.0s] 那我要問你
+[3790.0s -> 3791.0s] 我寫到
+[3791.0s -> 3792.0s] 小孩的位置
+[3792.0s -> 3793.0s] 如果他小孩寶寶寫
+[3793.0s -> 3794.0s] 就寫
+[3794.0s -> 3795.0s] 從一百九十八十
+[3795.0s -> 3796.0s] 剩下我就不寫
+[3796.0s -> 3797.0s] 你之前
+[3797.0s -> 3798.0s] 他小孩就停掉了
+[3798.0s -> 3799.0s] 我寫到
+[3799.0s -> 3800.0s] 小孩的位置
+[3800.0s -> 3801.0s] 就好
+[3801.0s -> 3802.0s] 對
+[3802.0s -> 3803.0s] 那就是
+[3803.0s -> 3804.0s] 他在你的
+[3804.0s -> 3805.0s] 成績是假
+[3805.0s -> 3806.0s] 你跟
+[3806.0s -> 3807.0s] 覺得家臣是假
+[3807.0s -> 3808.0s] 對
+[3808.0s -> 3809.0s] 所以他就是
+[3809.0s -> 3810.0s] 八十幾
+[3810.0s -> 3811.0s] 就是
+[3811.0s -> 3812.0s] 是優嗎
+[3812.0s -> 3813.0s] 那我們班
+[3813.0s -> 3815.0s] 應該很少
+[3815.0s -> 3816.0s] 2
+[3816.0s -> 3817.0s] 2
+[3817.0s -> 3818.0s] 他有跟我
+[3818.0s -> 3819.0s] 說有幾個
+[3819.0s -> 3820.0s] 好像猶靠
+[3820.0s -> 3821.0s] 猶得過什麼
+[3821.0s -> 3822.0s] 他沒有比
+[3822.0s -> 3823.0s] 他猶猶猶猶猶猶猶猶猶猶猶猶
+[3823.0s -> 3824.0s] 我不知道
+[3824.0s -> 3825.0s] 他就說
+[3825.0s -> 3826.0s] 說有幾個
+[3826.0s -> 3827.0s] 我都説
+[3827.0s -> 3828.0s] 他説
+[3828.0s -> 3829.0s] 因為
+[3829.0s -> 3830.0s] 老師在發考
+[3852.0s -> 3853.0s] 問題
+[3853.0s -> 3854.0s] 真的
+[3854.0s -> 3856.6s] 對啊,那就是排肥嗎?
+[3856.6s -> 3858.6s] 對啊,那就是排肥
+[3858.6s -> 3861.3s] 所以我就是,如果你吃下去,問我
+[3861.3s -> 3863.5s] 寫人會不問我,就是寫人會不少
+[3863.5s -> 3865.8s] 我們現在可以吃這個孩子的成績
+[3865.8s -> 3867.8s] 不要寫像阿里的
+[3867.8s -> 3870.3s] 對啊,你考怕幾個館,要六七十個
+[3870.3s -> 3872.1s] 對啊,你早上你的結局在哪裡
+[3872.1s -> 3873.3s] 所以這樣可以接受
+[3873.3s -> 3875.0s] 因為他其實一直想吃到阿小孩
+[3875.0s -> 3876.2s] 他都不想吃到
+[3876.2s -> 3878.1s] 對啊,他沒有,他覺得沒有
+[3878.1s -> 3879.0s] 這個對他來做沒有
+[3879.0s -> 3881.3s] 嗯,OK,好啊
+[3881.3s -> 3883.3s] 那,好,大概就這樣一下
+[3883.3s -> 3884.3s] 廣義
+[3884.3s -> 3885.3s] 不用再信了
+[3885.3s -> 3886.3s] 二年級
+[3886.3s -> 3887.3s] 反正我們會交接
+[3887.3s -> 3888.3s] 應該好啊
+[3888.3s -> 3890.3s] 其實大家都好吃都還不錯
+[3890.3s -> 3891.3s] 嗯,對
+[3891.3s -> 3892.3s] 因為他
+[3892.3s -> 3894.3s] 其實我們感謝就是他的英文的情
+[3894.3s -> 3895.3s] 或是你跟覺得
+[3895.3s -> 3896.3s] 我覺得他可能喜歡你哪個
+[3896.3s -> 3897.3s] 就是他
+[3897.3s -> 3898.3s] 在於
+[3898.3s -> 3899.3s] 我先講
+[3899.3s -> 3901.3s] 因為剛好有比較
+[3901.3s -> 3902.3s] 就是因為我覺得相對
+[3902.3s -> 3903.3s] 雖然說他全部
+[3903.3s -> 3904.3s] 國藝術三科
+[3904.3s -> 3905.3s] 英文是完全這裡
+[3905.3s -> 3906.3s] 可是我覺得
+[3906.3s -> 3909.3s] 他的熱誠跟喜歡度是
+[3909.3s -> 3910.3s] 自容階晚的
+[3910.3s -> 3911.3s] 那是好事啊
+[3911.3s -> 3912.3s] 對對對
+[3912.3s -> 3913.3s] 就是沒有讓
+[3913.3s -> 3914.3s] 沒有那個
+[3914.3s -> 3915.3s] 英文的味道
+[3915.3s -> 3916.3s] 有慢慢把他養養大
+[3916.3s -> 3917.3s] 對對對
+[3917.3s -> 3918.3s] 對啊
+[3918.3s -> 3919.3s] 對啊
+[3919.3s -> 3921.3s] 在家就讓他多看
+[3921.3s -> 3922.3s] 多接觸了
+[3922.3s -> 3923.3s] 要讓他一整天課本
+[3923.3s -> 3924.3s] 他會有
+[3924.3s -> 3925.3s] 而且他會全面
+[3925.3s -> 3926.3s] 借客的筆記哦
+[3926.3s -> 3927.3s] 筆記是什麼意思
+[3927.3s -> 3928.3s] 就是
+[3928.3s -> 3929.3s] OK,他有
+[3929.3s -> 3931.3s] 有留事學借客的簽名
+[3933.3s -> 3935.3s] 哦,我懂了
+[3935.3s -> 3936.3s] 他喜歡
+[3936.3s -> 3937.3s] 你都覺得很
+[3937.3s -> 3938.3s] 很好
+[3938.3s -> 3939.3s] 很好
+[3939.3s -> 3940.3s] 他喜歡
+[3940.3s -> 3941.3s] 我會自己喜歡
+[3941.3s -> 3942.3s] 對
+[3942.3s -> 3943.3s] 好像他喜歡
+[3943.3s -> 3944.3s] 不是他寫的
+[3944.3s -> 3946.3s] 他幾個搖寫的
+[3946.3s -> 3947.3s] 沒有事
+[3947.3s -> 3948.3s] 他寫的
+[3948.3s -> 3949.3s] 我傻眼
+[3949.3s -> 3950.3s] 對
+[3950.3s -> 3951.3s] 他會去
+[3951.3s -> 3952.3s] 模仿
+[3953.3s -> 3954.3s] 模仿他
+[3954.3s -> 3956.3s] 幫他們大人
+[3956.3s -> 3958.3s] 目標就學得大
+[3958.3s -> 3959.3s] 她就是 poster
+[3959.3s -> 3960.3s] 我們才會讓她進來實力
+[3960.3s -> 3962.3s] 她的確他們班
+[3962.3s -> 3963.3s] 都穩定
+[3963.3s -> 3964.3s] 他們班學中
+[3964.3s -> 3965.3s] 都是定的幾個長
+[3965.3s -> 3966.3s] 對,老師跟同學
+[3966.3s -> 3967.3s] 部分
+[3967.3s -> 3970.0s] 對 我覺得老師要憑個緊嗎
+[3970.0s -> 3971.2s] 對 如果是不用兇
+[3971.2s -> 3972.4s] 但這老是要憑個緊嗎
+[3972.4s -> 3975.3s] 對 就是那個不能散掉的
+[3975.3s -> 3978.1s] 對 因為其實你一散就有公平
+[3978.1s -> 3980.8s] 因為你在這邊有有沒有15年啊
+[3980.8s -> 3981.6s] 16
+[3981.6s -> 3985.2s] 你在這邊也看到很多老師的那個怎麼樣
+[3985.2s -> 3986.5s] 帶乾風格吧
+[3986.5s -> 3989.0s] 對 小小老師也很久了
+[3989.0s -> 3991.7s] 他是不是也很久 魯老師
+[3991.7s -> 3992.7s] 五月
+[3992.7s -> 3994.3s] 應該比你之前吧
+[3994.3s -> 3997.1s] 對 因為他幾乎每個老師
+[3997.1s -> 3998.1s] 大概五分鐘
+[3998.1s -> 4000.7s] 他說一年幾乎其實老師大概就
+[4000.7s -> 4002.7s] 對 比較結構性大家什麼的
+[4002.7s -> 4005.3s] 所有的 都要過
+[4005.3s -> 4007.9s] 像國際法老師是有特點條過
+[4007.9s -> 4009.9s] 國際法滿老師有特點條過
+[4009.9s -> 4012.4s] 應該知道我滿資深的
+[4012.4s -> 4014.7s] 這幾個都是資深的
+[4014.7s -> 4015.3s] 對啦
+[4015.3s -> 4017.6s] 國際法師說當然也是資深的
+[4017.6s -> 4019.4s] 但是別班也有資深的
+[4019.4s -> 4020.5s] 對 又有資深的
+[4020.5s -> 4021.5s] 對
+[4021.5s -> 4022.3s] 對啊
+[4022.3s -> 4024.4s] 我們想說那時候有點擔心
+[4024.4s -> 4025.5s] 什麼人來以為禮財
+[4025.5s -> 4028.4s] 因為他不會達成那麽久了
+[4028.4s -> 4029.9s] 不是 但是他很錯誤
+[4029.9s -> 4032.5s] 他很錯誤就該要離開啦
+[4032.5s -> 4034.8s] 就可以也是有麽十年
+[4034.8s -> 4036.7s] 有那麽久嗎
+[4036.7s -> 4038.1s] 就要差不多
+[4038.1s -> 4040.4s] 我看
+[4040.4s -> 4042.4s] 大概八年左右
+[4042.4s -> 4043.5s] 那也很久
+[4043.5s -> 4045.2s] 一個壞事可以待那麽久
+[4045.2s -> 4047.2s] 對啊 他滿久的
+[4047.2s -> 4048.9s] 八年左右吧
+[4048.9s -> 4051.0s] 可是他 你們有半件別會嗎
+[4051.0s -> 4052.3s] 沒有
+[4052.3s -> 4053.7s] 還是外國人比較那個
+[4053.7s -> 4054.5s] 就比較沒有
+[4054.5s -> 4056.0s] 不會那些外國人
+[4056.0s -> 4057.2s] 不太很好
+[4058.5s -> 4060.4s] 他們外事會跟外事掛一起玩
+[4060.4s -> 4062.2s] 不是一起玩 一起互動
+[4062.2s -> 4063.5s] 不是
+[4063.5s -> 4065.8s] 反正你們都種種是你的事
+[4065.8s -> 4068.0s] 就是大家也還好
+[4068.0s -> 4068.5s] 我要謝謝
+[4068.5s -> 4070.5s] 好 媽媽老師 謝謝你
+[4070.5s -> 4071.5s] 謝謝
+[4071.5s -> 4072.5s] 謝謝你 謝謝
